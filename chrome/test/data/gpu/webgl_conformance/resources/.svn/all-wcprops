@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/91578/trunk/deps/third_party/webgl/sdk/tests/resources
+END
+js-test-post.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/91578/trunk/deps/third_party/webgl/sdk/tests/resources/js-test-post.js
+END
+js-test-pre.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/91578/trunk/deps/third_party/webgl/sdk/tests/resources/js-test-pre.js
+END
+webgl-test-harness.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/91578/trunk/deps/third_party/webgl/sdk/tests/resources/webgl-test-harness.js
+END
+desktop-gl-constants.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/91578/trunk/deps/third_party/webgl/sdk/tests/resources/desktop-gl-constants.js
+END
+js-test-style.css
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/91578/trunk/deps/third_party/webgl/sdk/tests/resources/js-test-style.css
+END

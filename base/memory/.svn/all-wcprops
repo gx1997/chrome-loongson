@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/133825/trunk/src/base/memory
+END
+ref_counted_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/133825/trunk/src/base/memory/ref_counted_unittest.cc
+END
+linked_ptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/79524/trunk/src/base/memory/linked_ptr.h
+END
+ref_counted.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/79524/trunk/src/base/memory/ref_counted.cc
+END
+aligned_memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/123270/trunk/src/base/memory/aligned_memory.h
+END
+scoped_vector_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/131098/trunk/src/base/memory/scoped_vector_unittest.cc
+END
+scoped_open_process.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/79524/trunk/src/base/memory/scoped_open_process.h
+END
+ref_counted.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/119820/trunk/src/base/memory/ref_counted.h
+END
+singleton_objc.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/79524/trunk/src/base/memory/singleton_objc.h
+END
+scoped_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/129019/trunk/src/base/memory/scoped_vector.h
+END
+scoped_ptr_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/131098/trunk/src/base/memory/scoped_ptr_unittest.cc
+END
+singleton_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/131098/trunk/src/base/memory/singleton_unittest.cc
+END
+singleton.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/108853/trunk/src/base/memory/singleton.cc
+END
+singleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/123270/trunk/src/base/memory/singleton.h
+END
+scoped_ptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/130835/trunk/src/base/memory/scoped_ptr.h
+END
+scoped_generic_obj.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/105399/trunk/src/base/memory/scoped_generic_obj.h
+END
+scoped_nsobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/121215/trunk/src/base/memory/scoped_nsobject.h
+END
+weak_ptr_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/131098/trunk/src/base/memory/weak_ptr_unittest.cc
+END
+weak_ptr.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/98443/trunk/src/base/memory/weak_ptr.cc
+END
+scoped_ptr_unittest.nc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130835/trunk/src/base/memory/scoped_ptr_unittest.nc
+END
+weak_ptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/124141/trunk/src/base/memory/weak_ptr.h
+END
+raw_scoped_refptr_mismatch_checker.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/79524/trunk/src/base/memory/raw_scoped_refptr_mismatch_checker.h
+END
+ref_counted_memory_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/93617/trunk/src/base/memory/ref_counted_memory_unittest.cc
+END
+ref_counted_memory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/133825/trunk/src/base/memory/ref_counted_memory.cc
+END
+mru_cache_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/103236/trunk/src/base/memory/mru_cache_unittest.cc
+END
+ref_counted_memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/133825/trunk/src/base/memory/ref_counted_memory.h
+END
+scoped_nsobject_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/121215/trunk/src/base/memory/scoped_nsobject_unittest.mm
+END
+mru_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/115365/trunk/src/base/memory/mru_cache.h
+END
+linked_ptr_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/131098/trunk/src/base/memory/linked_ptr_unittest.cc
+END
+scoped_handle.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/79524/trunk/src/base/memory/scoped_handle.h
+END
+aligned_memory_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/123270/trunk/src/base/memory/aligned_memory_unittest.cc
+END

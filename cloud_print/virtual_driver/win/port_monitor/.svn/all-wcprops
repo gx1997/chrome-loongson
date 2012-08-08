@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/131212/trunk/src/cloud_print/virtual_driver/win/port_monitor
+END
+port_monitor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/131212/trunk/src/cloud_print/virtual_driver/win/port_monitor/port_monitor.cc
+END
+port_monitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/80716/trunk/src/cloud_print/virtual_driver/win/port_monitor/port_monitor.h
+END
+spooler_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/80716/trunk/src/cloud_print/virtual_driver/win/port_monitor/spooler_win.h
+END
+port_monitor.def
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/81505/trunk/src/cloud_print/virtual_driver/win/port_monitor/port_monitor.def
+END
+virtual_driver_port_monitor.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/127911/trunk/src/cloud_print/virtual_driver/win/port_monitor/virtual_driver_port_monitor.gyp
+END
+port_monitor_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/122365/trunk/src/cloud_print/virtual_driver/win/port_monitor/port_monitor_unittest.cc
+END

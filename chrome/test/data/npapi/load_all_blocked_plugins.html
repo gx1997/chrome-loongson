@@ -1,0 +1,30 @@
+<html>
+<head>
+<script>
+function onSuccess(name, id) {
+  setTimeout(onFinished, 0, name, id, "OK");
+}
+
+function onFailure(name, id, status) {
+  setTimeout(onFinished, 0, name, id, status);
+}
+
+function onFinished(name, id, result) {
+  var cookie = name + "." + id + ".status=" + result + "; path=/";
+  document.cookie = cookie;
+}
+
+var id = 1;
+function inject() {
+  var child = document.createElement("div");
+  child.innerHTML = '<embed type="application/vnd.npapi-test" src="foo" '+
+                           'name="setup" id="'+id+'" mode="np_embed">';
+  document.getElementById("content").appendChild(child);
+  id++;
+}
+</script>
+</head>
+<body onload="inject();">
+<div id="content"></div>
+</body>
+</html>

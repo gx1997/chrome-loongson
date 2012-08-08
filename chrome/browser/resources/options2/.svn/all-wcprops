@@ -1,0 +1,641 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/134857/trunk/src/chrome/browser/resources/options2
+END
+search_engine_manager_engine_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/126807/trunk/src/chrome/browser/resources/options2/search_engine_manager_engine_list.js
+END
+search_box.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/133383/trunk/src/chrome/browser/resources/options2/search_box.html
+END
+autofill_options.css
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/132992/trunk/src/chrome/browser/resources/options2/autofill_options.css
+END
+browser_options_startup_page_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/126763/trunk/src/chrome/browser/resources/options2/browser_options_startup_page_list.js
+END
+password_manager.css
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/129916/trunk/src/chrome/browser/resources/options2/password_manager.css
+END
+autofill_edit_creditcard_overlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/125931/trunk/src/chrome/browser/resources/options2/autofill_edit_creditcard_overlay.js
+END
+manage_profile_overlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/130560/trunk/src/chrome/browser/resources/options2/manage_profile_overlay.js
+END
+instant_confirm_overlay.css
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/121595/trunk/src/chrome/browser/resources/options2/instant_confirm_overlay.css
+END
+clear_browser_data_overlay.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/126414/trunk/src/chrome/browser/resources/options2/clear_browser_data_overlay.html
+END
+startup_section.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/130025/trunk/src/chrome/browser/resources/options2/startup_section.html
+END
+settings_dialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/125931/trunk/src/chrome/browser/resources/options2/settings_dialog.js
+END
+import_data_overlay.css
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/120750/trunk/src/chrome/browser/resources/options2/import_data_overlay.css
+END
+autofill_options.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/126414/trunk/src/chrome/browser/resources/options2/autofill_options.html
+END
+content_settings_exceptions_area.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/125931/trunk/src/chrome/browser/resources/options2/content_settings_exceptions_area.js
+END
+certificate_edit_ca_trust_overlay.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/134611/trunk/src/chrome/browser/resources/options2/certificate_edit_ca_trust_overlay.html
+END
+instant_confirm_overlay.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/126414/trunk/src/chrome/browser/resources/options2/instant_confirm_overlay.html
+END
+options_page.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/134055/trunk/src/chrome/browser/resources/options2/options_page.js
+END
+certificate_manager.css
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/132687/trunk/src/chrome/browser/resources/options2/certificate_manager.css
+END
+autofill_options.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/120618/trunk/src/chrome/browser/resources/options2/autofill_options.js
+END
+startup_overlay.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/126414/trunk/src/chrome/browser/resources/options2/startup_overlay.html
+END
+spelling_confirm_overlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/132916/trunk/src/chrome/browser/resources/options2/spelling_confirm_overlay.js
+END
+certificate_edit_ca_trust_overlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/125931/trunk/src/chrome/browser/resources/options2/certificate_edit_ca_trust_overlay.js
+END
+instant_confirm_overlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/126076/trunk/src/chrome/browser/resources/options2/instant_confirm_overlay.js
+END
+alert_overlay.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/126414/trunk/src/chrome/browser/resources/options2/alert_overlay.html
+END
+font_settings.css
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/120750/trunk/src/chrome/browser/resources/options2/font_settings.css
+END
+inline_editable_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/125964/trunk/src/chrome/browser/resources/options2/inline_editable_list.js
+END
+options_page.css
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/133383/trunk/src/chrome/browser/resources/options2/options_page.css
+END
+handler_options.css
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/120750/trunk/src/chrome/browser/resources/options2/handler_options.css
+END
+spelling_confirm_overlay.css
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/132916/trunk/src/chrome/browser/resources/options2/spelling_confirm_overlay.css
+END
+alert_overlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/126232/trunk/src/chrome/browser/resources/options2/alert_overlay.js
+END
+certificate_tree.css
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/122672/trunk/src/chrome/browser/resources/options2/certificate_tree.css
+END
+certificate_restore_overlay.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/126414/trunk/src/chrome/browser/resources/options2/certificate_restore_overlay.html
+END
+font_settings.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/126414/trunk/src/chrome/browser/resources/options2/font_settings.html
+END
+session_restore_overlay.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/128441/trunk/src/chrome/browser/resources/options2/session_restore_overlay.html
+END
+options.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/134857/trunk/src/chrome/browser/resources/options2/options.html
+END
+home_page_overlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/127199/trunk/src/chrome/browser/resources/options2/home_page_overlay.js
+END
+font_settings.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/133983/trunk/src/chrome/browser/resources/options2/font_settings.js
+END
+certificate_restore_overlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/125931/trunk/src/chrome/browser/resources/options2/certificate_restore_overlay.js
+END
+cookies_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/132375/trunk/src/chrome/browser/resources/options2/cookies_list.js
+END
+language_add_language_overlay.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/133055/trunk/src/chrome/browser/resources/options2/language_add_language_overlay.html
+END
+search_page.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/133383/trunk/src/chrome/browser/resources/options2/search_page.html
+END
+certificate_backup_overlay.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/126414/trunk/src/chrome/browser/resources/options2/certificate_backup_overlay.html
+END
+profiles_icon_grid.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/125931/trunk/src/chrome/browser/resources/options2/profiles_icon_grid.js
+END
+autofill_edit_overlay.css
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/126807/trunk/src/chrome/browser/resources/options2/autofill_edit_overlay.css
+END
+autofill_edit_creditcard_overlay.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/126414/trunk/src/chrome/browser/resources/options2/autofill_edit_creditcard_overlay.html
+END
+manage_profile_overlay.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/126414/trunk/src/chrome/browser/resources/options2/manage_profile_overlay.html
+END
+preferences.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/114462/trunk/src/chrome/browser/resources/options2/preferences.js
+END
+cookies_view.css
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/132604/trunk/src/chrome/browser/resources/options2/cookies_view.css
+END
+content_settings.css
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/127302/trunk/src/chrome/browser/resources/options2/content_settings.css
+END
+certificate_backup_overlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/125931/trunk/src/chrome/browser/resources/options2/certificate_backup_overlay.js
+END
+browser_options_profile_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/125931/trunk/src/chrome/browser/resources/options2/browser_options_profile_list.js
+END
+browser_options.css
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/133738/trunk/src/chrome/browser/resources/options2/browser_options.css
+END
+language_options.css
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/133055/trunk/src/chrome/browser/resources/options2/language_options.css
+END
+content_settings_exceptions_area.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/126414/trunk/src/chrome/browser/resources/options2/content_settings_exceptions_area.html
+END
+search_engine_manager.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/126414/trunk/src/chrome/browser/resources/options2/search_engine_manager.html
+END
+search_page.css
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/120295/trunk/src/chrome/browser/resources/options2/search_page.css
+END
+certificate_import_error_overlay.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/126414/trunk/src/chrome/browser/resources/options2/certificate_import_error_overlay.html
+END
+cookies_view.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/131816/trunk/src/chrome/browser/resources/options2/cookies_view.html
+END
+autofill_edit_address_overlay.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/126414/trunk/src/chrome/browser/resources/options2/autofill_edit_address_overlay.html
+END
+content_settings.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/127538/trunk/src/chrome/browser/resources/options2/content_settings.html
+END
+clear_browser_data_overlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/114462/trunk/src/chrome/browser/resources/options2/clear_browser_data_overlay.js
+END
+spelling_confirm_overlay.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/132916/trunk/src/chrome/browser/resources/options2/spelling_confirm_overlay.html
+END
+password_manager.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/129851/trunk/src/chrome/browser/resources/options2/password_manager.html
+END
+search_engine_manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/125931/trunk/src/chrome/browser/resources/options2/search_engine_manager.js
+END
+alert_overlay.css
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/120750/trunk/src/chrome/browser/resources/options2/alert_overlay.css
+END
+manage_profile_overlay.css
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/120750/trunk/src/chrome/browser/resources/options2/manage_profile_overlay.css
+END
+autofill_options_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/126807/trunk/src/chrome/browser/resources/options2/autofill_options_list.js
+END
+cookies_view.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/132632/trunk/src/chrome/browser/resources/options2/cookies_view.js
+END
+browser_options.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/134692/trunk/src/chrome/browser/resources/options2/browser_options.html
+END
+certificate_import_error_overlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/121194/trunk/src/chrome/browser/resources/options2/certificate_import_error_overlay.js
+END
+language_options.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/133055/trunk/src/chrome/browser/resources/options2/language_options.html
+END
+password_manager_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/132707/trunk/src/chrome/browser/resources/options2/password_manager_list.js
+END
+pref_ui.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/128997/trunk/src/chrome/browser/resources/options2/pref_ui.js
+END
+content_settings.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/134038/trunk/src/chrome/browser/resources/options2/content_settings.js
+END
+autofill_edit_address_overlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/132633/trunk/src/chrome/browser/resources/options2/autofill_edit_address_overlay.js
+END
+import_data_overlay.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/126806/trunk/src/chrome/browser/resources/options2/import_data_overlay.html
+END
+password_manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/132177/trunk/src/chrome/browser/resources/options2/password_manager.js
+END
+browser_options.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/133562/trunk/src/chrome/browser/resources/options2/browser_options.js
+END
+language_options.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/134134/trunk/src/chrome/browser/resources/options2/language_options.js
+END
+subpages_tab_controls.css
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/132687/trunk/src/chrome/browser/resources/options2/subpages_tab_controls.css
+END
+clear_browser_data_overlay.css
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/129916/trunk/src/chrome/browser/resources/options2/clear_browser_data_overlay.css
+END
+certificate_tree.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/125931/trunk/src/chrome/browser/resources/options2/certificate_tree.js
+END
+password_manager_list.css
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/126807/trunk/src/chrome/browser/resources/options2/password_manager_list.css
+END
+startup_overlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/127543/trunk/src/chrome/browser/resources/options2/startup_overlay.js
+END
+certificate_manager.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/132687/trunk/src/chrome/browser/resources/options2/certificate_manager.html
+END
+import_data_overlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/126806/trunk/src/chrome/browser/resources/options2/import_data_overlay.js
+END
+success-large.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/114297/trunk/src/chrome/browser/resources/options2/success-large.png
+END
+certificate_manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/126273/trunk/src/chrome/browser/resources/options2/certificate_manager.js
+END
+home_page_overlay.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/130324/trunk/src/chrome/browser/resources/options2/home_page_overlay.html
+END
+language_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/134427/trunk/src/chrome/browser/resources/options2/language_list.js
+END
+startup_overlay.css
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/126727/trunk/src/chrome/browser/resources/options2/startup_overlay.css
+END
+handler_options.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/126414/trunk/src/chrome/browser/resources/options2/handler_options.html
+END
+handler_options_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/125931/trunk/src/chrome/browser/resources/options2/handler_options_list.js
+END
+options_bundle.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/133966/trunk/src/chrome/browser/resources/options2/options_bundle.js
+END
+content_settings_ui.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/114462/trunk/src/chrome/browser/resources/options2/content_settings_ui.js
+END
+session_restore_overlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/128441/trunk/src/chrome/browser/resources/options2/session_restore_overlay.js
+END
+handler_options.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/125931/trunk/src/chrome/browser/resources/options2/handler_options.js
+END
+sync_section.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/129217/trunk/src/chrome/browser/resources/options2/sync_section.html
+END
+deletable_item_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/126861/trunk/src/chrome/browser/resources/options2/deletable_item_list.js
+END
+options.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/132916/trunk/src/chrome/browser/resources/options2/options.js
+END
+language_add_language_overlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/125931/trunk/src/chrome/browser/resources/options2/language_add_language_overlay.js
+END
+search_engine_manager.css
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/133295/trunk/src/chrome/browser/resources/options2/search_engine_manager.css
+END
+search_page.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/133383/trunk/src/chrome/browser/resources/options2/search_page.js
+END
+home_page_overlay.css
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/130324/trunk/src/chrome/browser/resources/options2/home_page_overlay.css
+END
+controlled_setting.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/121194/trunk/src/chrome/browser/resources/options2/controlled_setting.js
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/132657/trunk/src/chrome/browser/resources/options2/OWNERS
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/132499/trunk/src/chrome/browser/visitedlink
+END
+visitedlink_event_listener.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/125388/trunk/src/chrome/browser/visitedlink/visitedlink_event_listener.cc
+END
+visitedlink_event_listener.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/110940/trunk/src/chrome/browser/visitedlink/visitedlink_event_listener.h
+END
+visitedlink_master.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/132499/trunk/src/chrome/browser/visitedlink/visitedlink_master.cc
+END
+visitedlink_perftest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/85088/trunk/src/chrome/browser/visitedlink/visitedlink_perftest.cc
+END
+visitedlink_master.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/132499/trunk/src/chrome/browser/visitedlink/visitedlink_master.h
+END
+visitedlink_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/132499/trunk/src/chrome/browser/visitedlink/visitedlink_unittest.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/121469/trunk/src/chrome/browser/visitedlink/OWNERS
+END

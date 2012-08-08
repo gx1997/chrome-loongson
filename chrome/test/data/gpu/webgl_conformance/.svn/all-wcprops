@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/91578/trunk/deps/third_party/webgl/sdk/tests
+END
+00_test_list.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/91578/trunk/deps/third_party/webgl/sdk/tests/00_test_list.txt
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/91578/trunk/deps/third_party/webgl/sdk/tests/README.txt
+END
+webgl-conformance-tests.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/91578/trunk/deps/third_party/webgl/sdk/tests/webgl-conformance-tests.html
+END

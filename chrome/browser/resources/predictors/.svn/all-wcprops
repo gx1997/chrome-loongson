@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/134865/trunk/src/chrome/browser/resources/predictors
+END
+autocomplete_action_predictor.css
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/134865/trunk/src/chrome/browser/resources/predictors/autocomplete_action_predictor.css
+END
+autocomplete_action_predictor.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/134865/trunk/src/chrome/browser/resources/predictors/autocomplete_action_predictor.js
+END
+autocomplete_action_predictor.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/134865/trunk/src/chrome/browser/resources/predictors/autocomplete_action_predictor.html
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/134865/trunk/src/chrome/browser/resources/predictors/OWNERS
+END

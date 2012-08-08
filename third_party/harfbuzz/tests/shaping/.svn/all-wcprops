@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/95926/trunk/src/third_party/harfbuzz/tests/shaping
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/13214/trunk/src/third_party/harfbuzz/tests/shaping/.gitignore
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/95926/trunk/src/third_party/harfbuzz/tests/shaping/main.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/13214/trunk/src/third_party/harfbuzz/tests/shaping/Makefile.am
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/13214/trunk/src/third_party/harfbuzz/tests/shaping/README
+END

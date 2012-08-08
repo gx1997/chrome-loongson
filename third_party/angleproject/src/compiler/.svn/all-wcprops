@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/146/trunk/src/compiler
+END
+MMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/37/trunk/src/compiler/MMap.h
+END
+glslang.l
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/98/trunk/src/compiler/glslang.l
+END
+QualifierAlive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/37/trunk/src/compiler/QualifierAlive.cpp
+END
+Initialize.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/62/trunk/src/compiler/Initialize.h
+END
+InitializeGlobals.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/37/trunk/src/compiler/InitializeGlobals.h
+END
+TranslatorGLSL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/69/trunk/src/compiler/TranslatorGLSL.cpp
+END
+glslang.y
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/120/trunk/src/compiler/glslang.y
+END
+SymbolTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/37/trunk/src/compiler/SymbolTable.cpp
+END
+ParseHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/37/trunk/src/compiler/ParseHelper.h
+END
+InfoSink.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/103/trunk/src/compiler/InfoSink.cpp
+END
+TranslatorHLSL.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/69/trunk/src/compiler/TranslatorHLSL.h
+END
+RemoveTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/37/trunk/src/compiler/RemoveTree.h
+END
+OutputHLSL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/144/trunk/src/compiler/OutputHLSL.cpp
+END
+CodeGenGLSL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/69/trunk/src/compiler/CodeGenGLSL.cpp
+END
+intermOut.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/69/trunk/src/compiler/intermOut.cpp
+END
+OutputGLSL.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/69/trunk/src/compiler/OutputGLSL.h
+END
+PoolAlloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/37/trunk/src/compiler/PoolAlloc.h
+END
+translator_hlsl.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/146/trunk/src/compiler/translator_hlsl.vcproj
+END
+Common.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/37/trunk/src/compiler/Common.h
+END
+Initialize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/37/trunk/src/compiler/Initialize.cpp
+END
+ossource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/37/trunk/src/compiler/ossource.cpp
+END
+InitializeDll.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/37/trunk/src/compiler/InitializeDll.h
+END
+BaseTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/37/trunk/src/compiler/BaseTypes.h
+END
+InitializeParseContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/37/trunk/src/compiler/InitializeParseContext.h
+END
+QualifierAlive.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/37/trunk/src/compiler/QualifierAlive.h
+END
+ConstantUnion.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/69/trunk/src/compiler/ConstantUnion.h
+END
+ShaderLang.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/145/trunk/src/compiler/ShaderLang.cpp
+END
+Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/127/trunk/src/compiler/Types.h
+END
+ParseHelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/37/trunk/src/compiler/ParseHelper.cpp
+END
+IntermTraverse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/37/trunk/src/compiler/IntermTraverse.cpp
+END
+Intermediate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/116/trunk/src/compiler/Intermediate.cpp
+END
+unistd.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/37/trunk/src/compiler/unistd.h
+END
+TranslatorHLSL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/126/trunk/src/compiler/TranslatorHLSL.cpp
+END
+RemoveTree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/37/trunk/src/compiler/RemoveTree.cpp
+END
+intermediate.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/127/trunk/src/compiler/intermediate.h
+END
+TranslatorGLSL.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/69/trunk/src/compiler/TranslatorGLSL.h
+END
+parseConst.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/37/trunk/src/compiler/parseConst.cpp
+END
+OutputGLSL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/91/trunk/src/compiler/OutputGLSL.cpp
+END
+translator_common.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/146/trunk/src/compiler/translator_common.vcproj
+END
+SymbolTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/83/trunk/src/compiler/SymbolTable.h
+END
+PoolAlloc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/37/trunk/src/compiler/PoolAlloc.cpp
+END
+InfoSink.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/103/trunk/src/compiler/InfoSink.h
+END
+CodeGenHLSL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/69/trunk/src/compiler/CodeGenHLSL.cpp
+END
+OutputHLSL.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/143/trunk/src/compiler/OutputHLSL.h
+END
+localintermediate.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/62/trunk/src/compiler/localintermediate.h
+END
+osinclude.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/37/trunk/src/compiler/osinclude.h
+END
+ShHandle.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/69/trunk/src/compiler/ShHandle.h
+END
+Link.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/69/trunk/src/compiler/Link.cpp
+END
+InitializeDll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/62/trunk/src/compiler/InitializeDll.cpp
+END

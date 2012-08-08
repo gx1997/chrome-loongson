@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/134682/trunk/src/ui/test
+END
+run_all_unittests.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/129717/trunk/src/ui/test/run_all_unittests.cc
+END
+test_suite.cc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/134682/trunk/src/ui/test/test_suite.cc
+END
+test_suite.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/129717/trunk/src/ui/test/test_suite.h
+END

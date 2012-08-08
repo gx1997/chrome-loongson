@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/133011/trunk/src/chrome/browser/ui/views/autocomplete
+END
+autocomplete_popup_contents_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/133011/trunk/src/chrome/browser/ui/views/autocomplete/autocomplete_popup_contents_view.cc
+END
+autocomplete_result_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/124125/trunk/src/chrome/browser/ui/views/autocomplete/autocomplete_result_view.h
+END
+autocomplete_result_view_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/82112/trunk/src/chrome/browser/ui/views/autocomplete/autocomplete_result_view_model.h
+END
+autocomplete_popup_contents_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/130289/trunk/src/chrome/browser/ui/views/autocomplete/autocomplete_popup_contents_view.h
+END
+touch_autocomplete_popup_contents_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/130289/trunk/src/chrome/browser/ui/views/autocomplete/touch_autocomplete_popup_contents_view.cc
+END
+touch_autocomplete_popup_contents_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/126935/trunk/src/chrome/browser/ui/views/autocomplete/touch_autocomplete_popup_contents_view.h
+END
+autocomplete_result_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/131618/trunk/src/chrome/browser/ui/views/autocomplete/autocomplete_result_view.cc
+END

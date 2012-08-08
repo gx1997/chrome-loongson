@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/134762/trunk/src/chrome/browser/resources/options2/chromeos
+END
+set_wallpaper_options.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/127689/trunk/src/chrome/browser/resources/options2/chromeos/set_wallpaper_options.html
+END
+accounts_user_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/126163/trunk/src/chrome/browser/resources/options2/chromeos/accounts_user_list.js
+END
+preferred_networks.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/127949/trunk/src/chrome/browser/resources/options2/chromeos/preferred_networks.js
+END
+warning.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/114297/trunk/src/chrome/browser/resources/options2/chromeos/warning.png
+END
+set_wallpaper_options.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/133602/trunk/src/chrome/browser/resources/options2/chromeos/set_wallpaper_options.js
+END
+language_mozc_options.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/126414/trunk/src/chrome/browser/resources/options2/chromeos/language_mozc_options.html
+END
+accounts_options.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/132177/trunk/src/chrome/browser/resources/options2/chromeos/accounts_options.html
+END
+internet_detail_ip_config_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/126163/trunk/src/chrome/browser/resources/options2/chromeos/internet_detail_ip_config_list.js
+END
+virtual_keyboard.css
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/120750/trunk/src/chrome/browser/resources/options2/chromeos/virtual_keyboard.css
+END
+change_picture_options.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/126923/trunk/src/chrome/browser/resources/options2/chromeos/change_picture_options.html
+END
+language_hangul_options.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/126414/trunk/src/chrome/browser/resources/options2/chromeos/language_hangul_options.html
+END
+headset.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/114297/trunk/src/chrome/browser/resources/options2/chromeos/headset.png
+END
+bluetooth_add_device_overlay.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/126414/trunk/src/chrome/browser/resources/options2/chromeos/bluetooth_add_device_overlay.html
+END
+internet_detail.css
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/132687/trunk/src/chrome/browser/resources/options2/chromeos/internet_detail.css
+END
+cellular_plan_element.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/122452/trunk/src/chrome/browser/resources/options2/chromeos/cellular_plan_element.js
+END
+proxy_rules_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/126163/trunk/src/chrome/browser/resources/options2/chromeos/proxy_rules_list.js
+END
+bluetooth_pair_device_overlay.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/126938/trunk/src/chrome/browser/resources/options2/chromeos/bluetooth_pair_device_overlay.html
+END
+set_wallpaper_options.css
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/128472/trunk/src/chrome/browser/resources/options2/chromeos/set_wallpaper_options.css
+END
+keyboard_overlay.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/133864/trunk/src/chrome/browser/resources/options2/chromeos/keyboard_overlay.html
+END
+accounts_options.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/132177/trunk/src/chrome/browser/resources/options2/chromeos/accounts_options.js
+END
+language_chewing_options.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/126414/trunk/src/chrome/browser/resources/options2/chromeos/language_chewing_options.html
+END
+image_picker.css
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/126923/trunk/src/chrome/browser/resources/options2/chromeos/image_picker.css
+END
+change_picture_options.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/127936/trunk/src/chrome/browser/resources/options2/chromeos/change_picture_options.js
+END
+bluetooth_add_device_overlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/131882/trunk/src/chrome/browser/resources/options2/chromeos/bluetooth_add_device_overlay.js
+END
+virtual_keyboard.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/126414/trunk/src/chrome/browser/resources/options2/chromeos/virtual_keyboard.html
+END
+bluetooth_pair_device_overlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/128558/trunk/src/chrome/browser/resources/options2/chromeos/bluetooth_pair_device_overlay.js
+END
+mouse.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/114297/trunk/src/chrome/browser/resources/options2/chromeos/mouse.png
+END
+virtual_keyboard_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/126163/trunk/src/chrome/browser/resources/options2/chromeos/virtual_keyboard_list.js
+END
+keyboard_overlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/128386/trunk/src/chrome/browser/resources/options2/chromeos/keyboard_overlay.js
+END
+internet_detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/133818/trunk/src/chrome/browser/resources/options2/chromeos/internet_detail.html
+END
+virtual_keyboard.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/126163/trunk/src/chrome/browser/resources/options2/chromeos/virtual_keyboard.js
+END
+keyboard.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/114297/trunk/src/chrome/browser/resources/options2/chromeos/keyboard.png
+END
+pointer_overlay.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/134762/trunk/src/chrome/browser/resources/options2/chromeos/pointer_overlay.html
+END
+internet_detail.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/133966/trunk/src/chrome/browser/resources/options2/chromeos/internet_detail.js
+END
+language_pinyin_options.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/126414/trunk/src/chrome/browser/resources/options2/chromeos/language_pinyin_options.html
+END
+bluetooth_device_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/128478/trunk/src/chrome/browser/resources/options2/chromeos/bluetooth_device_list.js
+END
+bluetooth.css
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/127475/trunk/src/chrome/browser/resources/options2/chromeos/bluetooth.css
+END
+pointer_overlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/128370/trunk/src/chrome/browser/resources/options2/chromeos/pointer_overlay.js
+END
+accounts_user_name_edit.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/126163/trunk/src/chrome/browser/resources/options2/chromeos/accounts_user_name_edit.js
+END
+network_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/133966/trunk/src/chrome/browser/resources/options2/chromeos/network_list.js
+END
+pointer_overlay.css
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/120750/trunk/src/chrome/browser/resources/options2/chromeos/pointer_overlay.css
+END
+accounts_options_page.css
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/132177/trunk/src/chrome/browser/resources/options2/chromeos/accounts_options_page.css
+END
+preferred_networks.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/126414/trunk/src/chrome/browser/resources/options2/chromeos/preferred_networks.html
+END

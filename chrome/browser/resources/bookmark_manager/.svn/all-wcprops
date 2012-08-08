@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/132679/trunk/src/chrome/browser/resources/bookmark_manager
+END
+main.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/131775/trunk/src/chrome/browser/resources/bookmark_manager/main.html
+END
+bookmark_all_tabs.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/125688/trunk/src/chrome/browser/resources/bookmark_manager/bookmark_all_tabs.html
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/115302/trunk/src/chrome/browser/resources/bookmark_manager/manifest.json
+END

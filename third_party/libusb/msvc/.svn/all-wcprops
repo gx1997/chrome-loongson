@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/msvc
+END
+libusb_dll.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/msvc/libusb_dll.dsp
+END
+ddk_build.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/msvc/ddk_build.cmd
+END
+libusb_sources
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/msvc/libusb_sources
+END
+inttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/msvc/inttypes.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/msvc/config.h
+END
+lsusb_sources
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/msvc/lsusb_sources
+END
+stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/msvc/stdint.h
+END
+libusb.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/msvc/libusb.dsw
+END
+libusb_static.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/msvc/libusb_static.dsp
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/134814/trunk/src/remoting/client
+END
+rectangle_update_decoder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/129355/trunk/src/remoting/client/rectangle_update_decoder.cc
+END
+key_event_mapper_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/131321/trunk/src/remoting/client/key_event_mapper_unittest.cc
+END
+rectangle_update_decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/133801/trunk/src/remoting/client/rectangle_update_decoder.h
+END
+key_event_mapper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/131321/trunk/src/remoting/client/key_event_mapper.cc
+END
+frame_producer.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/125536/trunk/src/remoting/client/frame_producer.h
+END
+key_event_mapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/131321/trunk/src/remoting/client/key_event_mapper.h
+END
+client_config.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/119816/trunk/src/remoting/client/client_config.cc
+END
+chromoting_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/130320/trunk/src/remoting/client/chromoting_view.h
+END
+client_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/119816/trunk/src/remoting/client/client_config.h
+END
+frame_consumer_proxy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/133801/trunk/src/remoting/client/frame_consumer_proxy.cc
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/103533/trunk/src/remoting/client/DEPS
+END
+chromoting_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/130320/trunk/src/remoting/client/chromoting_client.cc
+END
+frame_consumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/123573/trunk/src/remoting/client/frame_consumer.h
+END
+frame_consumer_proxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/133801/trunk/src/remoting/client/frame_consumer_proxy.h
+END
+chromoting_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/130023/trunk/src/remoting/client/chromoting_client.h
+END
+client_context.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/116279/trunk/src/remoting/client/client_context.cc
+END
+client_context.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/116279/trunk/src/remoting/client/client_context.h
+END
+chromoting_stats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/119535/trunk/src/remoting/client/chromoting_stats.cc
+END
+chromoting_stats.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/107121/trunk/src/remoting/client/chromoting_stats.h
+END

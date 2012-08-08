@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/133961/trunk/src/chrome/browser/ui/virtual_keyboard
+END
+virtual_keyboard_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/133961/trunk/src/chrome/browser/ui/virtual_keyboard/virtual_keyboard_manager.cc
+END
+virtual_keyboard_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/111192/trunk/src/chrome/browser/ui/virtual_keyboard/virtual_keyboard_manager.h
+END
+virtual_keyboard_manager_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/111077/trunk/src/chrome/browser/ui/virtual_keyboard/virtual_keyboard_manager_browsertest.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/103238/trunk/src/chrome/browser/ui/virtual_keyboard/OWNERS
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/130327/trunk/src/ui/views/ime
+END
+input_method_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/110787/trunk/src/ui/views/ime/input_method_base.h
+END
+input_method_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/112469/trunk/src/ui/views/ime/input_method_delegate.h
+END
+input_method_bridge.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/128715/trunk/src/ui/views/ime/input_method_bridge.cc
+END
+input_method_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/110787/trunk/src/ui/views/ime/input_method_win.cc
+END
+input_method_bridge.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/117751/trunk/src/ui/views/ime/input_method_bridge.h
+END
+input_method_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/112333/trunk/src/ui/views/ime/input_method_win.h
+END
+text_input_type_tracker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/110399/trunk/src/ui/views/ime/text_input_type_tracker.cc
+END
+input_method.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/130327/trunk/src/ui/views/ime/input_method.h
+END
+text_input_type_tracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/112469/trunk/src/ui/views/ime/text_input_type_tracker.h
+END
+mock_input_method.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/111077/trunk/src/ui/views/ime/mock_input_method.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/110399/trunk/src/ui/views/ime/OWNERS
+END
+input_method_base.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/113131/trunk/src/ui/views/ime/input_method_base.cc
+END
+mock_input_method.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/112333/trunk/src/ui/views/ime/mock_input_method.h
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/133349/trunk/src/chrome/browser/sync/api
+END
+sync_data.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/133349/trunk/src/chrome/browser/sync/api/sync_data.cc
+END
+fake_syncable_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/133251/trunk/src/chrome/browser/sync/api/fake_syncable_service.cc
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/133349/trunk/src/chrome/browser/sync/api/DEPS
+END
+sync_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/126872/trunk/src/chrome/browser/sync/api/sync_data.h
+END
+fake_syncable_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/133251/trunk/src/chrome/browser/sync/api/fake_syncable_service.h
+END
+sync_error_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/133251/trunk/src/chrome/browser/sync/api/sync_error_factory.cc
+END
+sync_error_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/133251/trunk/src/chrome/browser/sync/api/sync_error_factory.h
+END
+syncable_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/86357/trunk/src/chrome/browser/sync/api/syncable_service.cc
+END
+sync_change_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/126872/trunk/src/chrome/browser/sync/api/sync_change_unittest.cc
+END
+sync_change_processor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/105431/trunk/src/chrome/browser/sync/api/sync_change_processor.cc
+END
+sync_change.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/107200/trunk/src/chrome/browser/sync/api/sync_change.cc
+END
+syncable_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/133251/trunk/src/chrome/browser/sync/api/syncable_service.h
+END
+sync_change_processor.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/105431/trunk/src/chrome/browser/sync/api/sync_change_processor.h
+END
+sync_change.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/102407/trunk/src/chrome/browser/sync/api/sync_change.h
+END
+sync_error_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/103068/trunk/src/chrome/browser/sync/api/sync_error_unittest.cc
+END
+sync_error.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/126872/trunk/src/chrome/browser/sync/api/sync_error.cc
+END
+sync_error_factory_mock.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/133251/trunk/src/chrome/browser/sync/api/sync_error_factory_mock.cc
+END
+sync_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/126872/trunk/src/chrome/browser/sync/api/sync_error.h
+END
+sync_error_factory_mock.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/133251/trunk/src/chrome/browser/sync/api/sync_error_factory_mock.h
+END

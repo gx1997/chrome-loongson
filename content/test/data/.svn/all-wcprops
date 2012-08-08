@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/134212/trunk/src/content/test/data
+END
+speechmusic_mono_16kHz.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/109031/trunk/src/content/test/data/speechmusic_mono_16kHz.pcm
+END
+gtk_key_bindings_test_gtkrc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/97889/trunk/src/content/test/data/gtk_key_bindings_test_gtkrc
+END
+english_page.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/132407/trunk/src/content/test/data/english_page.html
+END
+infinite_unload.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/132407/trunk/src/content/test/data/infinite_unload.html
+END
+single_user_demo_mono_16kHz.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/109214/trunk/src/content/test/data/single_user_demo_mono_16kHz.pcm
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/129880/trunk/src/content/test/data/OWNERS
+END
+infinite_beforeunload.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/132407/trunk/src/content/test/data/infinite_beforeunload.html
+END

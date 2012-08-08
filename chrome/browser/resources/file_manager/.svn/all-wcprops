@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/134632/trunk/src/chrome/browser/resources/file_manager
+END
+README.harness
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/117888/trunk/src/chrome/browser/resources/file_manager/README.harness
+END
+mediaplayer.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/132558/trunk/src/chrome/browser/resources/file_manager/mediaplayer.html
+END
+gallery.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/132789/trunk/src/chrome/browser/resources/file_manager/gallery.html
+END
+harness.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/134473/trunk/src/chrome/browser/resources/file_manager/harness.html
+END
+main.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/134477/trunk/src/chrome/browser/resources/file_manager/main.html
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/128755/trunk/src/chrome/browser/resources/file_manager/OWNERS
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/134101/trunk/src/chrome/browser/resources/file_manager/manifest.json
+END

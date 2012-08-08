@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/134460/trunk/src/net/udp
+END
+udp_client_socket.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/113825/trunk/src/net/udp/udp_client_socket.cc
+END
+udp_socket_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/113825/trunk/src/net/udp/udp_socket_unittest.cc
+END
+udp_client_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/113825/trunk/src/net/udp/udp_client_socket.h
+END
+udp_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/77895/trunk/src/net/udp/udp_socket.h
+END
+udp_data_transfer_param.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/134460/trunk/src/net/udp/udp_data_transfer_param.cc
+END
+udp_data_transfer_param.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/134460/trunk/src/net/udp/udp_data_transfer_param.h
+END
+udp_socket_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/113825/trunk/src/net/udp/udp_socket_win.cc
+END
+udp_socket_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/133935/trunk/src/net/udp/udp_socket_win.h
+END
+datagram_server_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/113825/trunk/src/net/udp/datagram_server_socket.h
+END
+udp_server_socket.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/113825/trunk/src/net/udp/udp_server_socket.cc
+END
+udp_socket_libevent.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/113825/trunk/src/net/udp/udp_socket_libevent.cc
+END
+udp_server_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/113825/trunk/src/net/udp/udp_server_socket.h
+END
+datagram_client_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/96560/trunk/src/net/udp/datagram_client_socket.h
+END
+udp_socket_libevent.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/133935/trunk/src/net/udp/udp_socket_libevent.h
+END
+datagram_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/96560/trunk/src/net/udp/datagram_socket.h
+END

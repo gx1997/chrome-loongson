@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/134337/trunk/src/chrome/browser/webdata
+END
+keyword_table.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/134337/trunk/src/chrome/browser/webdata/keyword_table.cc
+END
+keyword_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/132909/trunk/src/chrome/browser/webdata/keyword_table.h
+END
+autofill_profile_syncable_service_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/133320/trunk/src/chrome/browser/webdata/autofill_profile_syncable_service_unittest.cc
+END
+autofill_entry.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/130852/trunk/src/chrome/browser/webdata/autofill_entry.h
+END
+logins_table.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/134155/trunk/src/chrome/browser/webdata/logins_table.cc
+END
+web_data_service_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/113032/trunk/src/chrome/browser/webdata/web_data_service_win.cc
+END
+web_apps_table.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/115574/trunk/src/chrome/browser/webdata/web_apps_table.cc
+END
+token_service_table.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/115574/trunk/src/chrome/browser/webdata/token_service_table.cc
+END
+web_database_migration_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/134155/trunk/src/chrome/browser/webdata/web_database_migration_unittest.cc
+END
+token_service_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/110940/trunk/src/chrome/browser/webdata/token_service_table.h
+END
+web_apps_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/115574/trunk/src/chrome/browser/webdata/web_apps_table.h
+END
+web_database_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/96449/trunk/src/chrome/browser/webdata/web_database_table.h
+END
+logins_table_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/115574/trunk/src/chrome/browser/webdata/logins_table_win.cc
+END
+web_data_service_test_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/108270/trunk/src/chrome/browser/webdata/web_data_service_test_util.h
+END
+autofill_change.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/115456/trunk/src/chrome/browser/webdata/autofill_change.cc
+END
+autofill_table_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/130852/trunk/src/chrome/browser/webdata/autofill_table_unittest.cc
+END
+autofill_table.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/133985/trunk/src/chrome/browser/webdata/autofill_table.cc
+END
+web_intents_table_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/126446/trunk/src/chrome/browser/webdata/web_intents_table_unittest.cc
+END
+web_data_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/134155/trunk/src/chrome/browser/webdata/web_data_service.h
+END
+web_intents_table.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/121330/trunk/src/chrome/browser/webdata/web_intents_table.cc
+END
+keyword_table_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/133483/trunk/src/chrome/browser/webdata/keyword_table_unittest.cc
+END
+autofill_profile_syncable_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/133251/trunk/src/chrome/browser/webdata/autofill_profile_syncable_service.cc
+END
+autofill_entry_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/130852/trunk/src/chrome/browser/webdata/autofill_entry_unittest.cc
+END
+autofill_entry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/130852/trunk/src/chrome/browser/webdata/autofill_entry.cc
+END
+autocomplete_syncable_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/133251/trunk/src/chrome/browser/webdata/autocomplete_syncable_service.cc
+END
+autofill_profile_syncable_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/133251/trunk/src/chrome/browser/webdata/autofill_profile_syncable_service.h
+END
+web_database.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/134155/trunk/src/chrome/browser/webdata/web_database.cc
+END
+autocomplete_syncable_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/133251/trunk/src/chrome/browser/webdata/autocomplete_syncable_service.h
+END
+web_database.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/126465/trunk/src/chrome/browser/webdata/web_database.h
+END
+logins_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/134155/trunk/src/chrome/browser/webdata/logins_table.h
+END
+web_apps_table_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/94702/trunk/src/chrome/browser/webdata/web_apps_table_unittest.cc
+END
+token_service_table_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/94702/trunk/src/chrome/browser/webdata/token_service_table_unittest.cc
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/126872/trunk/src/chrome/browser/webdata/DEPS
+END
+web_database_table.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/96449/trunk/src/chrome/browser/webdata/web_database_table.cc
+END
+web_data_service_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/134218/trunk/src/chrome/browser/webdata/web_data_service_unittest.cc
+END
+autofill_change.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/115456/trunk/src/chrome/browser/webdata/autofill_change.h
+END
+web_data_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/134155/trunk/src/chrome/browser/webdata/web_data_service.cc
+END
+autofill_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/130852/trunk/src/chrome/browser/webdata/autofill_table.h
+END
+web_intents_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/122619/trunk/src/chrome/browser/webdata/web_intents_table.h
+END

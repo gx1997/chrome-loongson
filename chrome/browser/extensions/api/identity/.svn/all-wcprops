@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/134370/trunk/src/chrome/browser/extensions/api/identity
+END
+identity_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/132242/trunk/src/chrome/browser/extensions/api/identity/identity_api.cc
+END
+identity_apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/129642/trunk/src/chrome/browser/extensions/api/identity/identity_apitest.cc
+END
+identity_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/134370/trunk/src/chrome/browser/extensions/api/identity/identity_api.h
+END

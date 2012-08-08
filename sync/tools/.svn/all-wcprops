@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/133109/trunk/src/sync/tools
+END
+sync_listen_notifications.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/133109/trunk/src/sync/tools/sync_listen_notifications.cc
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/133109/trunk/src/sync/tools/DEPS
+END

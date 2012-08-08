@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/133961/trunk/src/ash/tooltips
+END
+tooltip_controller_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/133601/trunk/src/ash/tooltips/tooltip_controller_unittest.cc
+END
+tooltip_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/133961/trunk/src/ash/tooltips/tooltip_controller.cc
+END
+tooltip_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/128186/trunk/src/ash/tooltips/tooltip_controller.h
+END

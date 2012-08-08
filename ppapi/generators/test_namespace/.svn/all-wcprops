@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/91426/trunk/src/ppapi/generators/test_namespace
+END
+foo.idl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/91426/trunk/src/ppapi/generators/test_namespace/foo.idl
+END
+bar.idl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84086/trunk/src/ppapi/generators/test_namespace/bar.idl
+END

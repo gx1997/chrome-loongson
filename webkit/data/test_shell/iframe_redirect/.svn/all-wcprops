@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/18/trunk/src/webkit/data/test_shell/iframe_redirect
+END
+child.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/18/trunk/src/webkit/data/test_shell/iframe_redirect/child.html
+END
+main.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/18/trunk/src/webkit/data/test_shell/iframe_redirect/main.html
+END

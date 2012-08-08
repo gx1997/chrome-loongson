@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/130458/trunk/src/third_party/mesa
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/96776/trunk/src/third_party/mesa/README.chromium
+END
+chromium.patch
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/96776/trunk/src/third_party/mesa/chromium.patch
+END
+mesa.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/130458/trunk/src/third_party/mesa/mesa.gyp
+END
+mesa.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/92046/trunk/src/third_party/mesa/mesa.gypi
+END

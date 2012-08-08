@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/134344/trunk/src/chrome/browser/media
+END
+media_internals_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/128819/trunk/src/chrome/browser/media/media_internals_unittest.cc
+END
+media_internals.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/128819/trunk/src/chrome/browser/media/media_internals.cc
+END
+media_internals.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/128819/trunk/src/chrome/browser/media/media_internals.h
+END
+media_stream_devices_menu_model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/134344/trunk/src/chrome/browser/media/media_stream_devices_menu_model.cc
+END
+media_stream_devices_menu_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/134344/trunk/src/chrome/browser/media/media_stream_devices_menu_model.h
+END
+media_internals_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/92463/trunk/src/chrome/browser/media/media_internals_observer.h
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/95685/trunk/src/chrome/browser/media/DEPS
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/112579/trunk/src/chrome/browser/media/OWNERS
+END

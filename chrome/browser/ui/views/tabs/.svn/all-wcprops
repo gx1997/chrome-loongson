@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/134818/trunk/src/chrome/browser/ui/views/tabs
+END
+browser_tab_strip_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/133930/trunk/src/chrome/browser/ui/views/tabs/browser_tab_strip_controller.cc
+END
+browser_tab_strip_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/133930/trunk/src/chrome/browser/ui/views/tabs/browser_tab_strip_controller.h
+END
+base_tab.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/133930/trunk/src/chrome/browser/ui/views/tabs/base_tab.cc
+END
+native_view_photobooth_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/79586/trunk/src/chrome/browser/ui/views/tabs/native_view_photobooth_win.h
+END
+abstract_tab_strip_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/112333/trunk/src/chrome/browser/ui/views/tabs/abstract_tab_strip_view.h
+END
+tab.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/134536/trunk/src/chrome/browser/ui/views/tabs/tab.cc
+END
+tab_dragging_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/122126/trunk/src/chrome/browser/ui/views/tabs/tab_dragging_test.cc
+END
+tab_drag_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/134194/trunk/src/chrome/browser/ui/views/tabs/tab_drag_controller.h
+END
+default_tab_drag_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/134764/trunk/src/chrome/browser/ui/views/tabs/default_tab_drag_controller.cc
+END
+fake_base_tab_strip_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/133930/trunk/src/chrome/browser/ui/views/tabs/fake_base_tab_strip_controller.h
+END
+tab_strip_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/104319/trunk/src/chrome/browser/ui/views/tabs/tab_strip_factory.h
+END
+tab_drag_controller2_interactive_uitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/133961/trunk/src/chrome/browser/ui/views/tabs/tab_drag_controller2_interactive_uitest.cc
+END
+tab_renderer_data.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/86371/trunk/src/chrome/browser/ui/views/tabs/tab_renderer_data.cc
+END
+tab_strip_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/133930/trunk/src/chrome/browser/ui/views/tabs/tab_strip_unittest.cc
+END
+tab_renderer_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/86371/trunk/src/chrome/browser/ui/views/tabs/tab_renderer_data.h
+END
+native_view_photobooth.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/78206/trunk/src/chrome/browser/ui/views/tabs/native_view_photobooth.h
+END
+touch_tab_strip_layout.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/134764/trunk/src/chrome/browser/ui/views/tabs/touch_tab_strip_layout.h
+END
+tab_drag_controller2.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/133495/trunk/src/chrome/browser/ui/views/tabs/tab_drag_controller2.h
+END
+tab_strip_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/133930/trunk/src/chrome/browser/ui/views/tabs/tab_strip_controller.h
+END
+native_view_photobooth_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/132820/trunk/src/chrome/browser/ui/views/tabs/native_view_photobooth_win.cc
+END
+base_tab.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/131572/trunk/src/chrome/browser/ui/views/tabs/base_tab.h
+END
+tab.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/133930/trunk/src/chrome/browser/ui/views/tabs/tab.h
+END
+fake_base_tab_strip_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/133930/trunk/src/chrome/browser/ui/views/tabs/fake_base_tab_strip_controller.cc
+END
+tab_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/134194/trunk/src/chrome/browser/ui/views/tabs/tab_controller.h
+END
+default_tab_drag_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/134764/trunk/src/chrome/browser/ui/views/tabs/default_tab_drag_controller.h
+END
+dragged_tab_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/127900/trunk/src/chrome/browser/ui/views/tabs/dragged_tab_view.cc
+END
+tab_strip_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/114986/trunk/src/chrome/browser/ui/views/tabs/tab_strip_factory.cc
+END
+dragged_tab_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/132820/trunk/src/chrome/browser/ui/views/tabs/dragged_tab_view.h
+END
+touch_tab_strip_layout_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/134818/trunk/src/chrome/browser/ui/views/tabs/touch_tab_strip_layout_unittest.cc
+END
+touch_tab_strip_layout.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/134818/trunk/src/chrome/browser/ui/views/tabs/touch_tab_strip_layout.cc
+END
+tab_strip.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/134764/trunk/src/chrome/browser/ui/views/tabs/tab_strip.cc
+END
+tab_drag_controller2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/133961/trunk/src/chrome/browser/ui/views/tabs/tab_drag_controller2.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/79027/trunk/src/chrome/browser/ui/views/tabs/OWNERS
+END
+tab_strip.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/134335/trunk/src/chrome/browser/ui/views/tabs/tab_strip.h
+END

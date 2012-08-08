@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/134826/trunk/src/chrome/browser/chromeos/bluetooth
+END
+bluetooth_socket.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/133485/trunk/src/chrome/browser/chromeos/bluetooth/bluetooth_socket.cc
+END
+bluetooth_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/133485/trunk/src/chrome/browser/chromeos/bluetooth/bluetooth_socket.h
+END
+bluetooth_service_record_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/133485/trunk/src/chrome/browser/chromeos/bluetooth/bluetooth_service_record_unittest.cc
+END
+bluetooth_service_record.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/133485/trunk/src/chrome/browser/chromeos/bluetooth/bluetooth_service_record.cc
+END
+bluetooth_device.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/134826/trunk/src/chrome/browser/chromeos/bluetooth/bluetooth_device.cc
+END
+bluetooth_utils_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/134373/trunk/src/chrome/browser/chromeos/bluetooth/bluetooth_utils_unittest.cc
+END
+bluetooth_adapter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/131065/trunk/src/chrome/browser/chromeos/bluetooth/bluetooth_adapter.cc
+END
+bluetooth_service_record.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/133485/trunk/src/chrome/browser/chromeos/bluetooth/bluetooth_service_record.h
+END
+bluetooth_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/134373/trunk/src/chrome/browser/chromeos/bluetooth/bluetooth_utils.cc
+END
+bluetooth_device.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/134826/trunk/src/chrome/browser/chromeos/bluetooth/bluetooth_device.h
+END
+bluetooth_adapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/131065/trunk/src/chrome/browser/chromeos/bluetooth/bluetooth_adapter.h
+END
+bluetooth_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/134373/trunk/src/chrome/browser/chromeos/bluetooth/bluetooth_utils.h
+END

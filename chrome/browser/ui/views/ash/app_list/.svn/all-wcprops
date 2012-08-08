@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/133803/trunk/src/chrome/browser/ui/views/ash/app_list
+END
+extension_app_item.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/133803/trunk/src/chrome/browser/ui/views/ash/app_list/extension_app_item.h
+END
+app_list_view_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/131419/trunk/src/chrome/browser/ui/views/ash/app_list/app_list_view_delegate.cc
+END
+app_list_model_builder_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/129554/trunk/src/chrome/browser/ui/views/ash/app_list/app_list_model_builder_unittest.cc
+END
+app_list_model_builder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/130988/trunk/src/chrome/browser/ui/views/ash/app_list/app_list_model_builder.cc
+END
+app_list_view_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/131419/trunk/src/chrome/browser/ui/views/ash/app_list/app_list_view_delegate.h
+END
+app_list_model_builder.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/129554/trunk/src/chrome/browser/ui/views/ash/app_list/app_list_model_builder.h
+END
+chrome_app_list_item.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/129554/trunk/src/chrome/browser/ui/views/ash/app_list/chrome_app_list_item.h
+END
+extension_app_item.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/133803/trunk/src/chrome/browser/ui/views/ash/app_list/extension_app_item.cc
+END

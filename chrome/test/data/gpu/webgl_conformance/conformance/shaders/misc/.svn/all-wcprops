@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/91578/trunk/deps/third_party/webgl/sdk/tests/conformance/shaders/misc
+END
+non-ascii.vert
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/91578/trunk/deps/third_party/webgl/sdk/tests/conformance/shaders/misc/non-ascii.vert
+END
+non-ascii-comments.vert
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/91578/trunk/deps/third_party/webgl/sdk/tests/conformance/shaders/misc/non-ascii-comments.vert
+END
+shared-a.frag
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/91578/trunk/deps/third_party/webgl/sdk/tests/conformance/shaders/misc/shared-a.frag
+END
+shared-b.frag
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/91578/trunk/deps/third_party/webgl/sdk/tests/conformance/shaders/misc/shared-b.frag
+END
+shared.vert
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/91578/trunk/deps/third_party/webgl/sdk/tests/conformance/shaders/misc/shared.vert
+END
+00_shaders.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/91578/trunk/deps/third_party/webgl/sdk/tests/conformance/shaders/misc/00_shaders.txt
+END

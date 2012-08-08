@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/76/trunk/m4
+END
+program_invocation_name.m4
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/38/trunk/m4/program_invocation_name.m4
+END
+acx_pthread.m4
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/52/trunk/m4/acx_pthread.m4
+END
+install_prefix.m4
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/76/trunk/m4/install_prefix.m4
+END
+compiler_characteristics.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/36/trunk/m4/compiler_characteristics.m4
+END
+ac_have_attribute.m4
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/36/trunk/m4/ac_have_attribute.m4
+END
+stl_namespace.m4
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/36/trunk/m4/stl_namespace.m4
+END
+pc_from_ucontext.m4
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/76/trunk/m4/pc_from_ucontext.m4
+END
+namespaces.m4
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/36/trunk/m4/namespaces.m4
+END
+acx_nanosleep.m4
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/66/trunk/m4/acx_nanosleep.m4
+END

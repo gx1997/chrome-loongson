@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/134071/trunk/src/chrome/browser/ui/cocoa/extensions
+END
+extension_installed_bubble_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/126919/trunk/src/chrome/browser/ui/cocoa/extensions/extension_installed_bubble_controller.h
+END
+browser_action_button.mm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/128574/trunk/src/chrome/browser/ui/cocoa/extensions/browser_action_button.mm
+END
+browser_actions_container_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/extensions/browser_actions_container_view.h
+END
+extension_action_context_menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/132542/trunk/src/chrome/browser/ui/cocoa/extensions/extension_action_context_menu.h
+END
+extension_popup_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/129793/trunk/src/chrome/browser/ui/cocoa/extensions/extension_popup_controller.h
+END
+shell_window_cocoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/132844/trunk/src/chrome/browser/ui/cocoa/extensions/shell_window_cocoa.h
+END
+chevron_menu_button_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/83701/trunk/src/chrome/browser/ui/cocoa/extensions/chevron_menu_button_unittest.mm
+END
+chevron_menu_button_cell.mm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/extensions/chevron_menu_button_cell.mm
+END
+extension_install_dialog_controller_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/123701/trunk/src/chrome/browser/ui/cocoa/extensions/extension_install_dialog_controller_unittest.mm
+END
+chevron_menu_button.mm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/70512/trunk/src/chrome/browser/ui/cocoa/extensions/chevron_menu_button.mm
+END
+extension_install_dialog_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/126924/trunk/src/chrome/browser/ui/cocoa/extensions/extension_install_dialog_controller.mm
+END
+browser_actions_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/extensions/browser_actions_controller.h
+END
+extension_view_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/127824/trunk/src/chrome/browser/ui/cocoa/extensions/extension_view_mac.mm
+END
+extension_installed_bubble_controller_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/128424/trunk/src/chrome/browser/ui/cocoa/extensions/extension_installed_bubble_controller_unittest.mm
+END
+extension_uninstall_dialog_cocoa.mm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/102351/trunk/src/chrome/browser/ui/cocoa/extensions/extension_uninstall_dialog_cocoa.mm
+END
+browser_action_button.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/extensions/browser_action_button.h
+END
+extension_installed_bubble_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/127200/trunk/src/chrome/browser/ui/cocoa/extensions/extension_installed_bubble_controller.mm
+END
+browser_actions_container_view_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/extensions/browser_actions_container_view_unittest.mm
+END
+browser_actions_container_view.mm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/extensions/browser_actions_container_view.mm
+END
+chevron_menu_button_cell.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/extensions/chevron_menu_button_cell.h
+END
+extension_popup_controller_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/131136/trunk/src/chrome/browser/ui/cocoa/extensions/extension_popup_controller_unittest.mm
+END
+extension_action_context_menu.mm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/132542/trunk/src/chrome/browser/ui/cocoa/extensions/extension_action_context_menu.mm
+END
+chevron_menu_button.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/extensions/chevron_menu_button.h
+END
+extension_popup_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/132280/trunk/src/chrome/browser/ui/cocoa/extensions/extension_popup_controller.mm
+END
+extension_installed_bubble_bridge.mm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/126808/trunk/src/chrome/browser/ui/cocoa/extensions/extension_installed_bubble_bridge.mm
+END
+extension_install_dialog_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/124994/trunk/src/chrome/browser/ui/cocoa/extensions/extension_install_dialog_controller.h
+END
+shell_window_cocoa.mm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/134071/trunk/src/chrome/browser/ui/cocoa/extensions/shell_window_cocoa.mm
+END
+extension_view_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/127824/trunk/src/chrome/browser/ui/cocoa/extensions/extension_view_mac.h
+END
+browser_actions_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/133090/trunk/src/chrome/browser/ui/cocoa/extensions/browser_actions_controller.mm
+END

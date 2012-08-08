@@ -1,0 +1,64 @@
+10
+
+dir
+134868
+http://src.chromium.org/svn/trunk/src/chrome/test/data/extensions/api_test/proxy
+http://src.chromium.org/svn
+
+
+
+2012-01-04T09:07:28.595098Z
+116289
+aa@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+individual_incognito_also
+dir
+
+single
+dir
+
+bypass
+dir
+
+individual_incognito_only
+dir
+
+pac
+dir
+
+system
+dir
+
+events
+dir
+
+individual_remove
+dir
+
+individual
+dir
+
+auto
+dir
+
+direct
+dir
+
+pacdata
+dir
+

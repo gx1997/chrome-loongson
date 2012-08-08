@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/132348/trunk/src/tools/sharding_supervisor
+END
+dummy_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/131275/trunk/src/tools/sharding_supervisor/dummy_test.py
+END
+sharding_supervisor_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/131280/trunk/src/tools/sharding_supervisor/sharding_supervisor_unittest.py
+END
+sharding_supervisor.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/132348/trunk/src/tools/sharding_supervisor/sharding_supervisor.py
+END

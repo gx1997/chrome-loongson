@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/132816/trunk/src/chrome/browser/ui/gtk/bookmarks
+END
+bookmark_utils_gtk.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/123782/trunk/src/chrome/browser/ui/gtk/bookmarks/bookmark_utils_gtk.h
+END
+bookmark_bar_gtk_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/110193/trunk/src/chrome/browser/ui/gtk/bookmarks/bookmark_bar_gtk_unittest.cc
+END
+bookmark_bar_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/132816/trunk/src/chrome/browser/ui/gtk/bookmarks/bookmark_bar_gtk.cc
+END
+bookmark_bar_gtk.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/132816/trunk/src/chrome/browser/ui/gtk/bookmarks/bookmark_bar_gtk.h
+END
+bookmark_menu_controller_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/123782/trunk/src/chrome/browser/ui/gtk/bookmarks/bookmark_menu_controller_gtk.cc
+END
+bookmark_menu_controller_gtk.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/115858/trunk/src/chrome/browser/ui/gtk/bookmarks/bookmark_menu_controller_gtk.h
+END
+bookmark_tree_model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/123782/trunk/src/chrome/browser/ui/gtk/bookmarks/bookmark_tree_model.cc
+END
+bookmark_tree_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/76325/trunk/src/chrome/browser/ui/gtk/bookmarks/bookmark_tree_model.h
+END
+bookmark_editor_gtk_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/112897/trunk/src/chrome/browser/ui/gtk/bookmarks/bookmark_editor_gtk_unittest.cc
+END
+bookmark_editor_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/128321/trunk/src/chrome/browser/ui/gtk/bookmarks/bookmark_editor_gtk.cc
+END
+bookmark_bar_instructions_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/123782/trunk/src/chrome/browser/ui/gtk/bookmarks/bookmark_bar_instructions_gtk.cc
+END
+bookmark_editor_gtk.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/110048/trunk/src/chrome/browser/ui/gtk/bookmarks/bookmark_editor_gtk.h
+END
+bookmark_bar_instructions_gtk.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/123782/trunk/src/chrome/browser/ui/gtk/bookmarks/bookmark_bar_instructions_gtk.h
+END
+bookmark_bubble_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/123782/trunk/src/chrome/browser/ui/gtk/bookmarks/bookmark_bubble_gtk.cc
+END
+bookmark_bubble_gtk.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/123782/trunk/src/chrome/browser/ui/gtk/bookmarks/bookmark_bubble_gtk.h
+END
+bookmark_sub_menu_model_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/127754/trunk/src/chrome/browser/ui/gtk/bookmarks/bookmark_sub_menu_model_gtk.cc
+END
+bookmark_bar_gtk_interactive_uitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/105254/trunk/src/chrome/browser/ui/gtk/bookmarks/bookmark_bar_gtk_interactive_uitest.cc
+END
+bookmark_utils_gtk_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/116009/trunk/src/chrome/browser/ui/gtk/bookmarks/bookmark_utils_gtk_unittest.cc
+END
+bookmark_sub_menu_model_gtk.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/127754/trunk/src/chrome/browser/ui/gtk/bookmarks/bookmark_sub_menu_model_gtk.h
+END
+bookmark_utils_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/127138/trunk/src/chrome/browser/ui/gtk/bookmarks/bookmark_utils_gtk.cc
+END

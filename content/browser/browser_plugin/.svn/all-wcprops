@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/132599/trunk/src/content/browser/browser_plugin
+END
+browser_plugin_web_contents_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/132571/trunk/src/content/browser/browser_plugin/browser_plugin_web_contents_observer.cc
+END
+browser_plugin_web_contents_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/132599/trunk/src/content/browser/browser_plugin/browser_plugin_web_contents_observer.h
+END

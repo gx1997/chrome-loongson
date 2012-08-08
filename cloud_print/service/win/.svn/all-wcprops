@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/134298/trunk/src/cloud_print/service/win
+END
+cloud_print_service.rc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/134298/trunk/src/cloud_print/service/win/cloud_print_service.rc
+END
+cloud_print_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/134298/trunk/src/cloud_print/service/win/cloud_print_service.cc
+END
+cloud_print_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/134298/trunk/src/cloud_print/service/win/cloud_print_service.h
+END
+cloud_print_service.rgs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/134298/trunk/src/cloud_print/service/win/cloud_print_service.rgs
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/134298/trunk/src/cloud_print/service/win/resource.h
+END
+service.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/134298/trunk/src/cloud_print/service/win/service.gyp
+END

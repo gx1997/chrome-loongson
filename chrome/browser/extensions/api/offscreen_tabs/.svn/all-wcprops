@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/134470/trunk/src/chrome/browser/extensions/api/offscreen_tabs
+END
+offscreen_tabs_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/128037/trunk/src/chrome/browser/extensions/api/offscreen_tabs/offscreen_tabs_api.cc
+END
+offscreen_tabs_apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/134470/trunk/src/chrome/browser/extensions/api/offscreen_tabs/offscreen_tabs_apitest.cc
+END
+offscreen_tabs_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/134370/trunk/src/chrome/browser/extensions/api/offscreen_tabs/offscreen_tabs_api.h
+END
+offscreen_tabs_constants.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/128037/trunk/src/chrome/browser/extensions/api/offscreen_tabs/offscreen_tabs_constants.cc
+END
+offscreen_tabs_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/128037/trunk/src/chrome/browser/extensions/api/offscreen_tabs/offscreen_tabs_constants.h
+END

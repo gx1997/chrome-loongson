@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/133956/trunk/src/chrome/browser/ui/cocoa/location_bar
+END
+image_decoration.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/110916/trunk/src/chrome/browser/ui/cocoa/location_bar/image_decoration.h
+END
+autocomplete_text_field_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/100474/trunk/src/chrome/browser/ui/cocoa/location_bar/autocomplete_text_field_unittest.mm
+END
+autocomplete_text_field.mm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/93969/trunk/src/chrome/browser/ui/cocoa/location_bar/autocomplete_text_field.mm
+END
+ev_bubble_decoration.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/110916/trunk/src/chrome/browser/ui/cocoa/location_bar/ev_bubble_decoration.h
+END
+keyword_hint_decoration.mm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/72227/trunk/src/chrome/browser/ui/cocoa/location_bar/keyword_hint_decoration.mm
+END
+chrome_to_mobile_decoration.mm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/129119/trunk/src/chrome/browser/ui/cocoa/location_bar/chrome_to_mobile_decoration.mm
+END
+content_setting_decoration.mm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/132629/trunk/src/chrome/browser/ui/cocoa/location_bar/content_setting_decoration.mm
+END
+bubble_decoration.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/110916/trunk/src/chrome/browser/ui/cocoa/location_bar/bubble_decoration.h
+END
+page_action_decoration.mm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/124875/trunk/src/chrome/browser/ui/cocoa/location_bar/page_action_decoration.mm
+END
+star_decoration.mm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/83387/trunk/src/chrome/browser/ui/cocoa/location_bar/star_decoration.mm
+END
+autocomplete_text_field_cell.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/location_bar/autocomplete_text_field_cell.h
+END
+autocomplete_text_field.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/83387/trunk/src/chrome/browser/ui/cocoa/location_bar/autocomplete_text_field.h
+END
+location_icon_decoration.mm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/122740/trunk/src/chrome/browser/ui/cocoa/location_bar/location_icon_decoration.mm
+END
+image_decoration.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/location_bar/image_decoration.mm
+END
+content_setting_decoration.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/116226/trunk/src/chrome/browser/ui/cocoa/location_bar/content_setting_decoration.h
+END
+page_action_decoration.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/124875/trunk/src/chrome/browser/ui/cocoa/location_bar/page_action_decoration.h
+END
+star_decoration.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/110916/trunk/src/chrome/browser/ui/cocoa/location_bar/star_decoration.h
+END
+selected_keyword_decoration_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/72492/trunk/src/chrome/browser/ui/cocoa/location_bar/selected_keyword_decoration_unittest.mm
+END
+autocomplete_text_field_unittest_helper.mm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/75939/trunk/src/chrome/browser/ui/cocoa/location_bar/autocomplete_text_field_unittest_helper.mm
+END
+location_bar_view_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/130220/trunk/src/chrome/browser/ui/cocoa/location_bar/location_bar_view_mac.mm
+END
+autocomplete_text_field_cell.mm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/119822/trunk/src/chrome/browser/ui/cocoa/location_bar/autocomplete_text_field_cell.mm
+END
+keyword_hint_decoration_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/70242/trunk/src/chrome/browser/ui/cocoa/location_bar/keyword_hint_decoration_unittest.mm
+END
+autocomplete_text_field_editor_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/101021/trunk/src/chrome/browser/ui/cocoa/location_bar/autocomplete_text_field_editor_unittest.mm
+END
+autocomplete_text_field_editor.mm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/125515/trunk/src/chrome/browser/ui/cocoa/location_bar/autocomplete_text_field_editor.mm
+END
+location_bar_decoration.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/75788/trunk/src/chrome/browser/ui/cocoa/location_bar/location_bar_decoration.h
+END
+selected_keyword_decoration.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/110916/trunk/src/chrome/browser/ui/cocoa/location_bar/selected_keyword_decoration.h
+END
+autocomplete_text_field_unittest_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/location_bar/autocomplete_text_field_unittest_helper.h
+END
+location_bar_view_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/129119/trunk/src/chrome/browser/ui/cocoa/location_bar/location_bar_view_mac.h
+END
+omnibox_popup_view_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/location_bar/omnibox_popup_view_unittest.mm
+END
+image_decoration_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/location_bar/image_decoration_unittest.mm
+END
+omnibox_popup_view.mm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/location_bar/omnibox_popup_view.mm
+END
+keyword_hint_decoration.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/110916/trunk/src/chrome/browser/ui/cocoa/location_bar/keyword_hint_decoration.h
+END
+ev_bubble_decoration_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/location_bar/ev_bubble_decoration_unittest.mm
+END
+chrome_to_mobile_decoration.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/129119/trunk/src/chrome/browser/ui/cocoa/location_bar/chrome_to_mobile_decoration.h
+END
+ev_bubble_decoration.mm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/114063/trunk/src/chrome/browser/ui/cocoa/location_bar/ev_bubble_decoration.mm
+END
+autocomplete_text_field_editor.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/location_bar/autocomplete_text_field_editor.h
+END
+bubble_decoration.mm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/67854/trunk/src/chrome/browser/ui/cocoa/location_bar/bubble_decoration.mm
+END
+location_bar_decoration.mm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/75788/trunk/src/chrome/browser/ui/cocoa/location_bar/location_bar_decoration.mm
+END
+selected_keyword_decoration.mm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/133956/trunk/src/chrome/browser/ui/cocoa/location_bar/selected_keyword_decoration.mm
+END
+location_icon_decoration.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/110916/trunk/src/chrome/browser/ui/cocoa/location_bar/location_icon_decoration.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/71665/trunk/src/chrome/browser/ui/cocoa/location_bar/OWNERS
+END
+autocomplete_text_field_cell_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/85676/trunk/src/chrome/browser/ui/cocoa/location_bar/autocomplete_text_field_cell_unittest.mm
+END
+omnibox_popup_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/130289/trunk/src/chrome/browser/ui/cocoa/location_bar/omnibox_popup_view.h
+END

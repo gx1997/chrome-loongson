@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/134391/trunk/src/ash/app_list
+END
+app_list_model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/127111/trunk/src/ash/app_list/app_list_model.cc
+END
+app_list_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/127111/trunk/src/ash/app_list/app_list_model.h
+END
+app_list_view_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/131419/trunk/src/ash/app_list/app_list_view_delegate.h
+END
+app_list_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/134391/trunk/src/ash/app_list/app_list_view.cc
+END
+app_list_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/127649/trunk/src/ash/app_list/app_list_view.h
+END
+drop_shadow_label.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/131696/trunk/src/ash/app_list/drop_shadow_label.cc
+END
+app_list_item_model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/127111/trunk/src/ash/app_list/app_list_item_model.cc
+END
+drop_shadow_label.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/131696/trunk/src/ash/app_list/drop_shadow_label.h
+END
+app_list_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/127649/trunk/src/ash/app_list/app_list_unittest.cc
+END
+app_list_item_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/127111/trunk/src/ash/app_list/app_list_item_model.h
+END
+app_list.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/134175/trunk/src/ash/app_list/app_list.cc
+END
+icon_cache.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/130035/trunk/src/ash/app_list/icon_cache.cc
+END
+app_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/134175/trunk/src/ash/app_list/app_list.h
+END
+icon_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/130035/trunk/src/ash/app_list/icon_cache.h
+END
+app_list_item_model_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/127111/trunk/src/ash/app_list/app_list_item_model_observer.h
+END
+app_list_item_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/133424/trunk/src/ash/app_list/app_list_item_view.cc
+END
+app_list_model_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/131419/trunk/src/ash/app_list/app_list_model_view.cc
+END
+app_list_item_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/133424/trunk/src/ash/app_list/app_list_item_view.h
+END
+app_list_model_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/131419/trunk/src/ash/app_list/app_list_model_view.h
+END

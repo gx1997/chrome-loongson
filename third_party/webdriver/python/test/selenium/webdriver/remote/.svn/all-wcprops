@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11582/trunk/py/test/selenium/webdriver/remote
+END
+test_remote_executing_javascript_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/11474/trunk/py/test/selenium/webdriver/remote/test_remote_executing_javascript_test.py
+END
+test_remote_implicit_waits.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11474/trunk/py/test/selenium/webdriver/remote/test_remote_implicit_waits.py
+END
+test_remote_correct_firing_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/11474/trunk/py/test/selenium/webdriver/remote/test_remote_correct_firing_tests.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10480/trunk/py/test/selenium/webdriver/remote/__init__.py
+END
+test_remote_children_finding.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11474/trunk/py/test/selenium/webdriver/remote/test_remote_children_finding.py
+END
+test_remote_frametesting.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11474/trunk/py/test/selenium/webdriver/remote/test_remote_frametesting.py
+END
+test_remote_select_element_handling.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/11474/trunk/py/test/selenium/webdriver/remote/test_remote_select_element_handling.py
+END
+test_remote_rendered_webelement.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/11474/trunk/py/test/selenium/webdriver/remote/test_remote_rendered_webelement.py
+END
+test_remote_driver_element_finding.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/11474/trunk/py/test/selenium/webdriver/remote/test_remote_driver_element_finding.py
+END
+test_remote_typing_keys.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11582/trunk/py/test/selenium/webdriver/remote/test_remote_typing_keys.py
+END
+test_remote_form_handling.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11474/trunk/py/test/selenium/webdriver/remote/test_remote_form_handling.py
+END
+test_remote_page_loading.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11474/trunk/py/test/selenium/webdriver/remote/test_remote_page_loading.py
+END
+test_remote_visibility_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11474/trunk/py/test/selenium/webdriver/remote/test_remote_visibility_tests.py
+END
+test_remote_api.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/11474/trunk/py/test/selenium/webdriver/remote/test_remote_api.py
+END
+test_remote_stale_references.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11474/trunk/py/test/selenium/webdriver/remote/test_remote_stale_references.py
+END
+test_remote_text_handling_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/11474/trunk/py/test/selenium/webdriver/remote/test_remote_text_handling_tests.py
+END
+test_remote_element_attribute.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11474/trunk/py/test/selenium/webdriver/remote/test_remote_element_attribute.py
+END
+test_remote_executing_async_javascript_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/11474/trunk/py/test/selenium/webdriver/remote/test_remote_executing_async_javascript_test.py
+END

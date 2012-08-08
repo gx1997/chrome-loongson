@@ -1,0 +1,14 @@
+{
+  "name" : "Platform App Context Menus Test Extension",
+  "platform_app": true,
+  "version" : "0.1",
+  "manifest_version": 2,
+  "permissions": [
+    "experimental",
+    "windows",
+    "contextMenus"
+  ],
+  "background": {
+    "scripts": ["test.js"]
+  }
+}

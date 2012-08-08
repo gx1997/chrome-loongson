@@ -1,0 +1,425 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src
+END
+hb-font.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-font.h
+END
+hb-gobject-enums.cc.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-gobject-enums.cc.tmpl
+END
+hb-blob.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-blob.cc
+END
+hb-ot-map-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-map-private.hh
+END
+hb-icu.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-icu.cc
+END
+hb-icu.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-icu.h
+END
+hb-ot-hhea-table.hh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-hhea-table.hh
+END
+hb-ot.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot.h
+END
+hb-uniscribe.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-uniscribe.h
+END
+hb-ot-tag.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-tag.cc
+END
+hb-ot-map.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-map.cc
+END
+main.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/main.cc
+END
+hb-open-file-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-open-file-private.hh
+END
+hb-gobject-enums.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-gobject-enums.cc
+END
+hb-ot-shape-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-shape-private.hh
+END
+hb.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb.h
+END
+hb-unicode-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-unicode-private.hh
+END
+hb-ft.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ft.h
+END
+hb-buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-buffer.h
+END
+hb-ot-shape-complex-misc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-shape-complex-misc.cc
+END
+hb-glib.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-glib.h
+END
+hb-ot-shape.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-shape.cc
+END
+hb-ot-shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-shape.h
+END
+hb-ot-maxp-table.hh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-maxp-table.hh
+END
+hb-unicode.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-unicode.cc
+END
+hb-graphite2.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-graphite2.h
+END
+hb-object-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-object-private.hh
+END
+hb-common.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-common.cc
+END
+hb-font-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-font-private.hh
+END
+hb-ot-layout-gsub-table.hh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-layout-gsub-table.hh
+END
+hb-common.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-common.h
+END
+hb-buffer-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-buffer-private.hh
+END
+hb-ot-tag.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-tag.h
+END
+hb-ot-hmtx-table.hh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-hmtx-table.hh
+END
+hb-shape.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-shape.cc
+END
+hb-ot-layout-gpos-table.hh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-layout-gpos-table.hh
+END
+hb-shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-shape.h
+END
+hb-open-type-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-open-type-private.hh
+END
+hb-ot-shape-complex-indic-machine.rl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-shape-complex-indic-machine.rl
+END
+hb-ot-shape-complex-arabic.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-shape-complex-arabic.cc
+END
+hb-ot-layout-gsubgpos-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-layout-gsubgpos-private.hh
+END
+hb-font.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-font.cc
+END
+hb-ot-shape-complex-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-shape-complex-private.hh
+END
+hb-ot-shape-complex-indic-table.hh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-shape-complex-indic-table.hh
+END
+hb-ot-shape-complex-indic.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-shape-complex-indic.cc
+END
+hb-ft.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ft.cc
+END
+hb-buffer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-buffer.cc
+END
+hb-glib.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-glib.cc
+END
+hb-ot-shape-normalize.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-shape-normalize.cc
+END
+hb-fallback-shape-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-fallback-shape-private.hh
+END
+hb-gobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-gobject.h
+END
+hb-ot-head-table.hh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-head-table.hh
+END
+hb-blob.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-blob.h
+END
+hb-gobject-structs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-gobject-structs.cc
+END
+hb-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-private.hh
+END
+hb-mutex-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-mutex-private.hh
+END
+hb-graphite2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-graphite2.cc
+END
+hb-version.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-version.h
+END
+hb-tt-font.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-tt-font.cc
+END
+hb-fallback-shape.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-fallback-shape.cc
+END
+hb-ot-layout.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-layout.h
+END
+hb-ot-layout-common-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-layout-common-private.hh
+END
+hb-ot-layout-private.hh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-layout-private.hh
+END
+hb-uniscribe.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-uniscribe.cc
+END
+hb-ot-shape-complex-indic-machine.hh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-shape-complex-indic-machine.hh
+END
+hb-unicode.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-unicode.h
+END
+hb-ot-layout.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-layout.cc
+END
+hb-ot-name-table.hh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-name-table.hh
+END
+hb-ot-layout-gdef-table.hh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-layout-gdef-table.hh
+END
+hb-ot-shape-complex-arabic-table.hh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/119661/trunk/src/third_party/harfbuzz-ng/src/hb-ot-shape-complex-arabic-table.hh
+END

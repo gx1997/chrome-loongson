@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/30312/trunk/src/chrome/test/data/zip/test
+END
+foo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/17305/trunk/src/chrome/test/data/zip/test/foo.txt
+END

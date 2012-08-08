@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/133555/trunk/src/chrome/test/data/extensions/api_test/serial/api
+END
+background.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/122363/trunk/src/chrome/test/data/extensions/api_test/serial/api/background.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/133555/trunk/src/chrome/test/data/extensions/api_test/serial/api/manifest.json
+END

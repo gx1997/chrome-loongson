@@ -1,0 +1,144 @@
+10
+
+dir
+134868
+http://src.chromium.org/svn/trunk/src/chrome/test/data/translate
+http://src.chromium.org/svn
+
+
+
+2012-02-23T03:41:32.642986Z
+123190
+thestig@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+zh-CN
+dir
+
+tr
+dir
+
+ru
+dir
+
+crazy_history.txt
+file
+
+
+
+
+2010-08-24T09:04:32.000000Z
+328e6b96d3882fffa8c4aef6696f1888
+2010-08-23T16:23:20.646057Z
+57065
+alyssad@google.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1630
+
+de
+dir
+
+sv
+dir
+
+ja
+dir
+
+notranslate_meta_tag.html
+file
+
+
+
+
+2010-08-06T09:04:23.000000Z
+f67b6b850dec7e27641cb4f496a06a12
+2010-08-05T15:52:59.914819Z
+55070
+alyssad@chromium.org
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+286
+
+el
+dir
+
+ar
+dir
+
+es
+dir
+
+fr
+dir
+
+zh-TW
+dir
+
+ko
+dir
+
+nl
+dir
+
+pl
+dir
+
+th
+dir
+
+it
+dir
+

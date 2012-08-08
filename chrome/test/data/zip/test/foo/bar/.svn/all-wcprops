@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/30312/trunk/src/chrome/test/data/zip/test/foo/bar
+END
+quux.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/17305/trunk/src/chrome/test/data/zip/test/foo/bar/quux.txt
+END
+.hidden
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/30312/trunk/src/chrome/test/data/zip/test/foo/bar/.hidden
+END
+baz.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17305/trunk/src/chrome/test/data/zip/test/foo/bar/baz.txt
+END

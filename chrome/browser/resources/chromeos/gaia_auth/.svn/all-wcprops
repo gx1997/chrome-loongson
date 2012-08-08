@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/120939/trunk/src/chrome/browser/resources/chromeos/gaia_auth
+END
+manifest_test.json
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/120939/trunk/src/chrome/browser/resources/chromeos/gaia_auth/manifest_test.json
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/111787/trunk/src/chrome/browser/resources/chromeos/gaia_auth/manifest.json
+END

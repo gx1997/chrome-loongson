@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/134143/trunk/src/chrome/browser/external_tab
+END
+external_tab_container_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/134143/trunk/src/chrome/browser/external_tab/external_tab_container_win.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130508/trunk/src/chrome/browser/external_tab/OWNERS
+END
+external_tab_container_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/133099/trunk/src/chrome/browser/external_tab/external_tab_container_win.h
+END

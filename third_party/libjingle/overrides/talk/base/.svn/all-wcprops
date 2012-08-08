@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/134065/trunk/src/third_party/libjingle/overrides/talk/base
+END
+messagequeue.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/124434/trunk/src/third_party/libjingle/overrides/talk/base/messagequeue.h
+END
+win32socketinit.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/61331/trunk/src/third_party/libjingle/overrides/talk/base/win32socketinit.cc
+END
+logging.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/117917/trunk/src/third_party/libjingle/overrides/talk/base/logging.cc
+END
+thread.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/124434/trunk/src/third_party/libjingle/overrides/talk/base/thread.cc
+END
+basictypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/118254/trunk/src/third_party/libjingle/overrides/talk/base/basictypes.h
+END
+constructormagic.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/26154/trunk/src/third_party/libjingle/overrides/talk/base/constructormagic.h
+END
+logging.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/117917/trunk/src/third_party/libjingle/overrides/talk/base/logging.h
+END
+messagequeue.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/127253/trunk/src/third_party/libjingle/overrides/talk/base/messagequeue.cc
+END
+thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/124434/trunk/src/third_party/libjingle/overrides/talk/base/thread.h
+END

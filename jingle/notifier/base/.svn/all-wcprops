@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/131509/trunk/src/jingle/notifier/base
+END
+weak_xmpp_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/110546/trunk/src/jingle/notifier/base/weak_xmpp_client.h
+END
+gaia_token_pre_xmpp_auth.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/108065/trunk/src/jingle/notifier/base/gaia_token_pre_xmpp_auth.cc
+END
+notifier_options.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/80853/trunk/src/jingle/notifier/base/notifier_options.h
+END
+fake_ssl_client_socket_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/130388/trunk/src/jingle/notifier/base/fake_ssl_client_socket_unittest.cc
+END
+xmpp_connection_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/124758/trunk/src/jingle/notifier/base/xmpp_connection_unittest.cc
+END
+task_pump.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/109811/trunk/src/jingle/notifier/base/task_pump.cc
+END
+task_pump.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/116748/trunk/src/jingle/notifier/base/task_pump.h
+END
+const_communicator.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/79026/trunk/src/jingle/notifier/base/const_communicator.h
+END
+proxy_resolving_client_socket.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/130388/trunk/src/jingle/notifier/base/proxy_resolving_client_socket.cc
+END
+proxy_resolving_client_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/130388/trunk/src/jingle/notifier/base/proxy_resolving_client_socket.h
+END
+chrome_async_socket_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/131509/trunk/src/jingle/notifier/base/chrome_async_socket_unittest.cc
+END
+xmpp_client_socket_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/127817/trunk/src/jingle/notifier/base/xmpp_client_socket_factory.cc
+END
+chrome_async_socket.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/113825/trunk/src/jingle/notifier/base/chrome_async_socket.cc
+END
+xmpp_client_socket_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/110546/trunk/src/jingle/notifier/base/xmpp_client_socket_factory.h
+END
+fake_base_task.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/100278/trunk/src/jingle/notifier/base/fake_base_task.h
+END
+notification_method.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/65138/trunk/src/jingle/notifier/base/notification_method.h
+END
+weak_xmpp_client_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/79524/trunk/src/jingle/notifier/base/weak_xmpp_client_unittest.cc
+END
+notifier_options.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/80853/trunk/src/jingle/notifier/base/notifier_options.cc
+END
+fake_ssl_client_socket.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/130388/trunk/src/jingle/notifier/base/fake_ssl_client_socket.cc
+END
+gaia_token_pre_xmpp_auth.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/110546/trunk/src/jingle/notifier/base/gaia_token_pre_xmpp_auth.h
+END
+fake_ssl_client_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/130388/trunk/src/jingle/notifier/base/fake_ssl_client_socket.h
+END
+task_pump_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/89571/trunk/src/jingle/notifier/base/task_pump_unittest.cc
+END
+xmpp_connection.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/89571/trunk/src/jingle/notifier/base/xmpp_connection.cc
+END
+xmpp_connection.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/114685/trunk/src/jingle/notifier/base/xmpp_connection.h
+END
+resolving_client_socket_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/109998/trunk/src/jingle/notifier/base/resolving_client_socket_factory.h
+END
+mock_task.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/89571/trunk/src/jingle/notifier/base/mock_task.cc
+END
+server_information.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/79026/trunk/src/jingle/notifier/base/server_information.cc
+END
+mock_task.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/89571/trunk/src/jingle/notifier/base/mock_task.h
+END
+server_information.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/79026/trunk/src/jingle/notifier/base/server_information.h
+END
+proxy_resolving_client_socket_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/124758/trunk/src/jingle/notifier/base/proxy_resolving_client_socket_unittest.cc
+END
+fake_base_task.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/119316/trunk/src/jingle/notifier/base/fake_base_task.cc
+END
+chrome_async_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/113825/trunk/src/jingle/notifier/base/chrome_async_socket.h
+END
+notification_method.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/65138/trunk/src/jingle/notifier/base/notification_method.cc
+END
+notifier_options_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113086/trunk/src/jingle/notifier/base/notifier_options_util.cc
+END
+notifier_options_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/79026/trunk/src/jingle/notifier/base/notifier_options_util.h
+END
+weak_xmpp_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/59629/trunk/src/jingle/notifier/base/weak_xmpp_client.cc
+END

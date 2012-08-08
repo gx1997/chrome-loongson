@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/132109/trunk/src/chrome/browser/task_profiler
+END
+auto_tracking.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/121515/trunk/src/chrome/browser/task_profiler/auto_tracking.h
+END
+task_profiler_data_serializer_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/132109/trunk/src/chrome/browser/task_profiler/task_profiler_data_serializer_unittest.cc
+END
+task_profiler_data_serializer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/132109/trunk/src/chrome/browser/task_profiler/task_profiler_data_serializer.cc
+END
+task_profiler_data_serializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/132109/trunk/src/chrome/browser/task_profiler/task_profiler_data_serializer.h
+END
+auto_tracking.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/121515/trunk/src/chrome/browser/task_profiler/auto_tracking.cc
+END

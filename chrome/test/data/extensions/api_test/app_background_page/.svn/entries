@@ -1,0 +1,52 @@
+10
+
+dir
+134868
+http://src.chromium.org/svn/trunk/src/chrome/test/data/extensions/api_test/app_background_page
+http://src.chromium.org/svn
+
+
+
+2012-04-09T16:44:13.038398Z
+131370
+mihaip@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+basic
+dir
+
+lacks_permission
+dir
+
+common
+dir
+
+two_pages
+dir
+
+no_js
+dir
+
+bg_open
+dir
+
+two_with_manifest
+dir
+
+no_js_manifest
+dir
+

@@ -1,0 +1,6 @@
+include_rules = [
+  "+base",
+  "+grit/gfx_resources.h",
+  "+skia",
+  "+third_party/angle",
+]

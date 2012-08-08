@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/134754/trunk/src/net/url_request
+END
+url_request_job_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/93110/trunk/src/net/url_request/url_request_job_factory.cc
+END
+url_request_job_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/96560/trunk/src/net/url_request/url_request_job_factory.h
+END
+url_request_job_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/115234/trunk/src/net/url_request/url_request_job_manager.cc
+END
+view_cache_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/115487/trunk/src/net/url_request/view_cache_helper.h
+END
+url_request_data_job.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/110231/trunk/src/net/url_request/url_request_data_job.h
+END
+url_request_test_job.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/119173/trunk/src/net/url_request/url_request_test_job.cc
+END
+url_request_job_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/96576/trunk/src/net/url_request/url_request_job_unittest.cc
+END
+url_request_context_storage.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/127817/trunk/src/net/url_request/url_request_context_storage.h
+END
+url_request_test_job.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/115181/trunk/src/net/url_request/url_request_test_job.h
+END
+url_request_test_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/127873/trunk/src/net/url_request/url_request_test_util.h
+END
+url_request_throttler_test_support.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/133558/trunk/src/net/url_request/url_request_throttler_test_support.cc
+END
+url_request.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/134524/trunk/src/net/url_request/url_request.h
+END
+url_request_status.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/100136/trunk/src/net/url_request/url_request_status.h
+END
+url_request_throttler_simulation_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/134460/trunk/src/net/url_request/url_request_throttler_simulation_unittest.cc
+END
+url_request_redirect_job.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/115181/trunk/src/net/url_request/url_request_redirect_job.cc
+END
+url_request_context_builder.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/133318/trunk/src/net/url_request/url_request_context_builder.h
+END
+url_request_netlog_params.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/134460/trunk/src/net/url_request/url_request_netlog_params.h
+END
+url_request_job_factory_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/134460/trunk/src/net/url_request/url_request_job_factory_unittest.cc
+END
+view_cache_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/115487/trunk/src/net/url_request/view_cache_helper.cc
+END
+url_request_job_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/86804/trunk/src/net/url_request/url_request_job_manager.h
+END
+url_request_file_dir_job.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/115181/trunk/src/net/url_request/url_request_file_dir_job.h
+END
+url_request_job.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/118011/trunk/src/net/url_request/url_request_job.h
+END
+url_request_throttler_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/133700/trunk/src/net/url_request/url_request_throttler_manager.cc
+END
+url_request_throttler_header_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/67375/trunk/src/net/url_request/url_request_throttler_header_interface.h
+END
+url_request_throttler_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/126849/trunk/src/net/url_request/url_request_throttler_manager.h
+END
+url_request_simple_job.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/115181/trunk/src/net/url_request/url_request_simple_job.cc
+END
+url_request_ftp_job.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/116748/trunk/src/net/url_request/url_request_ftp_job.h
+END
+url_request_error_job.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/115181/trunk/src/net/url_request/url_request_error_job.h
+END
+url_request_context_builder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/134754/trunk/src/net/url_request/url_request_context_builder.cc
+END
+url_request_context_getter.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/128142/trunk/src/net/url_request/url_request_context_getter.h
+END
+url_request_throttler_header_adapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/110231/trunk/src/net/url_request/url_request_throttler_header_adapter.h
+END
+url_request_data_job.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/72013/trunk/src/net/url_request/url_request_data_job.cc
+END
+url_request_about_job.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/115181/trunk/src/net/url_request/url_request_about_job.cc
+END
+url_request_throttler_entry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/134460/trunk/src/net/url_request/url_request_throttler_entry.cc
+END
+url_request_file_job.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/131732/trunk/src/net/url_request/url_request_file_job.cc
+END
+url_request_job.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/118011/trunk/src/net/url_request/url_request_job.cc
+END
+url_request_file_job.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/115181/trunk/src/net/url_request/url_request_file_job.h
+END
+url_request_context.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/131565/trunk/src/net/url_request/url_request_context.cc
+END
+url_request_throttler_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/134460/trunk/src/net/url_request/url_request_throttler_unittest.cc
+END
+url_request_throttler_entry_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/96560/trunk/src/net/url_request/url_request_throttler_entry_interface.h
+END
+url_request_netlog_params.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/134460/trunk/src/net/url_request/url_request_netlog_params.cc
+END
+url_request_redirect_job.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/115181/trunk/src/net/url_request/url_request_redirect_job.h
+END
+url_request_context_getter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/128142/trunk/src/net/url_request/url_request_context_getter.cc
+END
+view_cache_helper_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/134460/trunk/src/net/url_request/view_cache_helper_unittest.cc
+END
+fraudulent_certificate_reporter.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/106355/trunk/src/net/url_request/fraudulent_certificate_reporter.h
+END
+url_request_about_job.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/115181/trunk/src/net/url_request/url_request_about_job.h
+END
+url_request_file_dir_job.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/115181/trunk/src/net/url_request/url_request_file_dir_job.cc
+END
+url_request_context_storage.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/128323/trunk/src/net/url_request/url_request_context_storage.cc
+END
+url_request_http_job.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/134754/trunk/src/net/url_request/url_request_http_job.cc
+END
+url_request_throttler_entry.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/133792/trunk/src/net/url_request/url_request_throttler_entry.h
+END
+url_request_http_job.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/126999/trunk/src/net/url_request/url_request_http_job.h
+END
+url_request_test_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/128323/trunk/src/net/url_request/url_request_test_util.cc
+END
+url_request_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/134754/trunk/src/net/url_request/url_request_unittest.cc
+END
+url_request.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/134524/trunk/src/net/url_request/url_request.cc
+END
+url_request_ftp_job.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/113825/trunk/src/net/url_request/url_request_ftp_job.cc
+END
+url_request_error_job.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/115181/trunk/src/net/url_request/url_request_error_job.cc
+END
+url_request_throttler_test_support.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/87608/trunk/src/net/url_request/url_request_throttler_test_support.h
+END
+url_request_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/92992/trunk/src/net/url_request/url_request_filter.cc
+END
+url_request_simple_job.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/115181/trunk/src/net/url_request/url_request_simple_job.h
+END
+url_request_context.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/131565/trunk/src/net/url_request/url_request_context.h
+END
+url_request_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/96560/trunk/src/net/url_request/url_request_filter.h
+END
+url_request_context_builder_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/133318/trunk/src/net/url_request/url_request_context_builder_unittest.cc
+END
+url_request_throttler_header_adapter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/79340/trunk/src/net/url_request/url_request_throttler_header_adapter.cc
+END

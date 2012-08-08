@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/143/trunk/src/libGLESv2
+END
+Blit.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/132/trunk/src/libGLESv2/Blit.h
+END
+Texture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/142/trunk/src/libGLESv2/Texture.cpp
+END
+Texture.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/132/trunk/src/libGLESv2/Texture.h
+END
+libGLESv2.def
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/src/libGLESv2/libGLESv2.def
+END
+Shader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/143/trunk/src/libGLESv2/Shader.cpp
+END
+Program.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/143/trunk/src/libGLESv2/Program.cpp
+END
+Buffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/62/trunk/src/libGLESv2/Buffer.cpp
+END
+Renderbuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/src/libGLESv2/Renderbuffer.cpp
+END
+libGLESv2.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/132/trunk/src/libGLESv2/libGLESv2.vcproj
+END
+utilities.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/62/trunk/src/libGLESv2/utilities.cpp
+END
+Shader.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/97/trunk/src/libGLESv2/Shader.h
+END
+Program.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/143/trunk/src/libGLESv2/Program.h
+END
+Renderbuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/62/trunk/src/libGLESv2/Renderbuffer.h
+END
+Buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/62/trunk/src/libGLESv2/Buffer.h
+END
+utilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/src/libGLESv2/utilities.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/62/trunk/src/libGLESv2/main.cpp
+END
+Framebuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/src/libGLESv2/Framebuffer.cpp
+END
+Context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/143/trunk/src/libGLESv2/Context.cpp
+END
+Framebuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/62/trunk/src/libGLESv2/Framebuffer.h
+END
+Context.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/132/trunk/src/libGLESv2/Context.h
+END
+libGLESv2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/141/trunk/src/libGLESv2/libGLESv2.cpp
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/62/trunk/src/libGLESv2/main.h
+END
+Blit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/132/trunk/src/libGLESv2/Blit.cpp
+END
+mathutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/40/trunk/src/libGLESv2/mathutil.h
+END

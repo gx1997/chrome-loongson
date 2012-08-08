@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/132569/trunk/src/tools/isolate/data/isolate
+END
+no_run.isolate
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/132569/trunk/src/tools/isolate/data/isolate/no_run.isolate
+END
+fail.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/132569/trunk/src/tools/isolate/data/isolate/fail.py
+END
+with_flag.isolate
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/132569/trunk/src/tools/isolate/data/isolate/with_flag.isolate
+END
+touch_root.isolate
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/132569/trunk/src/tools/isolate/data/isolate/touch_root.isolate
+END
+fail.isolate
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/132569/trunk/src/tools/isolate/data/isolate/fail.isolate
+END
+missing_trailing_slash.isolate
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/131896/trunk/src/tools/isolate/data/isolate/missing_trailing_slash.isolate
+END
+with_flag.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/132569/trunk/src/tools/isolate/data/isolate/with_flag.py
+END
+non_existent.isolate
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/131896/trunk/src/tools/isolate/data/isolate/non_existent.isolate
+END
+touch_root.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/132569/trunk/src/tools/isolate/data/isolate/touch_root.py
+END

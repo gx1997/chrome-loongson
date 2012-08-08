@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/134567/trunk/src/remoting/host/installer/mac
+END
+ChromotingHost.packproj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/133999/trunk/src/remoting/host/installer/mac/ChromotingHost.packproj
+END
+ChromotingHostService.packproj
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/133999/trunk/src/remoting/host/installer/mac/ChromotingHostService.packproj
+END
+ChromotingHostUninstaller.packproj
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/133999/trunk/src/remoting/host/installer/mac/ChromotingHostUninstaller.packproj
+END
+do_signing.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/134567/trunk/src/remoting/host/installer/mac/do_signing.sh
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/132567/trunk/src/chrome/browser/extensions/api/web_navigation
+END
+web_navigation_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/130577/trunk/src/chrome/browser/extensions/api/web_navigation/web_navigation_unittest.cc
+END
+web_navigation_api_constants.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/130577/trunk/src/chrome/browser/extensions/api/web_navigation/web_navigation_api_constants.cc
+END
+web_navigation_api_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/130577/trunk/src/chrome/browser/extensions/api/web_navigation/web_navigation_api_constants.h
+END
+web_navigation_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/132567/trunk/src/chrome/browser/extensions/api/web_navigation/web_navigation_api.cc
+END
+web_navigation_apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/130577/trunk/src/chrome/browser/extensions/api/web_navigation/web_navigation_apitest.cc
+END
+web_navigation_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/130577/trunk/src/chrome/browser/extensions/api/web_navigation/web_navigation_api.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/130577/trunk/src/chrome/browser/extensions/api/web_navigation/OWNERS
+END

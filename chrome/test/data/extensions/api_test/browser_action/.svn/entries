@@ -1,0 +1,61 @@
+10
+
+dir
+134868
+http://src.chromium.org/svn/trunk/src/chrome/test/data/extensions/api_test/browser_action
+http://src.chromium.org/svn
+
+
+
+2012-03-19T13:08:46.522665Z
+127452
+cduvall@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+none
+dir
+
+remove_popup
+dir
+
+popup
+dir
+
+basics
+dir
+
+no_icon
+dir
+
+close_background
+dir
+
+crash_57536
+dir
+
+tab_specific_state
+dir
+
+add_popup
+dir
+
+getters
+dir
+
+color
+dir
+

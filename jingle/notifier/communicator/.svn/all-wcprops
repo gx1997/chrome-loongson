@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/126793/trunk/src/jingle/notifier/communicator
+END
+xmpp_connection_generator.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/110333/trunk/src/jingle/notifier/communicator/xmpp_connection_generator.h
+END
+connection_options.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/53839/trunk/src/jingle/notifier/communicator/connection_options.h
+END
+connection_settings.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/76962/trunk/src/jingle/notifier/communicator/connection_settings.cc
+END
+connection_settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/67491/trunk/src/jingle/notifier/communicator/connection_settings.h
+END
+single_login_attempt.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/100278/trunk/src/jingle/notifier/communicator/single_login_attempt.cc
+END
+login.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/100278/trunk/src/jingle/notifier/communicator/login.cc
+END
+xmpp_connection_generator_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/109030/trunk/src/jingle/notifier/communicator/xmpp_connection_generator_unittest.cc
+END
+login_settings.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/81820/trunk/src/jingle/notifier/communicator/login_settings.cc
+END
+single_login_attempt.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/110546/trunk/src/jingle/notifier/communicator/single_login_attempt.h
+END
+xmpp_connection_generator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/126793/trunk/src/jingle/notifier/communicator/xmpp_connection_generator.cc
+END
+login.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/110546/trunk/src/jingle/notifier/communicator/login.h
+END
+connection_options.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/53839/trunk/src/jingle/notifier/communicator/connection_options.cc
+END
+login_settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/109998/trunk/src/jingle/notifier/communicator/login_settings.h
+END

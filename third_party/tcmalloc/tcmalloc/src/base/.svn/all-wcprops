@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/77/trunk/src/base
+END
+atomicops-internals-linuxppc.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/74/trunk/src/base/atomicops-internals-linuxppc.h
+END
+googleinit.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/28/trunk/src/base/googleinit.h
+END
+stl_allocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/70/trunk/src/base/stl_allocator.h
+END
+low_level_alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/76/trunk/src/base/low_level_alloc.h
+END
+basictypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/76/trunk/src/base/basictypes.h
+END
+linuxthreads.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/44/trunk/src/base/linuxthreads.h
+END
+simple_mutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/76/trunk/src/base/simple_mutex.h
+END
+atomicops-internals-x86.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/76/trunk/src/base/atomicops-internals-x86.h
+END
+elfcore.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/70/trunk/src/base/elfcore.h
+END
+spinlock_linux-inl.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/77/trunk/src/base/spinlock_linux-inl.h
+END
+spinlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/76/trunk/src/base/spinlock.h
+END
+logging.cc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/70/trunk/src/base/logging.cc
+END
+thread_lister.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/60/trunk/src/base/thread_lister.c
+END
+spinlock_posix-inl.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/76/trunk/src/base/spinlock_posix-inl.h
+END
+spinlock_win32-inl.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/76/trunk/src/base/spinlock_win32-inl.h
+END
+thread_lister.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/trunk/src/base/thread_lister.h
+END
+sysinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/76/trunk/src/base/sysinfo.h
+END
+atomicops.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/70/trunk/src/base/atomicops.h
+END
+dynamic_annotations.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/76/trunk/src/base/dynamic_annotations.cc
+END
+low_level_alloc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/76/trunk/src/base/low_level_alloc.cc
+END
+dynamic_annotations.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/76/trunk/src/base/dynamic_annotations.h
+END
+commandlineflags.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/70/trunk/src/base/commandlineflags.h
+END
+vdso_support.cc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/77/trunk/src/base/vdso_support.cc
+END
+vdso_support.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/76/trunk/src/base/vdso_support.h
+END
+linuxthreads.cc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/54/trunk/src/base/linuxthreads.cc
+END
+cycleclock.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/66/trunk/src/base/cycleclock.h
+END
+atomicops-internals-x86.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/76/trunk/src/base/atomicops-internals-x86.cc
+END
+spinlock.cc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/76/trunk/src/base/spinlock.cc
+END
+atomicops-internals-macosx.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/76/trunk/src/base/atomicops-internals-macosx.h
+END
+atomicops-internals-x86-msvc.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/73/trunk/src/base/atomicops-internals-x86-msvc.h
+END
+thread_annotations.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/66/trunk/src/base/thread_annotations.h
+END
+linux_syscall_support.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/66/trunk/src/base/linux_syscall_support.h
+END
+logging.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/76/trunk/src/base/logging.h
+END
+sysinfo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/76/trunk/src/base/sysinfo.cc
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/134619/trunk/src/ppapi/native_client
+END
+native_client.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/130386/trunk/src/ppapi/native_client/native_client.gyp
+END
+ppapi_scons_files.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/131624/trunk/src/ppapi/native_client/ppapi_scons_files.py
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/111412/trunk/src/ppapi/native_client/OWNERS
+END

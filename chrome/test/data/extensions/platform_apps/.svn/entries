@@ -1,0 +1,49 @@
+10
+
+dir
+134868
+http://src.chromium.org/svn/trunk/src/chrome/test/data/extensions/platform_apps
+http://src.chromium.org/svn
+
+
+
+2012-04-24T03:45:32.626619Z
+133627
+thestig@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+navigation
+dir
+
+windows_api
+dir
+
+storage
+dir
+
+empty_context_menu
+dir
+
+context_menu
+dir
+
+restrictions
+dir
+
+launch
+dir
+

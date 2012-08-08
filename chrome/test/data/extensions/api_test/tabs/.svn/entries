@@ -1,0 +1,58 @@
+10
+
+dir
+134868
+http://src.chromium.org/svn/trunk/src/chrome/test/data/extensions/api_test/tabs
+http://src.chromium.org/svn
+
+
+
+2012-03-16T00:30:57.191407Z
+127044
+dcheng@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+incognito_disabled
+dir
+
+get_current
+dir
+
+on_updated
+dir
+
+javascript_url_permissions
+dir
+
+basics
+dir
+
+capture_visible_tab
+dir
+
+reload
+dir
+
+connect
+dir
+
+current_window
+dir
+
+on_removed
+dir
+

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/134714/trunk/src/chrome/browser/chromeos/ui
+END
+screensaver_extension_dialog.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/134653/trunk/src/chrome/browser/chromeos/ui/screensaver_extension_dialog.cc
+END
+screensaver_extension_dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/128619/trunk/src/chrome/browser/chromeos/ui/screensaver_extension_dialog.h
+END
+setting_level_bubble_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/116746/trunk/src/chrome/browser/chromeos/ui/setting_level_bubble_view.cc
+END
+setting_level_bubble_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/116746/trunk/src/chrome/browser/chromeos/ui/setting_level_bubble_view.h
+END
+setting_level_bubble.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/134714/trunk/src/chrome/browser/chromeos/ui/setting_level_bubble.cc
+END
+idle_logout_dialog_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/134053/trunk/src/chrome/browser/chromeos/ui/idle_logout_dialog_view.cc
+END
+setting_level_bubble.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/116746/trunk/src/chrome/browser/chromeos/ui/setting_level_bubble.h
+END
+idle_logout_dialog_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/132902/trunk/src/chrome/browser/chromeos/ui/idle_logout_dialog_view.h
+END
+setting_level_bubble_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/116746/trunk/src/chrome/browser/chromeos/ui/setting_level_bubble_browsertest.cc
+END
+volume_bubble.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/116746/trunk/src/chrome/browser/chromeos/ui/volume_bubble.cc
+END
+idle_logout_dialog_view_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/132902/trunk/src/chrome/browser/chromeos/ui/idle_logout_dialog_view_browsertest.cc
+END
+brightness_bubble.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/116746/trunk/src/chrome/browser/chromeos/ui/brightness_bubble.cc
+END
+volume_bubble.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/116746/trunk/src/chrome/browser/chromeos/ui/volume_bubble.h
+END
+brightness_bubble.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/116746/trunk/src/chrome/browser/chromeos/ui/brightness_bubble.h
+END
+volume_bubble_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/116746/trunk/src/chrome/browser/chromeos/ui/volume_bubble_browsertest.cc
+END
+brightness_bubble_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/116746/trunk/src/chrome/browser/chromeos/ui/brightness_bubble_browsertest.cc
+END

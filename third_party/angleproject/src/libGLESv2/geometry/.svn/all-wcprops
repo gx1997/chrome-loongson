@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/117/trunk/src/libGLESv2/geometry
+END
+IndexDataManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/72/trunk/src/libGLESv2/geometry/IndexDataManager.h
+END
+VertexDataManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/74/trunk/src/libGLESv2/geometry/VertexDataManager.cpp
+END
+dx9.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/72/trunk/src/libGLESv2/geometry/dx9.cpp
+END
+VertexDataManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/72/trunk/src/libGLESv2/geometry/VertexDataManager.h
+END
+backend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/99/trunk/src/libGLESv2/geometry/backend.cpp
+END
+vertexconversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/117/trunk/src/libGLESv2/geometry/vertexconversion.h
+END
+dx9.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/72/trunk/src/libGLESv2/geometry/dx9.h
+END
+IndexDataManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/72/trunk/src/libGLESv2/geometry/IndexDataManager.cpp
+END
+backend.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/src/libGLESv2/geometry/backend.h
+END

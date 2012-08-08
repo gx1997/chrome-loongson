@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/134819/trunk/src/chrome/browser/ui/webui/signin
+END
+login_ui_service_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/122537/trunk/src/chrome/browser/ui/webui/signin/login_ui_service_factory.cc
+END
+login_ui_service_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/122537/trunk/src/chrome/browser/ui/webui/signin/login_ui_service_factory.h
+END
+login_ui_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/134819/trunk/src/chrome/browser/ui/webui/signin/login_ui_service.cc
+END
+login_ui_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/134819/trunk/src/chrome/browser/ui/webui/signin/login_ui_service.h
+END

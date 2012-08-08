@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/134136/trunk/src/ui/aura/desktop
+END
+desktop_root_window_event_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/129990/trunk/src/ui/aura/desktop/desktop_root_window_event_filter.h
+END
+desktop_stacking_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/133105/trunk/src/ui/aura/desktop/desktop_stacking_client.h
+END
+desktop_dispatcher_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/129990/trunk/src/ui/aura/desktop/desktop_dispatcher_client.cc
+END
+desktop_dispatcher_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/129990/trunk/src/ui/aura/desktop/desktop_dispatcher_client.h
+END
+desktop_screen_x11.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/134136/trunk/src/ui/aura/desktop/desktop_screen_x11.cc
+END
+desktop_screen_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/134136/trunk/src/ui/aura/desktop/desktop_screen_win.cc
+END
+desktop_screen_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/134136/trunk/src/ui/aura/desktop/desktop_screen_win.h
+END
+desktop_activation_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/130495/trunk/src/ui/aura/desktop/desktop_activation_client.cc
+END
+desktop_root_window_event_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/129990/trunk/src/ui/aura/desktop/desktop_root_window_event_filter.cc
+END
+desktop_activation_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/129990/trunk/src/ui/aura/desktop/desktop_activation_client.h
+END
+desktop_stacking_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/133105/trunk/src/ui/aura/desktop/desktop_stacking_client.cc
+END
+desktop_screen.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/134136/trunk/src/ui/aura/desktop/desktop_screen.h
+END

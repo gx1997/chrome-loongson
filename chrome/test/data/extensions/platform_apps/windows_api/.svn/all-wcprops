@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/133555/trunk/src/chrome/test/data/extensions/platform_apps/windows_api
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/133555/trunk/src/chrome/test/data/extensions/platform_apps/windows_api/test.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/133555/trunk/src/chrome/test/data/extensions/platform_apps/windows_api/manifest.json
+END

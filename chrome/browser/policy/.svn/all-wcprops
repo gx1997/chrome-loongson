@@ -1,0 +1,833 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/134317/trunk/src/chrome/browser/policy
+END
+config_dir_policy_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/118842/trunk/src/chrome/browser/policy/config_dir_policy_provider.h
+END
+policy_notifier.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/123471/trunk/src/chrome/browser/policy/policy_notifier.cc
+END
+configuration_policy_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/118842/trunk/src/chrome/browser/policy/configuration_policy_provider.h
+END
+asynchronous_policy_loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/118842/trunk/src/chrome/browser/policy/asynchronous_policy_loader.h
+END
+cloud_policy_subsystem_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/130067/trunk/src/chrome/browser/policy/cloud_policy_subsystem_unittest.cc
+END
+auto_enrollment_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/128475/trunk/src/chrome/browser/policy/auto_enrollment_client.cc
+END
+delayed_work_scheduler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/102100/trunk/src/chrome/browser/policy/delayed_work_scheduler.cc
+END
+configuration_policy_reader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/118648/trunk/src/chrome/browser/policy/configuration_policy_reader.cc
+END
+cros_user_policy_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/132436/trunk/src/chrome/browser/policy/cros_user_policy_cache.h
+END
+configuration_policy_provider_win_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/118648/trunk/src/chrome/browser/policy/configuration_policy_provider_win_unittest.cc
+END
+configuration_policy_handler_chromeos_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/118648/trunk/src/chrome/browser/policy/configuration_policy_handler_chromeos_unittest.cc
+END
+mock_configuration_policy_reader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/98977/trunk/src/chrome/browser/policy/mock_configuration_policy_reader.cc
+END
+configuration_policy_provider_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/119249/trunk/src/chrome/browser/policy/configuration_policy_provider_mac.h
+END
+policy_path_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/107115/trunk/src/chrome/browser/policy/policy_path_parser.h
+END
+cloud_policy_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/133173/trunk/src/chrome/browser/policy/cloud_policy_controller.h
+END
+config_dir_policy_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/123701/trunk/src/chrome/browser/policy/config_dir_policy_provider.cc
+END
+cloud_policy_data_store.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/130897/trunk/src/chrome/browser/policy/cloud_policy_data_store.h
+END
+cloud_policy_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/130067/trunk/src/chrome/browser/policy/cloud_policy_provider.h
+END
+configuration_policy_provider_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/127256/trunk/src/chrome/browser/policy/configuration_policy_provider_test.h
+END
+enterprise_install_attributes_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/130724/trunk/src/chrome/browser/policy/enterprise_install_attributes_unittest.cc
+END
+mock_configuration_policy_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/118648/trunk/src/chrome/browser/policy/mock_configuration_policy_provider.h
+END
+configuration_policy_provider_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/118842/trunk/src/chrome/browser/policy/configuration_policy_provider_win.cc
+END
+device_management_service_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/123078/trunk/src/chrome/browser/policy/device_management_service_browsertest.cc
+END
+user_policy_cache_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/124966/trunk/src/chrome/browser/policy/user_policy_cache_unittest.cc
+END
+policy_status_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/118648/trunk/src/chrome/browser/policy/policy_status_info.h
+END
+configuration_policy_pref_store.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/133870/trunk/src/chrome/browser/policy/configuration_policy_pref_store.h
+END
+policy_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/134317/trunk/src/chrome/browser/policy/policy_service.h
+END
+url_blacklist_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/108270/trunk/src/chrome/browser/policy/url_blacklist_manager_unittest.cc
+END
+asynchronous_policy_provider_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/118842/trunk/src/chrome/browser/policy/asynchronous_policy_provider_unittest.cc
+END
+policy_map_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/118648/trunk/src/chrome/browser/policy/policy_map_unittest.cc
+END
+testing_cloud_policy_subsystem.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/91957/trunk/src/chrome/browser/policy/testing_cloud_policy_subsystem.cc
+END
+policy_service_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/133476/trunk/src/chrome/browser/policy/policy_service_impl.cc
+END
+device_token_fetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/123471/trunk/src/chrome/browser/policy/device_token_fetcher.h
+END
+device_policy_cache.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/132450/trunk/src/chrome/browser/policy/device_policy_cache.cc
+END
+network_configuration_updater_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/118648/trunk/src/chrome/browser/policy/network_configuration_updater_unittest.cc
+END
+configuration_policy_reader_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/133504/trunk/src/chrome/browser/policy/configuration_policy_reader_unittest.cc
+END
+configuration_policy_provider_delegate_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/118842/trunk/src/chrome/browser/policy/configuration_policy_provider_delegate_win.cc
+END
+enterprise_install_attributes.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/123471/trunk/src/chrome/browser/policy/enterprise_install_attributes.h
+END
+configuration_policy_handler_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/108795/trunk/src/chrome/browser/policy/configuration_policy_handler_list.h
+END
+user_policy_token_cache.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/108270/trunk/src/chrome/browser/policy/user_policy_token_cache.cc
+END
+user_policy_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/124966/trunk/src/chrome/browser/policy/user_policy_cache.h
+END
+configuration_policy_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/133504/trunk/src/chrome/browser/policy/configuration_policy_handler.cc
+END
+mock_configuration_policy_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/118648/trunk/src/chrome/browser/policy/mock_configuration_policy_reader.h
+END
+configuration_policy_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/133504/trunk/src/chrome/browser/policy/configuration_policy_handler.h
+END
+url_blacklist_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/111949/trunk/src/chrome/browser/policy/url_blacklist_manager.h
+END
+asynchronous_policy_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/118842/trunk/src/chrome/browser/policy/asynchronous_policy_provider.h
+END
+configuration_policy_loader_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/109405/trunk/src/chrome/browser/policy/configuration_policy_loader_win.cc
+END
+policy_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/118842/trunk/src/chrome/browser/policy/policy_map.h
+END
+app_pack_updater.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/130724/trunk/src/chrome/browser/policy/app_pack_updater.cc
+END
+cloud_policy_subsystem.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/130897/trunk/src/chrome/browser/policy/cloud_policy_subsystem.cc
+END
+cloud_policy_subsystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/123471/trunk/src/chrome/browser/policy/cloud_policy_subsystem.h
+END
+cros_user_policy_cache_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/132195/trunk/src/chrome/browser/policy/cros_user_policy_cache_unittest.cc
+END
+network_configuration_updater.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/118648/trunk/src/chrome/browser/policy/network_configuration_updater.h
+END
+cros_user_policy_cache.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/132436/trunk/src/chrome/browser/policy/cros_user_policy_cache.cc
+END
+configuration_policy_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/118648/trunk/src/chrome/browser/policy/configuration_policy_reader.h
+END
+enterprise_install_attributes.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/130724/trunk/src/chrome/browser/policy/enterprise_install_attributes.cc
+END
+policy_status_info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/118709/trunk/src/chrome/browser/policy/policy_status_info.cc
+END
+cloud_policy_constants.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/116111/trunk/src/chrome/browser/policy/cloud_policy_constants.cc
+END
+url_blacklist_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/112455/trunk/src/chrome/browser/policy/url_blacklist_manager.cc
+END
+asynchronous_policy_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/118842/trunk/src/chrome/browser/policy/asynchronous_policy_provider.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/98974/trunk/src/chrome/browser/policy/OWNERS
+END
+policy_path_parser_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/86807/trunk/src/chrome/browser/policy/policy_path_parser_mac.mm
+END
+policy_map.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/130085/trunk/src/chrome/browser/policy/policy_map.cc
+END
+mock_cloud_policy_data_store.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/93383/trunk/src/chrome/browser/policy/mock_cloud_policy_data_store.cc
+END
+device_policy_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/132450/trunk/src/chrome/browser/policy/device_policy_cache.h
+END
+network_configuration_updater.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/118648/trunk/src/chrome/browser/policy/network_configuration_updater.cc
+END
+app_pack_updater.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/129817/trunk/src/chrome/browser/policy/app_pack_updater.h
+END
+mock_cloud_policy_data_store.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/93383/trunk/src/chrome/browser/policy/mock_cloud_policy_data_store.h
+END
+device_status_collector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/127681/trunk/src/chrome/browser/policy/device_status_collector.cc
+END
+file_based_policy_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/118842/trunk/src/chrome/browser/policy/file_based_policy_provider.h
+END
+enterprise_metrics.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/123488/trunk/src/chrome/browser/policy/enterprise_metrics.h
+END
+delayed_work_scheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/102100/trunk/src/chrome/browser/policy/delayed_work_scheduler.h
+END
+device_management_service_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/116111/trunk/src/chrome/browser/policy/device_management_service_unittest.cc
+END
+configuration_policy_pref_store_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/130120/trunk/src/chrome/browser/policy/configuration_policy_pref_store_unittest.cc
+END
+configuration_policy_pref_store.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/133870/trunk/src/chrome/browser/policy/configuration_policy_pref_store.cc
+END
+file_based_policy_loader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/133870/trunk/src/chrome/browser/policy/file_based_policy_loader.cc
+END
+configuration_policy_handler_chromeos.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/131680/trunk/src/chrome/browser/policy/configuration_policy_handler_chromeos.cc
+END
+mock_device_management_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/116131/trunk/src/chrome/browser/policy/mock_device_management_service.h
+END
+logging_work_scheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/103875/trunk/src/chrome/browser/policy/logging_work_scheduler.h
+END
+user_policy_disk_cache.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/130067/trunk/src/chrome/browser/policy/user_policy_disk_cache.cc
+END
+configuration_policy_loader_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/109405/trunk/src/chrome/browser/policy/configuration_policy_loader_win.h
+END
+cloud_policy_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/130067/trunk/src/chrome/browser/policy/cloud_policy_provider.cc
+END
+configuration_policy_provider_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/118648/trunk/src/chrome/browser/policy/configuration_policy_provider_test.cc
+END
+asynchronous_policy_loader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/124869/trunk/src/chrome/browser/policy/asynchronous_policy_loader.cc
+END
+configuration_policy_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/130067/trunk/src/chrome/browser/policy/configuration_policy_provider.cc
+END
+device_policy_cache_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/130377/trunk/src/chrome/browser/policy/device_policy_cache_unittest.cc
+END
+policy_notifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/81088/trunk/src/chrome/browser/policy/policy_notifier.h
+END
+policy_service_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/130120/trunk/src/chrome/browser/policy/policy_service_impl.h
+END
+cloud_policy_cache_base.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/118648/trunk/src/chrome/browser/policy/cloud_policy_cache_base.cc
+END
+testing_cloud_policy_subsystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/102100/trunk/src/chrome/browser/policy/testing_cloud_policy_subsystem.h
+END
+policy_path_parser_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/102100/trunk/src/chrome/browser/policy/policy_path_parser_win.cc
+END
+policy_path_parser_linux.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/94287/trunk/src/chrome/browser/policy/policy_path_parser_linux.cc
+END
+testing_policy_url_fetcher_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/114413/trunk/src/chrome/browser/policy/testing_policy_url_fetcher_factory.h
+END
+policy_error_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/118648/trunk/src/chrome/browser/policy/policy_error_map.h
+END
+configuration_policy_handler_list.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/128025/trunk/src/chrome/browser/policy/configuration_policy_handler_list.cc
+END
+policy_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/134317/trunk/src/chrome/browser/policy/policy_service.cc
+END
+configuration_policy_provider_mac.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/119249/trunk/src/chrome/browser/policy/configuration_policy_provider_mac.cc
+END
+user_policy_token_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/92577/trunk/src/chrome/browser/policy/user_policy_token_cache.h
+END
+cloud_policy_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/130724/trunk/src/chrome/browser/policy/cloud_policy_constants.h
+END
+file_based_policy_loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/109405/trunk/src/chrome/browser/policy/file_based_policy_loader.h
+END
+mock_device_management_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/116131/trunk/src/chrome/browser/policy/mock_device_management_service.cc
+END
+configuration_policy_handler_chromeos.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/118648/trunk/src/chrome/browser/policy/configuration_policy_handler_chromeos.h
+END
+policy_path_parser_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/86807/trunk/src/chrome/browser/policy/policy_path_parser_unittest.cc
+END
+cloud_policy_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/133173/trunk/src/chrome/browser/policy/cloud_policy_controller.cc
+END
+user_policy_disk_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/116104/trunk/src/chrome/browser/policy/user_policy_disk_cache.h
+END
+cloud_policy_provider_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/130067/trunk/src/chrome/browser/policy/cloud_policy_provider_unittest.cc
+END
+device_token_fetcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/130724/trunk/src/chrome/browser/policy/device_token_fetcher.cc
+END
+asynchronous_policy_test_base.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/109405/trunk/src/chrome/browser/policy/asynchronous_policy_test_base.cc
+END
+cloud_policy_cache_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/124966/trunk/src/chrome/browser/policy/cloud_policy_cache_base.h
+END
+asynchronous_policy_test_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/118842/trunk/src/chrome/browser/policy/asynchronous_policy_test_base.h
+END
+device_status_collector_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/122299/trunk/src/chrome/browser/policy/device_status_collector_unittest.cc
+END
+auto_enrollment_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/128475/trunk/src/chrome/browser/policy/auto_enrollment_client.h
+END
+configuration_policy_provider_delegate_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/118842/trunk/src/chrome/browser/policy/configuration_policy_provider_delegate_win.h
+END
+policy_service_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/133656/trunk/src/chrome/browser/policy/policy_service_unittest.cc
+END
+browser_policy_connector.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/130054/trunk/src/chrome/browser/policy/browser_policy_connector.h
+END
+policy_service_stub.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/130120/trunk/src/chrome/browser/policy/policy_service_stub.h
+END
+config_dir_policy_provider_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/123701/trunk/src/chrome/browser/policy/config_dir_policy_provider_unittest.cc
+END
+device_token_fetcher_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/130724/trunk/src/chrome/browser/policy/device_token_fetcher_unittest.cc
+END
+asynchronous_policy_loader_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/118842/trunk/src/chrome/browser/policy/asynchronous_policy_loader_unittest.cc
+END
+auto_enrollment_client_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/128475/trunk/src/chrome/browser/policy/auto_enrollment_client_unittest.cc
+END
+policy_error_map.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/118648/trunk/src/chrome/browser/policy/policy_error_map.cc
+END
+testing_policy_url_fetcher_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/114413/trunk/src/chrome/browser/policy/testing_policy_url_fetcher_factory.cc
+END
+file_based_policy_provider_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/118842/trunk/src/chrome/browser/policy/file_based_policy_provider_unittest.cc
+END
+enterprise_metrics.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/91857/trunk/src/chrome/browser/policy/enterprise_metrics.cc
+END
+file_based_policy_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/118842/trunk/src/chrome/browser/policy/file_based_policy_provider.cc
+END
+mock_configuration_policy_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/118648/trunk/src/chrome/browser/policy/mock_configuration_policy_provider.cc
+END
+device_status_collector.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/122299/trunk/src/chrome/browser/policy/device_status_collector.h
+END
+device_management_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/133870/trunk/src/chrome/browser/policy/device_management_service.cc
+END
+browser_policy_connector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/132436/trunk/src/chrome/browser/policy/browser_policy_connector.cc
+END
+policy_service_stub.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/130234/trunk/src/chrome/browser/policy/policy_service_stub.cc
+END
+device_management_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/116137/trunk/src/chrome/browser/policy/device_management_service.h
+END
+configuration_policy_provider_mac_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/119249/trunk/src/chrome/browser/policy/configuration_policy_provider_mac_unittest.cc
+END
+configuration_policy_provider_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/118842/trunk/src/chrome/browser/policy/configuration_policy_provider_win.h
+END
+user_policy_cache.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/124966/trunk/src/chrome/browser/policy/user_policy_cache.cc
+END
+logging_work_scheduler_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/108270/trunk/src/chrome/browser/policy/logging_work_scheduler_unittest.cc
+END
+logging_work_scheduler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/108270/trunk/src/chrome/browser/policy/logging_work_scheduler.cc
+END
+cloud_policy_controller_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/124966/trunk/src/chrome/browser/policy/cloud_policy_controller_unittest.cc
+END
+cloud_policy_data_store.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/130897/trunk/src/chrome/browser/policy/cloud_policy_data_store.cc
+END

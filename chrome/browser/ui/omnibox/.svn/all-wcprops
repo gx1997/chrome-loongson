@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/134137/trunk/src/chrome/browser/ui/omnibox
+END
+location_bar_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/134137/trunk/src/chrome/browser/ui/omnibox/location_bar_util.h
+END
+location_bar.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/117521/trunk/src/chrome/browser/ui/omnibox/location_bar.h
+END
+omnibox_view_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/95669/trunk/src/chrome/browser/ui/omnibox/omnibox_view_unittest.cc
+END
+omnibox_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/86525/trunk/src/chrome/browser/ui/omnibox/omnibox_view.cc
+END
+omnibox_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/126477/trunk/src/chrome/browser/ui/omnibox/omnibox_view.h
+END
+omnibox_view_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/133483/trunk/src/chrome/browser/ui/omnibox/omnibox_view_browsertest.cc
+END
+location_bar_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/134137/trunk/src/chrome/browser/ui/omnibox/location_bar_util.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/124195/trunk/src/chrome/browser/ui/omnibox/OWNERS
+END

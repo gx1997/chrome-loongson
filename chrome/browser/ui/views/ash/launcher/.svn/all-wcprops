@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/134788/trunk/src/chrome/browser/ui/views/ash/launcher
+END
+launcher_context_menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/133515/trunk/src/chrome/browser/ui/views/ash/launcher/launcher_context_menu.h
+END
+launcher_favicon_loader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/126448/trunk/src/chrome/browser/ui/views/ash/launcher/launcher_favicon_loader.cc
+END
+launcher_favicon_loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/127202/trunk/src/chrome/browser/ui/views/ash/launcher/launcher_favicon_loader.h
+END
+launcher_favicon_loader_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/130696/trunk/src/chrome/browser/ui/views/ash/launcher/launcher_favicon_loader_browsertest.cc
+END
+launcher_app_icon_loader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/126448/trunk/src/chrome/browser/ui/views/ash/launcher/launcher_app_icon_loader.cc
+END
+launcher_app_icon_loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/126448/trunk/src/chrome/browser/ui/views/ash/launcher/launcher_app_icon_loader.h
+END
+launcher_updater_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/132148/trunk/src/chrome/browser/ui/views/ash/launcher/launcher_updater_unittest.cc
+END
+launcher_updater.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/132924/trunk/src/chrome/browser/ui/views/ash/launcher/launcher_updater.cc
+END
+launcher_updater.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/128807/trunk/src/chrome/browser/ui/views/ash/launcher/launcher_updater.h
+END
+chrome_launcher_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/134788/trunk/src/chrome/browser/ui/views/ash/launcher/chrome_launcher_delegate.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/126981/trunk/src/chrome/browser/ui/views/ash/launcher/OWNERS
+END
+launcher_context_menu.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/134707/trunk/src/chrome/browser/ui/views/ash/launcher/launcher_context_menu.cc
+END
+chrome_launcher_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/134788/trunk/src/chrome/browser/ui/views/ash/launcher/chrome_launcher_delegate.h
+END

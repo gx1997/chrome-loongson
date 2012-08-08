@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/134632/trunk/src/chrome/browser/resources/file_manager/js
+END
+main.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/132558/trunk/src/chrome/browser/resources/file_manager/js/main.js
+END
+directory_model.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/134254/trunk/src/chrome/browser/resources/file_manager/js/directory_model.js
+END
+metrics.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/132558/trunk/src/chrome/browser/resources/file_manager/js/metrics.js
+END
+mock_chrome.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/134632/trunk/src/chrome/browser/resources/file_manager/js/mock_chrome.js
+END
+file_transfer_controller.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/134262/trunk/src/chrome/browser/resources/file_manager/js/file_transfer_controller.js
+END
+file_manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/134632/trunk/src/chrome/browser/resources/file_manager/js/file_manager.js
+END
+file_manager_pyauto.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/133699/trunk/src/chrome/browser/resources/file_manager/js/file_manager_pyauto.js
+END
+combobutton.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/134281/trunk/src/chrome/browser/resources/file_manager/js/combobutton.js
+END
+main_scripts.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/133205/trunk/src/chrome/browser/resources/file_manager/js/main_scripts.js
+END
+util.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/133903/trunk/src/chrome/browser/resources/file_manager/js/util.js
+END
+file_type.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/133205/trunk/src/chrome/browser/resources/file_manager/js/file_type.js
+END
+file_copy_manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/134093/trunk/src/chrome/browser/resources/file_manager/js/file_copy_manager.js
+END
+harness.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/124182/trunk/src/chrome/browser/resources/file_manager/js/harness.js
+END

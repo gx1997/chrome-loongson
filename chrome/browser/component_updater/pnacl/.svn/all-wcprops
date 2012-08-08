@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/114584/trunk/src/chrome/browser/component_updater/pnacl
+END
+pnacl_component_installer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/114584/trunk/src/chrome/browser/component_updater/pnacl/pnacl_component_installer.cc
+END
+pnacl_component_installer.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/114584/trunk/src/chrome/browser/component_updater/pnacl/pnacl_component_installer.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/114584/trunk/src/chrome/browser/component_updater/pnacl/OWNERS
+END

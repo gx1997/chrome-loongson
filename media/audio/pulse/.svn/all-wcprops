@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/133726/trunk/src/media/audio/pulse
+END
+pulse_output.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/133726/trunk/src/media/audio/pulse/pulse_output.cc
+END
+pulse_output.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/130288/trunk/src/media/audio/pulse/pulse_output.h
+END

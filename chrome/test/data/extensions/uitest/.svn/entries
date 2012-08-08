@@ -1,0 +1,77 @@
+10
+
+dir
+134868
+http://src.chromium.org/svn/trunk/src/chrome/test/data/extensions/uitest
+http://src.chromium.org/svn
+
+
+
+2012-04-18T15:52:56.049635Z
+132796
+jam@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+plugins
+dir
+
+plugins.pem
+file
+
+
+
+
+2010-11-06T09:04:51.000000Z
+16acea6b22a67838540e42fcff9fbbcc
+2010-11-05T16:58:14.167973Z
+65212
+asargent@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+911
+
+window_open
+dir
+
+simple_browser_action
+dir
+
+plugins_private
+dir
+
+rename_tab
+dir
+

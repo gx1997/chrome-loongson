@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/134707/trunk/src/ash/launcher
+END
+launcher_context_menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/134707/trunk/src/ash/launcher/launcher_context_menu.h
+END
+launcher_button_host.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/126647/trunk/src/ash/launcher/launcher_button_host.h
+END
+launcher_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/133853/trunk/src/ash/launcher/launcher_view.cc
+END
+launcher_button.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/128611/trunk/src/ash/launcher/launcher_button.cc
+END
+launcher_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/128843/trunk/src/ash/launcher/launcher_delegate.h
+END
+launcher_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/133603/trunk/src/ash/launcher/launcher_view.h
+END
+tabbed_launcher_button.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/127609/trunk/src/ash/launcher/tabbed_launcher_button.cc
+END
+launcher_button.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/128611/trunk/src/ash/launcher/launcher_button.h
+END
+tabbed_launcher_button.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/132924/trunk/src/ash/launcher/tabbed_launcher_button.h
+END
+launcher_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/133603/trunk/src/ash/launcher/launcher_unittest.cc
+END
+launcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/133120/trunk/src/ash/launcher/launcher.cc
+END
+launcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/133120/trunk/src/ash/launcher/launcher.h
+END
+background_animator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/128052/trunk/src/ash/launcher/background_animator.cc
+END
+background_animator.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/128052/trunk/src/ash/launcher/background_animator.h
+END
+launcher_model_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/128807/trunk/src/ash/launcher/launcher_model_unittest.cc
+END
+launcher_model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/128636/trunk/src/ash/launcher/launcher_model.cc
+END
+launcher_icon_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/133120/trunk/src/ash/launcher/launcher_icon_observer.h
+END
+launcher_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/128636/trunk/src/ash/launcher/launcher_model.h
+END
+launcher_types.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/128636/trunk/src/ash/launcher/launcher_types.cc
+END
+launcher_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/132924/trunk/src/ash/launcher/launcher_types.h
+END
+launcher_context_menu_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/134707/trunk/src/ash/launcher/launcher_context_menu_unittest.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/126981/trunk/src/ash/launcher/OWNERS
+END
+launcher_context_menu.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/134707/trunk/src/ash/launcher/launcher_context_menu.cc
+END
+launcher_model_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/123128/trunk/src/ash/launcher/launcher_model_observer.h
+END
+launcher_view_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/133853/trunk/src/ash/launcher/launcher_view_unittest.cc
+END

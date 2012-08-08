@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/134846/trunk/src/remoting
+END
+remoting.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/134842/trunk/src/remoting/remoting.gyp
+END
+run_all_unittests.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/112287/trunk/src/remoting/run_all_unittests.cc
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/132353/trunk/src/remoting/VERSION
+END
+chromium_branding
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/129701/trunk/src/remoting/chromium_branding
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/134296/trunk/src/remoting/DEPS
+END
+version.rc.version
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/129701/trunk/src/remoting/version.rc.version
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/130638/trunk/src/remoting/OWNERS
+END
+google_chrome_branding
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/129701/trunk/src/remoting/google_chrome_branding
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/132816/trunk/src/chrome/browser/ui/cocoa/tab_contents
+END
+sad_tab_view.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/110086/trunk/src/chrome/browser/ui/cocoa/tab_contents/sad_tab_view.mm
+END
+sad_tab_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/125013/trunk/src/chrome/browser/ui/cocoa/tab_contents/sad_tab_controller.h
+END
+sad_tab_controller_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/128198/trunk/src/chrome/browser/ui/cocoa/tab_contents/sad_tab_controller_unittest.mm
+END
+sad_tab_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/125013/trunk/src/chrome/browser/ui/cocoa/tab_contents/sad_tab_controller.mm
+END
+favicon_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/83966/trunk/src/chrome/browser/ui/cocoa/tab_contents/favicon_util.h
+END
+favicon_util.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/132816/trunk/src/chrome/browser/ui/cocoa/tab_contents/favicon_util.mm
+END
+previewable_contents_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/132816/trunk/src/chrome/browser/ui/cocoa/tab_contents/previewable_contents_controller.h
+END
+previewable_contents_controller_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/132816/trunk/src/chrome/browser/ui/cocoa/tab_contents/previewable_contents_controller_unittest.mm
+END
+tab_contents_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/118700/trunk/src/chrome/browser/ui/cocoa/tab_contents/tab_contents_controller.h
+END
+previewable_contents_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/118293/trunk/src/chrome/browser/ui/cocoa/tab_contents/previewable_contents_controller.mm
+END
+sad_tab_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/100273/trunk/src/chrome/browser/ui/cocoa/tab_contents/sad_tab_view.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/72345/trunk/src/chrome/browser/ui/cocoa/tab_contents/OWNERS
+END
+tab_contents_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/132816/trunk/src/chrome/browser/ui/cocoa/tab_contents/tab_contents_controller.mm
+END
+sad_tab_view_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/72345/trunk/src/chrome/browser/ui/cocoa/tab_contents/sad_tab_view_unittest.mm
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/134824/trunk/src/chrome/common/metrics
+END
+histogram_sender.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/119345/trunk/src/chrome/common/metrics/histogram_sender.cc
+END
+histogram_sender.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/119345/trunk/src/chrome/common/metrics/histogram_sender.h
+END
+metrics_log_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/134375/trunk/src/chrome/common/metrics/metrics_log_manager_unittest.cc
+END
+metrics_service_base.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/119345/trunk/src/chrome/common/metrics/metrics_service_base.cc
+END
+metrics_log_base_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/124086/trunk/src/chrome/common/metrics/metrics_log_base_unittest.cc
+END
+metrics_log_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/134375/trunk/src/chrome/common/metrics/metrics_log_manager.cc
+END
+metrics_log_base.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/134047/trunk/src/chrome/common/metrics/metrics_log_base.cc
+END
+experiments_helper_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/134350/trunk/src/chrome/common/metrics/experiments_helper_unittest.cc
+END
+metrics_service_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/119345/trunk/src/chrome/common/metrics/metrics_service_base.h
+END
+experiments_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/134350/trunk/src/chrome/common/metrics/experiments_helper.cc
+END
+metrics_log_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/134375/trunk/src/chrome/common/metrics/metrics_log_manager.h
+END
+metrics_log_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/124655/trunk/src/chrome/common/metrics/metrics_log_base.h
+END
+experiments_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/134350/trunk/src/chrome/common/metrics/experiments_helper.h
+END

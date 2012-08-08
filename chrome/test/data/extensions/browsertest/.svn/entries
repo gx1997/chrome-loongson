@@ -1,0 +1,46 @@
+10
+
+dir
+134868
+http://src.chromium.org/svn/trunk/src/chrome/test/data/extensions/browsertest
+http://src.chromium.org/svn
+
+
+
+2012-02-15T01:49:05.760551Z
+122004
+kalman@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+crash_44415
+dir
+
+crash_25562
+dir
+
+url_rewrite
+dir
+
+title_localized
+dir
+
+title_localized_pa
+dir
+
+last_error
+dir
+

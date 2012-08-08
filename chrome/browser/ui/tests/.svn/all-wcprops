@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/133495/trunk/src/chrome/browser/ui/tests
+END
+browser_uitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/133495/trunk/src/chrome/browser/ui/tests/browser_uitest.cc
+END
+ui_gfx_image_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/130784/trunk/src/chrome/browser/ui/tests/ui_gfx_image_unittest.cc
+END
+ui_gfx_image_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/89826/trunk/src/chrome/browser/ui/tests/ui_gfx_image_unittest.mm
+END

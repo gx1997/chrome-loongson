@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/132816/trunk/src/chrome/browser/ui/cocoa/tabs
+END
+tab_strip_model_observer_bridge.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/110916/trunk/src/chrome/browser/ui/cocoa/tabs/tab_strip_model_observer_bridge.h
+END
+tab_strip_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/132816/trunk/src/chrome/browser/ui/cocoa/tabs/tab_strip_controller.h
+END
+tab_controller_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/97832/trunk/src/chrome/browser/ui/cocoa/tabs/tab_controller_unittest.mm
+END
+tab_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/118293/trunk/src/chrome/browser/ui/cocoa/tabs/tab_controller.mm
+END
+tab_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/115186/trunk/src/chrome/browser/ui/cocoa/tabs/tab_view.h
+END
+tab_window_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/117056/trunk/src/chrome/browser/ui/cocoa/tabs/tab_window_controller.h
+END
+throbber_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/tabs/throbber_view.h
+END
+tab_strip_view_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/tabs/tab_strip_view_unittest.mm
+END
+tab_strip_view.mm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/120250/trunk/src/chrome/browser/ui/cocoa/tabs/tab_strip_view.mm
+END
+tab_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/88125/trunk/src/chrome/browser/ui/cocoa/tabs/tab_controller.h
+END
+tab_strip_drag_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/117056/trunk/src/chrome/browser/ui/cocoa/tabs/tab_strip_drag_controller.mm
+END
+tab_strip_controller_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/119102/trunk/src/chrome/browser/ui/cocoa/tabs/tab_strip_controller_unittest.mm
+END
+tab_strip_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/132816/trunk/src/chrome/browser/ui/cocoa/tabs/tab_strip_controller.mm
+END
+tab_strip_model_observer_bridge.mm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/86502/trunk/src/chrome/browser/ui/cocoa/tabs/tab_strip_model_observer_bridge.mm
+END
+tab_controller_target.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/97832/trunk/src/chrome/browser/ui/cocoa/tabs/tab_controller_target.h
+END
+tab_strip_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/92862/trunk/src/chrome/browser/ui/cocoa/tabs/tab_strip_view.h
+END
+tab_view_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/115186/trunk/src/chrome/browser/ui/cocoa/tabs/tab_view_unittest.mm
+END
+tab_view.mm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/117056/trunk/src/chrome/browser/ui/cocoa/tabs/tab_view.mm
+END
+tab_window_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/126247/trunk/src/chrome/browser/ui/cocoa/tabs/tab_window_controller.mm
+END
+throbber_view_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/91010/trunk/src/chrome/browser/ui/cocoa/tabs/throbber_view_unittest.mm
+END
+throbber_view.mm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/71827/trunk/src/chrome/browser/ui/cocoa/tabs/throbber_view.mm
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/71827/trunk/src/chrome/browser/ui/cocoa/tabs/OWNERS
+END
+tab_strip_drag_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/100776/trunk/src/chrome/browser/ui/cocoa/tabs/tab_strip_drag_controller.h
+END

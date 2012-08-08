@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/134391/trunk/src/ash/monitor
+END
+multi_monitor_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/134391/trunk/src/ash/monitor/multi_monitor_manager.cc
+END
+monitor_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/133961/trunk/src/ash/monitor/monitor_controller.h
+END
+multi_monitor_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/133961/trunk/src/ash/monitor/multi_monitor_manager.h
+END
+secondary_monitor_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/128722/trunk/src/ash/monitor/secondary_monitor_view.cc
+END
+monitor_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/134391/trunk/src/ash/monitor/monitor_controller.cc
+END
+secondary_monitor_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/127854/trunk/src/ash/monitor/secondary_monitor_view.h
+END
+multi_monitor_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/134391/trunk/src/ash/monitor/multi_monitor_manager_unittest.cc
+END

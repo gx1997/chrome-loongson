@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/134859/trunk/src/ui/gfx/compositor
+END
+compositor.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/134859/trunk/src/ui/gfx/compositor/compositor.h
+END
+screen_rotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/125419/trunk/src/ui/gfx/compositor/screen_rotation.h
+END
+compositor_export.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/97325/trunk/src/ui/gfx/compositor/compositor_export.h
+END
+layer_animation_sequence_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/110657/trunk/src/ui/gfx/compositor/layer_animation_sequence_unittest.cc
+END
+compositor_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/128380/trunk/src/ui/gfx/compositor/compositor_observer.h
+END
+compositor.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/128500/trunk/src/ui/gfx/compositor/compositor.gyp
+END
+layer_animator.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/131623/trunk/src/ui/gfx/compositor/layer_animator.h
+END
+layer_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/108307/trunk/src/ui/gfx/compositor/layer_delegate.h
+END
+debug_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/116369/trunk/src/ui/gfx/compositor/debug_utils.h
+END
+layer_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/133437/trunk/src/ui/gfx/compositor/layer_unittest.cc
+END
+layer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/133497/trunk/src/ui/gfx/compositor/layer.cc
+END
+layer_animation_element_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/121447/trunk/src/ui/gfx/compositor/layer_animation_element_unittest.cc
+END
+layer_animation_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/122293/trunk/src/ui/gfx/compositor/layer_animation_observer.h
+END
+layer_animation_element.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/127337/trunk/src/ui/gfx/compositor/layer_animation_element.cc
+END
+test_web_graphics_context_3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/130517/trunk/src/ui/gfx/compositor/test_web_graphics_context_3d.h
+END
+scoped_layer_animation_settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/125419/trunk/src/ui/gfx/compositor/scoped_layer_animation_settings.h
+END
+compositor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/133394/trunk/src/ui/gfx/compositor/compositor.cc
+END
+screen_rotation.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/128064/trunk/src/ui/gfx/compositor/screen_rotation.cc
+END
+layer_animation_sequence.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/125419/trunk/src/ui/gfx/compositor/layer_animation_sequence.cc
+END
+layer_animation_sequence.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/125419/trunk/src/ui/gfx/compositor/layer_animation_sequence.h
+END
+layer_animator_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/131623/trunk/src/ui/gfx/compositor/layer_animator_unittest.cc
+END
+layer_animator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/131623/trunk/src/ui/gfx/compositor/layer_animator.cc
+END
+debug_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/133394/trunk/src/ui/gfx/compositor/debug_utils.cc
+END
+layer_animation_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/121447/trunk/src/ui/gfx/compositor/layer_animation_delegate.h
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/134296/trunk/src/ui/gfx/compositor/DEPS
+END
+compositor_switches.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/122097/trunk/src/ui/gfx/compositor/compositor_switches.cc
+END
+compositor_switches.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/122097/trunk/src/ui/gfx/compositor/compositor_switches.h
+END
+PRESUBMIT.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/120259/trunk/src/ui/gfx/compositor/PRESUBMIT.py
+END
+layer.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/133497/trunk/src/ui/gfx/compositor/layer.h
+END
+run_all_unittests.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/110657/trunk/src/ui/gfx/compositor/run_all_unittests.cc
+END
+layer_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/128500/trunk/src/ui/gfx/compositor/layer_type.h
+END
+compositor_setup.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/123473/trunk/src/ui/gfx/compositor/compositor_setup.h
+END
+layer_animation_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/122293/trunk/src/ui/gfx/compositor/layer_animation_observer.cc
+END
+layer_animation_element.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/127337/trunk/src/ui/gfx/compositor/layer_animation_element.h
+END
+test_web_graphics_context_3d.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/127434/trunk/src/ui/gfx/compositor/test_web_graphics_context_3d.cc
+END
+scoped_layer_animation_settings.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/125419/trunk/src/ui/gfx/compositor/scoped_layer_animation_settings.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/109670/trunk/src/ui/gfx/compositor/OWNERS
+END

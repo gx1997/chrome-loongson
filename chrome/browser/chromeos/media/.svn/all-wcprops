@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/133961/trunk/src/chrome/browser/chromeos/media
+END
+media_player.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/133961/trunk/src/chrome/browser/chromeos/media/media_player.cc
+END
+media_player.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/132564/trunk/src/chrome/browser/chromeos/media/media_player.h
+END
+media_player_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/132564/trunk/src/chrome/browser/chromeos/media/media_player_browsertest.cc
+END
+media_player_extension_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/132564/trunk/src/chrome/browser/chromeos/media/media_player_extension_api.cc
+END
+media_player_extension_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/123729/trunk/src/chrome/browser/chromeos/media/media_player_extension_api.h
+END

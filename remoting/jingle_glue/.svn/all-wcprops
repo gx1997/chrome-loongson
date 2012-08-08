@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/134065/trunk/src/remoting/jingle_glue
+END
+jingle_info_request.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/123680/trunk/src/remoting/jingle_glue/jingle_info_request.cc
+END
+xmpp_socket_adapter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/126793/trunk/src/remoting/jingle_glue/xmpp_socket_adapter.cc
+END
+jingle_info_request.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/123680/trunk/src/remoting/jingle_glue/jingle_info_request.h
+END
+jingle_thread_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/124915/trunk/src/remoting/jingle_glue/jingle_thread_unittest.cc
+END
+xmpp_socket_adapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/134065/trunk/src/remoting/jingle_glue/xmpp_socket_adapter.h
+END
+jingle_thread.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/131026/trunk/src/remoting/jingle_glue/jingle_thread.cc
+END
+jingle_thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/125079/trunk/src/remoting/jingle_glue/jingle_thread.h
+END
+ssl_adapter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/133247/trunk/src/remoting/jingle_glue/ssl_adapter.cc
+END
+signal_strategy.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/133302/trunk/src/remoting/jingle_glue/signal_strategy.h
+END
+mock_objects.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/108606/trunk/src/remoting/jingle_glue/mock_objects.cc
+END
+ssl_adapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/59134/trunk/src/remoting/jingle_glue/ssl_adapter.h
+END
+xmpp_signal_strategy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/133275/trunk/src/remoting/jingle_glue/xmpp_signal_strategy.cc
+END
+mock_objects.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/123222/trunk/src/remoting/jingle_glue/mock_objects.h
+END
+xmpp_signal_strategy.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/133275/trunk/src/remoting/jingle_glue/xmpp_signal_strategy.h
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/124577/trunk/src/remoting/jingle_glue/DEPS
+END
+iq_sender_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/133302/trunk/src/remoting/jingle_glue/iq_sender_unittest.cc
+END
+ssl_socket_adapter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/130388/trunk/src/remoting/jingle_glue/ssl_socket_adapter.cc
+END
+iq_sender.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/133302/trunk/src/remoting/jingle_glue/iq_sender.cc
+END
+ssl_socket_adapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/130388/trunk/src/remoting/jingle_glue/ssl_socket_adapter.h
+END
+iq_sender.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/133302/trunk/src/remoting/jingle_glue/iq_sender.h
+END
+javascript_signal_strategy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/123222/trunk/src/remoting/jingle_glue/javascript_signal_strategy.cc
+END
+fake_signal_strategy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/124081/trunk/src/remoting/jingle_glue/fake_signal_strategy.cc
+END
+xmpp_proxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/109593/trunk/src/remoting/jingle_glue/xmpp_proxy.h
+END
+javascript_signal_strategy.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/123222/trunk/src/remoting/jingle_glue/javascript_signal_strategy.h
+END
+fake_signal_strategy.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/124081/trunk/src/remoting/jingle_glue/fake_signal_strategy.h
+END

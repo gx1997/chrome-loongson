@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/doc
+END
+doxygen.cfg.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/doc/doxygen.cfg.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/doc/Makefile.am
+END

@@ -1,0 +1,80 @@
+10
+
+dir
+134868
+http://src.chromium.org/svn/trunk/src/third_party/sqlite/src/ext
+http://src.chromium.org/svn
+
+
+
+2011-06-23T04:17:45.583676Z
+90163
+shess@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+fts3
+dir
+
+icu
+dir
+
+rtree
+dir
+
+README.txt
+file
+
+
+
+
+2010-08-19T09:07:16.000000Z
+1b6fb67d267f0716c381f61abe38616e
+2009-05-11T23:21:46.057779Z
+15809
+evan@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+78
+
+async
+dir
+
+fts1
+dir
+
+fts2
+dir
+

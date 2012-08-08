@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/134852/trunk/src/cloud_print/virtual_driver/win
+END
+virtual_driver_consts.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/97434/trunk/src/cloud_print/virtual_driver/win/virtual_driver_consts.h
+END
+virtual_driver_common_resources.rc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/134852/trunk/src/cloud_print/virtual_driver/win/virtual_driver_common_resources.rc
+END
+virtual_driver_helpers.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/123119/trunk/src/cloud_print/virtual_driver/win/virtual_driver_helpers.cc
+END
+virtual_driver_helpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/93787/trunk/src/cloud_print/virtual_driver/win/virtual_driver_helpers.h
+END
+virtual_driver_consts.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/97434/trunk/src/cloud_print/virtual_driver/win/virtual_driver_consts.cc
+END

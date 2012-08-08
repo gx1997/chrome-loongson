@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/131694/trunk/src/third_party/harfbuzz
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/131694/trunk/src/third_party/harfbuzz/README.chromium
+END
+chromium.patch
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/131694/trunk/src/third_party/harfbuzz/chromium.patch
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/13214/trunk/src/third_party/harfbuzz/configure.ac
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/13214/trunk/src/third_party/harfbuzz/.gitignore
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/13214/trunk/src/third_party/harfbuzz/AUTHORS
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/13214/trunk/src/third_party/harfbuzz/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/13214/trunk/src/third_party/harfbuzz/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/13214/trunk/src/third_party/harfbuzz/Makefile.am
+END
+harfbuzz.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/129307/trunk/src/third_party/harfbuzz/harfbuzz.gyp
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/13214/trunk/src/third_party/harfbuzz/autogen.sh
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/13214/trunk/src/third_party/harfbuzz/config.h
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/13214/trunk/src/third_party/harfbuzz/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/13214/trunk/src/third_party/harfbuzz/README
+END

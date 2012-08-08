@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/134708/trunk/src/chrome/browser/sessions
+END
+tab_restore_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/130859/trunk/src/chrome/browser/sessions/tab_restore_service.h
+END
+session_service_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/127807/trunk/src/chrome/browser/sessions/session_service_factory.h
+END
+session_backend.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/79524/trunk/src/chrome/browser/sessions/session_backend.h
+END
+tab_restore_service_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/128198/trunk/src/chrome/browser/sessions/tab_restore_service_browsertest.cc
+END
+session_id.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6490/trunk/src/chrome/browser/sessions/session_id.cc
+END
+session_service_test_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/132647/trunk/src/chrome/browser/sessions/session_service_test_helper.cc
+END
+session_id.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/89083/trunk/src/chrome/browser/sessions/session_id.h
+END
+session_service_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/132647/trunk/src/chrome/browser/sessions/session_service_unittest.cc
+END
+session_service_test_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/83027/trunk/src/chrome/browser/sessions/session_service_test_helper.h
+END
+restore_tab_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/125388/trunk/src/chrome/browser/sessions/restore_tab_helper.h
+END
+session_command.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6490/trunk/src/chrome/browser/sessions/session_command.cc
+END
+tab_restore_service_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/110940/trunk/src/chrome/browser/sessions/tab_restore_service_factory.h
+END
+session_command.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/53716/trunk/src/chrome/browser/sessions/session_command.h
+END
+session_restore.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/128489/trunk/src/chrome/browser/sessions/session_restore.h
+END
+session_backend_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/93110/trunk/src/chrome/browser/sessions/session_backend_unittest.cc
+END
+session_backend.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/122031/trunk/src/chrome/browser/sessions/session_backend.cc
+END
+session_service_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/118765/trunk/src/chrome/browser/sessions/session_service_factory.cc
+END
+base_session_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/132647/trunk/src/chrome/browser/sessions/base_session_service.cc
+END
+base_session_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/130427/trunk/src/chrome/browser/sessions/base_session_service.h
+END
+tab_restore_service_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/58382/trunk/src/chrome/browser/sessions/tab_restore_service_observer.h
+END
+session_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/133852/trunk/src/chrome/browser/sessions/session_service.cc
+END
+session_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/133852/trunk/src/chrome/browser/sessions/session_service.h
+END
+session_types.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/132647/trunk/src/chrome/browser/sessions/session_types.cc
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/121443/trunk/src/chrome/browser/sessions/DEPS
+END
+restore_tab_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/132627/trunk/src/chrome/browser/sessions/restore_tab_helper.cc
+END
+session_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/133942/trunk/src/chrome/browser/sessions/session_types.h
+END
+tab_restore_service_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/118765/trunk/src/chrome/browser/sessions/tab_restore_service_factory.cc
+END
+tab_restore_service_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/123977/trunk/src/chrome/browser/sessions/tab_restore_service_delegate.h
+END
+session_restore.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/134708/trunk/src/chrome/browser/sessions/session_restore.cc
+END
+session_restore_android.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/130859/trunk/src/chrome/browser/sessions/session_restore_android.cc
+END
+session_restore_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/133852/trunk/src/chrome/browser/sessions/session_restore_browsertest.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/121742/trunk/src/chrome/browser/sessions/OWNERS
+END
+tab_restore_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/130976/trunk/src/chrome/browser/sessions/tab_restore_service.cc
+END

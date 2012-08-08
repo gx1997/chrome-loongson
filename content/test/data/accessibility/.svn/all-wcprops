@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/134212/trunk/src/content/test/data/accessibility
+END
+list-markers.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/132231/trunk/src/content/test/data/accessibility/list-markers.html
+END
+aria-application.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/124200/trunk/src/content/test/data/accessibility/aria-application.html
+END
+ul.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/126105/trunk/src/content/test/data/accessibility/ul.html
+END
+a.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/131003/trunk/src/content/test/data/accessibility/a.html
+END
+list-markers-expected-win.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/132231/trunk/src/content/test/data/accessibility/list-markers-expected-win.txt
+END
+aria-application-expected-win.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/129505/trunk/src/content/test/data/accessibility/aria-application-expected-win.txt
+END
+list-markers-expected-mac.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/132231/trunk/src/content/test/data/accessibility/list-markers-expected-mac.txt
+END
+aria-application-expected-mac.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/131719/trunk/src/content/test/data/accessibility/aria-application-expected-mac.txt
+END
+ul-expected-win.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/132231/trunk/src/content/test/data/accessibility/ul-expected-win.txt
+END
+a-expected-win.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/131003/trunk/src/content/test/data/accessibility/a-expected-win.txt
+END
+ul-expected-mac.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/132231/trunk/src/content/test/data/accessibility/ul-expected-mac.txt
+END
+a-expected-mac.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/131003/trunk/src/content/test/data/accessibility/a-expected-mac.txt
+END
+contenteditable-descendants.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/132291/trunk/src/content/test/data/accessibility/contenteditable-descendants.html
+END
+a-name.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/131003/trunk/src/content/test/data/accessibility/a-name.html
+END
+footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/134212/trunk/src/content/test/data/accessibility/footer.html
+END
+a-onclick.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/131003/trunk/src/content/test/data/accessibility/a-onclick.html
+END
+contenteditable-descendants-expected-win.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/132291/trunk/src/content/test/data/accessibility/contenteditable-descendants-expected-win.txt
+END
+a-with-img.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/131003/trunk/src/content/test/data/accessibility/a-with-img.html
+END
+a-name-expected-win.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/131003/trunk/src/content/test/data/accessibility/a-name-expected-win.txt
+END
+footer-expected-win.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/134212/trunk/src/content/test/data/accessibility/footer-expected-win.txt
+END
+a-onclick-expected-win.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/131003/trunk/src/content/test/data/accessibility/a-onclick-expected-win.txt
+END
+contenteditable-descendants-expected-mac.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/132291/trunk/src/content/test/data/accessibility/contenteditable-descendants-expected-mac.txt
+END
+a-name-expected-mac.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/131003/trunk/src/content/test/data/accessibility/a-name-expected-mac.txt
+END
+footer-expected-mac.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/134212/trunk/src/content/test/data/accessibility/footer-expected-mac.txt
+END
+bullet.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/132291/trunk/src/content/test/data/accessibility/bullet.png
+END
+a-with-img-expected-win.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/131003/trunk/src/content/test/data/accessibility/a-with-img-expected-win.txt
+END
+a-onclick-expected-mac.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/131003/trunk/src/content/test/data/accessibility/a-onclick-expected-mac.txt
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/131003/trunk/src/content/test/data/accessibility/readme.txt
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/129580/trunk/src/content/test/data/accessibility/OWNERS
+END
+a-with-img-expected-mac.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/131003/trunk/src/content/test/data/accessibility/a-with-img-expected-mac.txt
+END

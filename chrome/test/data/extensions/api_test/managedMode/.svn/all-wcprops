@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/133926/trunk/src/chrome/test/data/extensions/api_test/managedMode
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/133926/trunk/src/chrome/test/data/extensions/api_test/managedMode/test.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/133926/trunk/src/chrome/test/data/extensions/api_test/managedMode/manifest.json
+END

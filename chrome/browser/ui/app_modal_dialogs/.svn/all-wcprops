@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/132629/trunk/src/chrome/browser/ui/app_modal_dialogs
+END
+app_modal_dialog.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/119703/trunk/src/chrome/browser/ui/app_modal_dialogs/app_modal_dialog.cc
+END
+message_box_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/124275/trunk/src/chrome/browser/ui/app_modal_dialogs/message_box_handler.h
+END
+app_modal_dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/119703/trunk/src/chrome/browser/ui/app_modal_dialogs/app_modal_dialog.h
+END
+app_modal_dialog_queue.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/132629/trunk/src/chrome/browser/ui/app_modal_dialogs/app_modal_dialog_queue.cc
+END
+app_modal_dialog_queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/97023/trunk/src/chrome/browser/ui/app_modal_dialogs/app_modal_dialog_queue.h
+END
+native_app_modal_dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/113331/trunk/src/chrome/browser/ui/app_modal_dialogs/native_app_modal_dialog.h
+END
+js_modal_dialog.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/124118/trunk/src/chrome/browser/ui/app_modal_dialogs/js_modal_dialog.cc
+END
+js_modal_dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/124118/trunk/src/chrome/browser/ui/app_modal_dialogs/js_modal_dialog.h
+END
+message_box_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/131591/trunk/src/chrome/browser/ui/app_modal_dialogs/message_box_handler.cc
+END

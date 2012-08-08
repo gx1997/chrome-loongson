@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11242/trunk/py/test/selenium/webdriver/ie
+END
+test_ie_element_attribute.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11242/trunk/py/test/selenium/webdriver/ie/test_ie_element_attribute.py
+END
+test_ie_executing_async_javascript_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/11242/trunk/py/test/selenium/webdriver/ie/test_ie_executing_async_javascript_test.py
+END
+test_ie_executing_javascript_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11242/trunk/py/test/selenium/webdriver/ie/test_ie_executing_javascript_test.py
+END
+test_ie_implicit_waits.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11242/trunk/py/test/selenium/webdriver/ie/test_ie_implicit_waits.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10480/trunk/py/test/selenium/webdriver/ie/__init__.py
+END
+test_ie_children_finding.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11242/trunk/py/test/selenium/webdriver/ie/test_ie_children_finding.py
+END
+test_ie_select_element_handling.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11242/trunk/py/test/selenium/webdriver/ie/test_ie_select_element_handling.py
+END
+test_ie_typing_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11242/trunk/py/test/selenium/webdriver/ie/test_ie_typing_tests.py
+END
+test_ie_rendered_webelement.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11242/trunk/py/test/selenium/webdriver/ie/test_ie_rendered_webelement.py
+END
+test_ie_correct_event_firing.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11242/trunk/py/test/selenium/webdriver/ie/test_ie_correct_event_firing.py
+END
+test_ie_driver_element_finding.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11242/trunk/py/test/selenium/webdriver/ie/test_ie_driver_element_finding.py
+END
+test_ie_form_handling.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/11242/trunk/py/test/selenium/webdriver/ie/test_ie_form_handling.py
+END
+test_ie_api.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11242/trunk/py/test/selenium/webdriver/ie/test_ie_api.py
+END
+test_ie_visibility_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11242/trunk/py/test/selenium/webdriver/ie/test_ie_visibility_tests.py
+END
+test_ie_page_loading.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11242/trunk/py/test/selenium/webdriver/ie/test_ie_page_loading.py
+END
+test_ie_stale_references.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11242/trunk/py/test/selenium/webdriver/ie/test_ie_stale_references.py
+END
+test_ie_frame_switching.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11242/trunk/py/test/selenium/webdriver/ie/test_ie_frame_switching.py
+END
+test_ie_text_handling_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11242/trunk/py/test/selenium/webdriver/ie/test_ie_text_handling_tests.py
+END

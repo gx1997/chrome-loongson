@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/133985/trunk/src/sync/syncable
+END
+directory_backing_store_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/126872/trunk/src/sync/syncable/directory_backing_store_unittest.cc
+END
+directory_backing_store.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/133985/trunk/src/sync/syncable/directory_backing_store.cc
+END
+syncable_changes_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/126872/trunk/src/sync/syncable/syncable_changes_version.h
+END
+dir_open_result.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/127255/trunk/src/sync/syncable/dir_open_result.h
+END
+syncable_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130670/trunk/src/sync/syncable/syncable_unittest.cc
+END
+syncable.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/132880/trunk/src/sync/syncable/syncable.cc
+END
+model_type_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/126872/trunk/src/sync/syncable/model_type_unittest.cc
+END
+on_disk_directory_backing_store.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/126872/trunk/src/sync/syncable/on_disk_directory_backing_store.cc
+END
+model_type_payload_map_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/133747/trunk/src/sync/syncable/model_type_payload_map_unittest.cc
+END
+syncable_mock.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/126872/trunk/src/sync/syncable/syncable_mock.cc
+END
+syncable_mock.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/126872/trunk/src/sync/syncable/syncable_mock.h
+END
+in_memory_directory_backing_store.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/126872/trunk/src/sync/syncable/in_memory_directory_backing_store.cc
+END
+syncable_id.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/132259/trunk/src/sync/syncable/syncable_id.h
+END
+syncable_enum_conversions.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/126872/trunk/src/sync/syncable/syncable_enum_conversions.h
+END
+blob.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/126872/trunk/src/sync/syncable/blob.h
+END
+model_type_test_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/126872/trunk/src/sync/syncable/model_type_test_util.cc
+END
+transaction_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/126872/trunk/src/sync/syncable/transaction_observer.h
+END
+model_type_test_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/126872/trunk/src/sync/syncable/model_type_test_util.h
+END
+directory_backing_store.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/126872/trunk/src/sync/syncable/directory_backing_store.h
+END
+model_type.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/126872/trunk/src/sync/syncable/model_type.cc
+END
+syncable_columns.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/126872/trunk/src/sync/syncable/syncable_columns.h
+END
+syncable.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/132880/trunk/src/sync/syncable/syncable.h
+END
+model_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/126872/trunk/src/sync/syncable/model_type.h
+END
+directory_change_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/126872/trunk/src/sync/syncable/directory_change_delegate.h
+END
+on_disk_directory_backing_store.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/126872/trunk/src/sync/syncable/on_disk_directory_backing_store.h
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/126872/trunk/src/sync/syncable/DEPS
+END
+model_type_payload_map.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/133747/trunk/src/sync/syncable/model_type_payload_map.cc
+END
+model_type_payload_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/126872/trunk/src/sync/syncable/model_type_payload_map.h
+END
+syncable_id_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/126872/trunk/src/sync/syncable/syncable_id_unittest.cc
+END
+syncable_enum_conversions_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/126872/trunk/src/sync/syncable/syncable_enum_conversions_unittest.cc
+END
+syncable_id.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/132259/trunk/src/sync/syncable/syncable_id.cc
+END
+syncable_enum_conversions.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/126872/trunk/src/sync/syncable/syncable_enum_conversions.cc
+END
+in_memory_directory_backing_store.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/126872/trunk/src/sync/syncable/in_memory_directory_backing_store.h
+END
+syncable-inl.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/126872/trunk/src/sync/syncable/syncable-inl.h
+END

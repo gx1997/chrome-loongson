@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/134846/trunk/src/remoting/webapp
+END
+host_table_entry.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/132295/trunk/src/remoting/webapp/host_table_entry.js
+END
+host_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/134407/trunk/src/remoting/webapp/host_list.js
+END
+main.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/134750/trunk/src/remoting/webapp/main.html
+END
+host_setup_dialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/134665/trunk/src/remoting/webapp/host_setup_dialog.js
+END
+client_screen.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/134407/trunk/src/remoting/webapp/client_screen.js
+END
+connection_stats.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/123623/trunk/src/remoting/webapp/connection_stats.js
+END
+toolbar.css
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/132601/trunk/src/remoting/webapp/toolbar.css
+END
+plugin_settings.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/133582/trunk/src/remoting/webapp/plugin_settings.js
+END
+dividertop.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/117322/trunk/src/remoting/webapp/dividertop.png
+END
+wcs_loader.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/133970/trunk/src/remoting/webapp/wcs_loader.js
+END
+build-webapp.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/133582/trunk/src/remoting/webapp/build-webapp.py
+END
+server_log_entry.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/133070/trunk/src/remoting/webapp/server_log_entry.js
+END
+client_plugin_async.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/134846/trunk/src/remoting/webapp/client_plugin_async.js
+END
+connection_stats.css
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/126330/trunk/src/remoting/webapp/connection_stats.css
+END
+wcs.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/133970/trunk/src/remoting/webapp/wcs.js
+END
+connection_history.css
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/125001/trunk/src/remoting/webapp/connection_history.css
+END
+menu_button.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/129535/trunk/src/remoting/webapp/menu_button.js
+END
+scale-to-fit.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/117322/trunk/src/remoting/webapp/scale-to-fit.png
+END
+verify-translations.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/111427/trunk/src/remoting/webapp/verify-translations.py
+END
+clipboard.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/130504/trunk/src/remoting/webapp/clipboard.js
+END
+xhr.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/129692/trunk/src/remoting/webapp/xhr.js
+END
+event_handlers.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/131371/trunk/src/remoting/webapp/event_handlers.js
+END
+toolbar.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/125043/trunk/src/remoting/webapp/toolbar.js
+END
+viewer_plugin_proto.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/122027/trunk/src/remoting/webapp/viewer_plugin_proto.js
+END
+client_plugin_v1.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/134846/trunk/src/remoting/webapp/client_plugin_v1.js
+END
+oauth2_callback.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/122356/trunk/src/remoting/webapp/oauth2_callback.html
+END
+wcs_iq_client_proto.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/117322/trunk/src/remoting/webapp/wcs_iq_client_proto.js
+END
+spinner.gif
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/123386/trunk/src/remoting/webapp/spinner.gif
+END
+log_to_server.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/123849/trunk/src/remoting/webapp/log_to_server.js
+END
+l10n.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/130420/trunk/src/remoting/webapp/l10n.js
+END
+menu_button.css
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/129535/trunk/src/remoting/webapp/menu_button.css
+END
+host_screen.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/125043/trunk/src/remoting/webapp/host_screen.js
+END
+host_plugin_proto.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/131411/trunk/src/remoting/webapp/host_plugin_proto.js
+END
+host_session.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/121754/trunk/src/remoting/webapp/host_session.js
+END
+connection_history.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/125043/trunk/src/remoting/webapp/connection_history.js
+END
+jscompiler_hacks.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/133634/trunk/src/remoting/webapp/jscompiler_hacks.js
+END
+host_controller.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/134725/trunk/src/remoting/webapp/host_controller.js
+END
+ui_mode.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/130800/trunk/src/remoting/webapp/ui_mode.js
+END
+cs_oauth2_trampoline.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/117528/trunk/src/remoting/webapp/cs_oauth2_trampoline.js
+END
+client_session.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/134846/trunk/src/remoting/webapp/client_session.js
+END
+format_iq.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/124029/trunk/src/remoting/webapp/format_iq.js
+END
+dividerbottom.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/117322/trunk/src/remoting/webapp/dividerbottom.png
+END
+clipboard_event_proto.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/130146/trunk/src/remoting/webapp/clipboard_event_proto.js
+END
+remoting.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/134407/trunk/src/remoting/webapp/remoting.js
+END
+verify-webapp.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/111427/trunk/src/remoting/webapp/verify-webapp.py
+END
+client_plugin.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/134846/trunk/src/remoting/webapp/client_plugin.js
+END
+stats_accumulator.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/117322/trunk/src/remoting/webapp/stats_accumulator.js
+END
+debug_log.gtestjs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/117322/trunk/src/remoting/webapp/debug_log.gtestjs
+END
+main.css
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/134750/trunk/src/remoting/webapp/main.css
+END
+oauth2.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/134658/trunk/src/remoting/webapp/oauth2.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/132353/trunk/src/remoting/webapp/manifest.json
+END

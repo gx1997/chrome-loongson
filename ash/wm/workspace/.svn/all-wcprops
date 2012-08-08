@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/134538/trunk/src/ash/wm/workspace
+END
+workspace.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/127904/trunk/src/ash/wm/workspace/workspace.cc
+END
+workspace.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/127904/trunk/src/ash/wm/workspace/workspace.h
+END
+phantom_window_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/129746/trunk/src/ash/wm/workspace/phantom_window_controller.cc
+END
+workspace_event_filter_test_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/127465/trunk/src/ash/wm/workspace/workspace_event_filter_test_helper.cc
+END
+phantom_window_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/129750/trunk/src/ash/wm/workspace/phantom_window_controller.h
+END
+workspace_event_filter_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/133961/trunk/src/ash/wm/workspace/workspace_event_filter_unittest.cc
+END
+multi_window_resize_controller_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/128500/trunk/src/ash/wm/workspace/multi_window_resize_controller_unittest.cc
+END
+workspace_event_filter_test_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/127465/trunk/src/ash/wm/workspace/workspace_event_filter_test_helper.h
+END
+workspace_event_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/133961/trunk/src/ash/wm/workspace/workspace_event_filter.cc
+END
+maximized_workspace.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/133961/trunk/src/ash/wm/workspace/maximized_workspace.cc
+END
+multi_window_resize_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/132497/trunk/src/ash/wm/workspace/multi_window_resize_controller.cc
+END
+workspace_event_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/127465/trunk/src/ash/wm/workspace/workspace_event_filter.h
+END
+maximized_workspace.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/127904/trunk/src/ash/wm/workspace/maximized_workspace.h
+END
+multi_window_resize_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/132497/trunk/src/ash/wm/workspace/multi_window_resize_controller.h
+END
+managed_workspace.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/127904/trunk/src/ash/wm/workspace/managed_workspace.cc
+END
+managed_workspace.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/127904/trunk/src/ash/wm/workspace/managed_workspace.h
+END
+snap_sizer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/133989/trunk/src/ash/wm/workspace/snap_sizer.cc
+END
+snap_sizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/133989/trunk/src/ash/wm/workspace/snap_sizer.h
+END
+workspace_layout_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/133114/trunk/src/ash/wm/workspace/workspace_layout_manager.cc
+END
+workspace_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/134538/trunk/src/ash/wm/workspace/workspace_manager_unittest.cc
+END
+workspace_layout_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/133114/trunk/src/ash/wm/workspace/workspace_layout_manager.h
+END
+workspace_window_resizer_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/132497/trunk/src/ash/wm/workspace/workspace_window_resizer_unittest.cc
+END
+workspace_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/134538/trunk/src/ash/wm/workspace/workspace_manager.cc
+END
+workspace_window_resizer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/133961/trunk/src/ash/wm/workspace/workspace_window_resizer.cc
+END
+frame_maximize_button.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/134376/trunk/src/ash/wm/workspace/frame_maximize_button.cc
+END
+workspace_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/132316/trunk/src/ash/wm/workspace/workspace_manager.h
+END
+workspace_window_resizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/132497/trunk/src/ash/wm/workspace/workspace_window_resizer.h
+END
+frame_maximize_button.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/130064/trunk/src/ash/wm/workspace/frame_maximize_button.h
+END

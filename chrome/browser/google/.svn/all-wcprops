@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/134641/trunk/src/chrome/browser/google
+END
+google_update_settings_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/119189/trunk/src/chrome/browser/google/google_update_settings_unittest.cc
+END
+google_search_counter_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/128035/trunk/src/chrome/browser/google/google_search_counter_unittest.cc
+END
+google_search_counter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/128035/trunk/src/chrome/browser/google/google_search_counter.cc
+END
+google_search_counter.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/128035/trunk/src/chrome/browser/google/google_search_counter.h
+END
+google_util_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/134641/trunk/src/chrome/browser/google/google_util_unittest.cc
+END
+google_url_tracker_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/134017/trunk/src/chrome/browser/google/google_url_tracker_unittest.cc
+END
+google_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/134641/trunk/src/chrome/browser/google/google_util.cc
+END
+google_url_tracker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/133598/trunk/src/chrome/browser/google/google_url_tracker.cc
+END
+google_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/134641/trunk/src/chrome/browser/google/google_util.h
+END
+google_url_tracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/133598/trunk/src/chrome/browser/google/google_url_tracker.h
+END
+google_update.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/131587/trunk/src/chrome/browser/google/google_update.cc
+END
+google_update_settings_posix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/110330/trunk/src/chrome/browser/google/google_update_settings_posix.cc
+END
+google_update.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/121396/trunk/src/chrome/browser/google/google_update.h
+END
+google_search_metrics.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/124587/trunk/src/chrome/browser/google/google_search_metrics.cc
+END
+google_search_metrics.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/124587/trunk/src/chrome/browser/google/google_search_metrics.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/124045/trunk/src/chrome/browser/google/OWNERS
+END

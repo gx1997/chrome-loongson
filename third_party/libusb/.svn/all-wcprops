@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/134183/trunk/src/third_party/libusb
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/README.chromium
+END
+PORTING
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/PORTING
+END
+libusb-1.0.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/libusb-1.0.pc.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/AUTHORS
+END
+windows-build.patch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/134183/trunk/src/third_party/libusb/windows-build.patch
+END
+THANKS
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/THANKS
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/config.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/README
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/configure.ac
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/NEWS
+END
+libusb.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/132595/trunk/src/third_party/libusb/libusb.gyp
+END

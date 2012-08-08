@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/134370/trunk/src/chrome/browser/extensions/api/bluetooth
+END
+bluetooth_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/133960/trunk/src/chrome/browser/extensions/api/bluetooth/bluetooth_api.cc
+END
+bluetooth_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/134370/trunk/src/chrome/browser/extensions/api/bluetooth/bluetooth_api.h
+END

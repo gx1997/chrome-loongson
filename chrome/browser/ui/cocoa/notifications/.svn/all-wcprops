@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/125166/trunk/src/chrome/browser/ui/cocoa/notifications
+END
+balloon_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/79524/trunk/src/chrome/browser/ui/cocoa/notifications/balloon_controller.h
+END
+balloon_controller_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/122768/trunk/src/chrome/browser/ui/cocoa/notifications/balloon_controller_unittest.mm
+END
+balloon_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/125166/trunk/src/chrome/browser/ui/cocoa/notifications/balloon_controller.mm
+END
+balloon_view_bridge.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/110916/trunk/src/chrome/browser/ui/cocoa/notifications/balloon_view_bridge.h
+END
+balloon_view_host_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/110048/trunk/src/chrome/browser/ui/cocoa/notifications/balloon_view_host_mac.h
+END
+balloon_view_bridge.mm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/73890/trunk/src/chrome/browser/ui/cocoa/notifications/balloon_view_bridge.mm
+END
+balloon_view_host_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/125166/trunk/src/chrome/browser/ui/cocoa/notifications/balloon_view_host_mac.mm
+END
+balloon_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/70562/trunk/src/chrome/browser/ui/cocoa/notifications/balloon_view.h
+END
+balloon_view.mm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/106832/trunk/src/chrome/browser/ui/cocoa/notifications/balloon_view.mm
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/71665/trunk/src/chrome/browser/ui/cocoa/notifications/OWNERS
+END

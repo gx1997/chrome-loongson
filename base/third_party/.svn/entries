@@ -1,0 +1,52 @@
+10
+
+dir
+134868
+http://src.chromium.org/svn/trunk/src/base/third_party
+http://src.chromium.org/svn
+
+
+
+2012-03-13T04:52:12.154595Z
+126338
+wtc@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+icu
+dir
+
+xdg_user_dirs
+dir
+
+dynamic_annotations
+dir
+
+nspr
+dir
+
+valgrind
+dir
+
+xdg_mime
+dir
+
+dmg_fp
+dir
+
+symbolize
+dir
+

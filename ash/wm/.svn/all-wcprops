@@ -1,0 +1,659 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/134722/trunk/src/ash/wm
+END
+window_animations.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/134538/trunk/src/ash/wm/window_animations.h
+END
+base_layout_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/133961/trunk/src/ash/wm/base_layout_manager_unittest.cc
+END
+root_window_layout_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/133114/trunk/src/ash/wm/root_window_layout_manager.cc
+END
+workspace_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/132048/trunk/src/ash/wm/workspace_controller.cc
+END
+shelf_auto_hide_behavior.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/129045/trunk/src/ash/wm/shelf_auto_hide_behavior.h
+END
+activation_controller_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/129928/trunk/src/ash/wm/activation_controller_unittest.cc
+END
+status_area_layout_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/133114/trunk/src/ash/wm/status_area_layout_manager.h
+END
+stacking_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/131478/trunk/src/ash/wm/stacking_controller.cc
+END
+system_modal_container_event_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/133043/trunk/src/ash/wm/system_modal_container_event_filter.cc
+END
+resize_shadow.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/127491/trunk/src/ash/wm/resize_shadow.h
+END
+resize_shadow_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/127328/trunk/src/ash/wm/resize_shadow_controller.cc
+END
+frame_painter_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/131651/trunk/src/ash/wm/frame_painter_unittest.cc
+END
+screen_dimmer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/134638/trunk/src/ash/wm/screen_dimmer.cc
+END
+window_modality_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/134379/trunk/src/ash/wm/window_modality_controller.cc
+END
+property_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/131986/trunk/src/ash/wm/property_util.cc
+END
+window_frame.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/125153/trunk/src/ash/wm/window_frame.cc
+END
+key_rewriter_event_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/129076/trunk/src/ash/wm/key_rewriter_event_filter.cc
+END
+image_grid_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/134391/trunk/src/ash/wm/image_grid_unittest.cc
+END
+scoped_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/134287/trunk/src/ash/wm/scoped_observer.h
+END
+toplevel_window_event_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/132497/trunk/src/ash/wm/toplevel_window_event_filter.cc
+END
+panel_layout_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/134431/trunk/src/ash/wm/panel_layout_manager.h
+END
+window_animations_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/129131/trunk/src/ash/wm/window_animations_unittest.cc
+END
+toplevel_window_event_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/132497/trunk/src/ash/wm/toplevel_window_event_filter.h
+END
+window_cycle_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/130315/trunk/src/ash/wm/window_cycle_controller.cc
+END
+system_modal_container_layout_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/134035/trunk/src/ash/wm/system_modal_container_layout_manager.cc
+END
+shelf_layout_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/133114/trunk/src/ash/wm/shelf_layout_manager.h
+END
+system_gesture_event_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/130990/trunk/src/ash/wm/system_gesture_event_filter.h
+END
+base_layout_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/133961/trunk/src/ash/wm/base_layout_manager.cc
+END
+activation_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/134287/trunk/src/ash/wm/activation_controller.h
+END
+stacking_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/118127/trunk/src/ash/wm/stacking_controller.h
+END
+shadow_types.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/121583/trunk/src/ash/wm/shadow_types.cc
+END
+window_resizer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/133961/trunk/src/ash/wm/window_resizer.cc
+END
+custom_frame_view_ash.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/131900/trunk/src/ash/wm/custom_frame_view_ash.h
+END
+frame_painter.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/133595/trunk/src/ash/wm/frame_painter.h
+END
+root_window_event_filter_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/133961/trunk/src/ash/wm/root_window_event_filter_unittest.cc
+END
+window_cycle_list.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/130315/trunk/src/ash/wm/window_cycle_list.cc
+END
+always_on_top_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/121583/trunk/src/ash/wm/always_on_top_controller.cc
+END
+shadow.cc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/134391/trunk/src/ash/wm/shadow.cc
+END
+toplevel_window_event_filter_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/133961/trunk/src/ash/wm/toplevel_window_event_filter_unittest.cc
+END
+shadow_controller_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/128979/trunk/src/ash/wm/shadow_controller_unittest.cc
+END
+system_gesture_event_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/132570/trunk/src/ash/wm/system_gesture_event_filter.cc
+END
+shelf_layout_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/134391/trunk/src/ash/wm/shelf_layout_manager.cc
+END
+power_button_controller_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/134722/trunk/src/ash/wm/power_button_controller_unittest.cc
+END
+window_animations.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/134538/trunk/src/ash/wm/window_animations.cc
+END
+visibility_controller_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/128500/trunk/src/ash/wm/visibility_controller_unittest.cc
+END
+power_button_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/134722/trunk/src/ash/wm/power_button_controller.cc
+END
+visibility_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/128500/trunk/src/ash/wm/visibility_controller.cc
+END
+panel_window_event_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/123340/trunk/src/ash/wm/panel_window_event_filter.h
+END
+video_detector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/134287/trunk/src/ash/wm/video_detector.cc
+END
+partial_screenshot_event_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/133164/trunk/src/ash/wm/partial_screenshot_event_filter.cc
+END
+video_detector.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/134287/trunk/src/ash/wm/video_detector.h
+END
+partial_screenshot_event_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/133164/trunk/src/ash/wm/partial_screenshot_event_filter.h
+END
+event_client_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/128553/trunk/src/ash/wm/event_client_impl.h
+END
+workspace_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/132048/trunk/src/ash/wm/workspace_controller.h
+END
+root_window_layout_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/133114/trunk/src/ash/wm/root_window_layout_manager.h
+END
+panel_frame_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/130926/trunk/src/ash/wm/panel_frame_view.cc
+END
+system_modal_container_event_filter_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/118127/trunk/src/ash/wm/system_modal_container_event_filter_delegate.h
+END
+activation_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/134287/trunk/src/ash/wm/activation_controller.cc
+END
+panel_frame_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/127350/trunk/src/ash/wm/panel_frame_view.h
+END
+window_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/133989/trunk/src/ash/wm/window_util.h
+END
+screen_dimmer_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/134638/trunk/src/ash/wm/screen_dimmer_unittest.cc
+END
+window_modality_controller_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/134379/trunk/src/ash/wm/window_modality_controller_unittest.cc
+END
+resize_shadow_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/127328/trunk/src/ash/wm/resize_shadow_controller.h
+END
+window_resizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/132497/trunk/src/ash/wm/window_resizer.h
+END
+frame_painter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/134376/trunk/src/ash/wm/frame_painter.cc
+END
+default_window_resizer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/132497/trunk/src/ash/wm/default_window_resizer.cc
+END
+root_window_event_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/126590/trunk/src/ash/wm/root_window_event_filter.h
+END
+window_frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/121583/trunk/src/ash/wm/window_frame.h
+END
+key_rewriter_event_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/129076/trunk/src/ash/wm/key_rewriter_event_filter.h
+END
+property_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/131986/trunk/src/ash/wm/property_util.h
+END
+shadow_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/134287/trunk/src/ash/wm/shadow_controller.h
+END
+system_modal_container_layout_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/133114/trunk/src/ash/wm/system_modal_container_layout_manager.h
+END
+window_cycle_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/130315/trunk/src/ash/wm/window_cycle_controller.h
+END
+power_button_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/134722/trunk/src/ash/wm/power_button_controller.h
+END
+visibility_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/119453/trunk/src/ash/wm/visibility_controller.h
+END
+panel_window_event_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/130456/trunk/src/ash/wm/panel_window_event_filter.cc
+END
+video_detector_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/134287/trunk/src/ash/wm/video_detector_unittest.cc
+END
+workspace_controller_test_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/127465/trunk/src/ash/wm/workspace_controller_test_helper.cc
+END
+event_client_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/128553/trunk/src/ash/wm/event_client_impl.cc
+END
+workspace_controller_test_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/127465/trunk/src/ash/wm/workspace_controller_test_helper.h
+END
+status_area_layout_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/133114/trunk/src/ash/wm/status_area_layout_manager.cc
+END
+dialog_frame_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/127019/trunk/src/ash/wm/dialog_frame_view.cc
+END
+base_layout_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/133114/trunk/src/ash/wm/base_layout_manager.h
+END
+window_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/133989/trunk/src/ash/wm/window_util.cc
+END
+dialog_frame_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/127019/trunk/src/ash/wm/dialog_frame_view.h
+END
+resize_shadow.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/134391/trunk/src/ash/wm/resize_shadow.cc
+END
+custom_frame_view_ash.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/130926/trunk/src/ash/wm/custom_frame_view_ash.cc
+END
+system_modal_container_event_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/119954/trunk/src/ash/wm/system_modal_container_event_filter.h
+END
+shadow_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/124255/trunk/src/ash/wm/shadow_types.h
+END
+window_modality_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/134379/trunk/src/ash/wm/window_modality_controller.h
+END
+screen_dimmer.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/134638/trunk/src/ash/wm/screen_dimmer.h
+END
+root_window_event_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130990/trunk/src/ash/wm/root_window_event_filter.cc
+END
+default_window_resizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/132497/trunk/src/ash/wm/default_window_resizer.h
+END
+window_properties.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/125153/trunk/src/ash/wm/window_properties.cc
+END
+always_on_top_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/121583/trunk/src/ash/wm/always_on_top_controller.h
+END
+window_cycle_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/130315/trunk/src/ash/wm/window_cycle_list.h
+END
+partial_screenshot_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/132155/trunk/src/ash/wm/partial_screenshot_view.cc
+END
+window_properties.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/121583/trunk/src/ash/wm/window_properties.h
+END
+panel_layout_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/134431/trunk/src/ash/wm/panel_layout_manager_unittest.cc
+END
+partial_screenshot_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/132155/trunk/src/ash/wm/partial_screenshot_view.h
+END
+panel_layout_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/134431/trunk/src/ash/wm/panel_layout_manager.cc
+END
+shadow.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/134391/trunk/src/ash/wm/shadow.h
+END
+image_grid.cc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/134391/trunk/src/ash/wm/image_grid.cc
+END
+shelf_layout_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/133961/trunk/src/ash/wm/shelf_layout_manager_unittest.cc
+END
+system_gesture_event_filter_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/132570/trunk/src/ash/wm/system_gesture_event_filter_unittest.cc
+END
+shadow_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/134391/trunk/src/ash/wm/shadow_controller.cc
+END
+window_cycle_controller_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/130315/trunk/src/ash/wm/window_cycle_controller_unittest.cc
+END
+system_modal_container_layout_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/134379/trunk/src/ash/wm/system_modal_container_layout_manager_unittest.cc
+END
+image_grid.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/134391/trunk/src/ash/wm/image_grid.h
+END

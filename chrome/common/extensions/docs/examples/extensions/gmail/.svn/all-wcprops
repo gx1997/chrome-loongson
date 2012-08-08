@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/119117/trunk/src/chrome/common/extensions/docs/examples/extensions/gmail
+END
+background.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/119117/trunk/src/chrome/common/extensions/docs/examples/extensions/gmail/background.html
+END
+gmail_logged_in.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/75434/trunk/src/chrome/common/extensions/docs/examples/extensions/gmail/gmail_logged_in.png
+END
+gmail_not_logged_in.png
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/75434/trunk/src/chrome/common/extensions/docs/examples/extensions/gmail/gmail_not_logged_in.png
+END
+icon_128.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/75434/trunk/src/chrome/common/extensions/docs/examples/extensions/gmail/icon_128.png
+END
+options.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/119117/trunk/src/chrome/common/extensions/docs/examples/extensions/gmail/options.js
+END
+background.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/119117/trunk/src/chrome/common/extensions/docs/examples/extensions/gmail/background.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/119117/trunk/src/chrome/common/extensions/docs/examples/extensions/gmail/manifest.json
+END
+options.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/119117/trunk/src/chrome/common/extensions/docs/examples/extensions/gmail/options.html
+END

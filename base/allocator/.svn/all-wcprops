@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/134434/trunk/src/base/allocator
+END
+allocator_extension.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/134434/trunk/src/base/allocator/allocator_extension.cc
+END
+win_allocator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/77962/trunk/src/base/allocator/win_allocator.cc
+END
+allocator_extension.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/134434/trunk/src/base/allocator/allocator_extension.h
+END
+generic_allocators.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/110181/trunk/src/base/allocator/generic_allocators.cc
+END
+unittest_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/33043/trunk/src/base/allocator/unittest_utils.cc
+END
+allocator_shim.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/134434/trunk/src/base/allocator/allocator_shim.cc
+END
+allocator_unittests.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/127522/trunk/src/base/allocator/allocator_unittests.cc
+END
+allocator_shim.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/122180/trunk/src/base/allocator/allocator_shim.h
+END
+prep_libc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/133434/trunk/src/base/allocator/prep_libc.sh
+END
+allocator_extension_thunks.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/134434/trunk/src/base/allocator/allocator_extension_thunks.cc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/33043/trunk/src/base/allocator/README
+END
+allocator.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/134434/trunk/src/base/allocator/allocator.gyp
+END
+allocator_extension_thunks.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/134434/trunk/src/base/allocator/allocator_extension_thunks.h
+END

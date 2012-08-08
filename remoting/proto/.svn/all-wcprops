@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/134180/trunk/src/remoting/proto
+END
+control.proto
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/134180/trunk/src/remoting/proto/control.proto
+END
+event.proto
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/131698/trunk/src/remoting/proto/event.proto
+END
+chromotocol.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/108759/trunk/src/remoting/proto/chromotocol.gyp
+END
+video.proto
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/131698/trunk/src/remoting/proto/video.proto
+END
+internal.proto
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/134180/trunk/src/remoting/proto/internal.proto
+END

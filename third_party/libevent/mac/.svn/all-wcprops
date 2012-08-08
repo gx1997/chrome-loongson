@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/32656/trunk/src/third_party/libevent/mac
+END
+event-config.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/32656/trunk/src/third_party/libevent/mac/event-config.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/32656/trunk/src/third_party/libevent/mac/config.h
+END

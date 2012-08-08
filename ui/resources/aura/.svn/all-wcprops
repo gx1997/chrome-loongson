@@ -1,0 +1,1007 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/134736/trunk/src/ui/resources/aura
+END
+small_shadow_top.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/124192/trunk/src/ui/resources/aura/small_shadow_top.png
+END
+status_bluetooth_disabled.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/132906/trunk/src/ui/resources/aura/status_bluetooth_disabled.png
+END
+status_drive_item_cancel_hover.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/134736/trunk/src/ui/resources/aura/status_drive_item_cancel_hover.png
+END
+status_capslock_dark.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/133521/trunk/src/ui/resources/aura/status_capslock_dark.png
+END
+textbutton_pressed_bottom_left.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/133922/trunk/src/ui/resources/aura/textbutton_pressed_bottom_left.png
+END
+window_close_touch_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/134215/trunk/src/ui/resources/aura/window_close_touch_normal.png
+END
+status_network_info.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/128604/trunk/src/ui/resources/aura/status_network_info.png
+END
+window_close_touch_hot.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/134215/trunk/src/ui/resources/aura/window_close_touch_hot.png
+END
+multi_window_resize_h.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/125706/trunk/src/ui/resources/aura/multi_window_resize_h.png
+END
+small_shadow_top_left.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/124192/trunk/src/ui/resources/aura/small_shadow_top_left.png
+END
+status_brightness.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/128490/trunk/src/ui/resources/aura/status_brightness.png
+END
+status_drive.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/134736/trunk/src/ui/resources/aura/status_drive.png
+END
+status_ime.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/128490/trunk/src/ui/resources/aura/status_ime.png
+END
+window_shadow_inactive_top_right.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/122391/trunk/src/ui/resources/aura/window_shadow_inactive_top_right.png
+END
+window_header_shade_right.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/130501/trunk/src/ui/resources/aura/window_header_shade_right.png
+END
+resize_shadow_bottom_right.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/128231/trunk/src/ui/resources/aura/resize_shadow_bottom_right.png
+END
+multi_window_resize_v.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/125706/trunk/src/ui/resources/aura/multi_window_resize_v.png
+END
+window_maximized_minimize_hot.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/130650/trunk/src/ui/resources/aura/window_maximized_minimize_hot.png
+END
+new_browser.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/114666/trunk/src/ui/resources/aura/new_browser.png
+END
+window_header_shade_left.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/130501/trunk/src/ui/resources/aura/window_header_shade_left.png
+END
+window_fullscreen_shadow.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/130460/trunk/src/ui/resources/aura/window_fullscreen_shadow.png
+END
+launcher_underline_active.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/127628/trunk/src/ui/resources/aura/launcher_underline_active.png
+END
+textbutton_pressed_right.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/133922/trunk/src/ui/resources/aura/textbutton_pressed_right.png
+END
+status_capslock.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/133521/trunk/src/ui/resources/aura/status_capslock.png
+END
+window_fullscreen_restore_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/130460/trunk/src/ui/resources/aura/window_fullscreen_restore_normal.png
+END
+launcher_browser.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/128611/trunk/src/ui/resources/aura/launcher_browser.png
+END
+window_maximized_minimize_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/130650/trunk/src/ui/resources/aura/window_maximized_minimize_pressed.png
+END
+launcher_underline_running.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/127628/trunk/src/ui/resources/aura/launcher_underline_running.png
+END
+window_close_hot.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/130460/trunk/src/ui/resources/aura/window_close_hot.png
+END
+launcher_underline_hover.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/127628/trunk/src/ui/resources/aura/launcher_underline_hover.png
+END
+status_less.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/126726/trunk/src/ui/resources/aura/status_less.png
+END
+window_maximized_snap_right_p.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/130460/trunk/src/ui/resources/aura/window_maximized_snap_right_p.png
+END
+status_cellular_enabled.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/132809/trunk/src/ui/resources/aura/status_cellular_enabled.png
+END
+window_fullscreen_close_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/130460/trunk/src/ui/resources/aura/window_fullscreen_close_normal.png
+END
+window_fullscreen_close_hot.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/130460/trunk/src/ui/resources/aura/window_fullscreen_close_hot.png
+END
+window_shadow_active_bottom_right.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/122391/trunk/src/ui/resources/aura/window_shadow_active_bottom_right.png
+END
+window_maximized_minimize_touch_hot.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/134215/trunk/src/ui/resources/aura/window_maximized_minimize_touch_hot.png
+END
+status_network.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/123769/trunk/src/ui/resources/aura/status_network.png
+END
+launcher_applist.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/125878/trunk/src/ui/resources/aura/launcher_applist.png
+END
+window_restore_touch_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/134215/trunk/src/ui/resources/aura/window_restore_touch_pressed.png
+END
+status_volume_all.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/129432/trunk/src/ui/resources/aura/status_volume_all.png
+END
+resize_shadow_top_left.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/128231/trunk/src/ui/resources/aura/resize_shadow_top_left.png
+END
+status_drive_light.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/134736/trunk/src/ui/resources/aura/status_drive_light.png
+END
+resize_shadow_bottom_left.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/128231/trunk/src/ui/resources/aura/resize_shadow_bottom_left.png
+END
+window_shadow_active_bottom_left.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/122391/trunk/src/ui/resources/aura/window_shadow_active_bottom_left.png
+END
+slab_close.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/102312/trunk/src/ui/resources/aura/slab_close.png
+END
+window_maximized_minimize_touch_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/134215/trunk/src/ui/resources/aura/window_maximized_minimize_touch_pressed.png
+END
+window_snap_p.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/130460/trunk/src/ui/resources/aura/window_snap_p.png
+END
+textbutton_hot_bottom_right.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/133922/trunk/src/ui/resources/aura/textbutton_hot_bottom_right.png
+END
+status_wifi_enabled.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/132809/trunk/src/ui/resources/aura/status_wifi_enabled.png
+END
+textbutton_hot_top.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/133922/trunk/src/ui/resources/aura/textbutton_hot_top.png
+END
+window_shadow_inactive_bottom_right.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/122391/trunk/src/ui/resources/aura/window_shadow_inactive_bottom_right.png
+END
+resize_shadow_left.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/127423/trunk/src/ui/resources/aura/resize_shadow_left.png
+END
+window_snap_left_touch_p.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/134215/trunk/src/ui/resources/aura/window_snap_left_touch_p.png
+END
+launcher_overflow.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/114232/trunk/src/ui/resources/aura/launcher_overflow.png
+END
+window_button_separator_touch.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/134215/trunk/src/ui/resources/aura/window_button_separator_touch.png
+END
+window_maximize_touch_hot.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/134215/trunk/src/ui/resources/aura/window_maximize_touch_hot.png
+END
+textbutton_hot_right.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/133922/trunk/src/ui/resources/aura/textbutton_hot_right.png
+END
+textbutton_pressed_top.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/133922/trunk/src/ui/resources/aura/textbutton_pressed_top.png
+END
+window_maximized_minimize_touch_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/134215/trunk/src/ui/resources/aura/window_maximized_minimize_touch_normal.png
+END
+resize_shadow_bottom.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/127423/trunk/src/ui/resources/aura/resize_shadow_bottom.png
+END
+window_header_base_inactive.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/129280/trunk/src/ui/resources/aura/window_header_base_inactive.png
+END
+small_shadow_bottom_right.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/124192/trunk/src/ui/resources/aura/small_shadow_bottom_right.png
+END
+textbutton_pressed_top_left.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/133922/trunk/src/ui/resources/aura/textbutton_pressed_top_left.png
+END
+small_shadow_bottom.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/124192/trunk/src/ui/resources/aura/small_shadow_bottom.png
+END
+window_header_base_active.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/127191/trunk/src/ui/resources/aura/window_header_base_active.png
+END
+window_close_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/130460/trunk/src/ui/resources/aura/window_close_normal.png
+END
+window_header_shade_bottom.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/124602/trunk/src/ui/resources/aura/window_header_shade_bottom.png
+END
+status_network_airplane.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/126726/trunk/src/ui/resources/aura/status_network_airplane.png
+END
+window_fullscreen_separator.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/130460/trunk/src/ui/resources/aura/window_fullscreen_separator.png
+END
+PRESUBMIT.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/120259/trunk/src/ui/resources/aura/PRESUBMIT.py
+END
+window_maximized_snap_p.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/130460/trunk/src/ui/resources/aura/window_maximized_snap_p.png
+END
+window_header_shade_bottom_left.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/124602/trunk/src/ui/resources/aura/window_header_shade_bottom_left.png
+END
+window_snap_left_p.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/130460/trunk/src/ui/resources/aura/window_snap_left_p.png
+END
+window_fullscreen_restore_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/130460/trunk/src/ui/resources/aura/window_fullscreen_restore_pressed.png
+END
+window_shadow_active_left.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/122391/trunk/src/ui/resources/aura/window_shadow_active_left.png
+END
+window_maximize_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/130460/trunk/src/ui/resources/aura/window_maximize_normal.png
+END
+status_bluetooth_enabled.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/132906/trunk/src/ui/resources/aura/status_bluetooth_enabled.png
+END
+textbutton_hot_top_left.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/133922/trunk/src/ui/resources/aura/textbutton_hot_top_left.png
+END
+window_maximized_minimize_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/130650/trunk/src/ui/resources/aura/window_maximized_minimize_normal.png
+END
+window_shadow_inactive_top_left.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/122391/trunk/src/ui/resources/aura/window_shadow_inactive_top_left.png
+END
+small_shadow_top_right.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/124192/trunk/src/ui/resources/aura/small_shadow_top_right.png
+END
+window_shadow_inactive_bottom_left.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/122391/trunk/src/ui/resources/aura/window_shadow_inactive_bottom_left.png
+END
+status_cellular_disabled.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/132809/trunk/src/ui/resources/aura/status_cellular_disabled.png
+END
+status_accessibility_mode.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/127386/trunk/src/ui/resources/aura/status_accessibility_mode.png
+END
+window_maximize_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/130460/trunk/src/ui/resources/aura/window_maximize_pressed.png
+END
+new_browser_h.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/114666/trunk/src/ui/resources/aura/new_browser_h.png
+END
+textbutton_hot_left.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/133922/trunk/src/ui/resources/aura/textbutton_hot_left.png
+END
+switch_monitor.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/128862/trunk/src/ui/resources/aura/switch_monitor.png
+END
+window_shadow_inactive_left.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/122391/trunk/src/ui/resources/aura/window_shadow_inactive_left.png
+END
+textbutton_hot_top_right.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/133922/trunk/src/ui/resources/aura/textbutton_hot_top_right.png
+END
+new_browser_p.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/114666/trunk/src/ui/resources/aura/new_browser_p.png
+END
+launcher_incognito_browser.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/128611/trunk/src/ui/resources/aura/launcher_incognito_browser.png
+END
+textbutton_hot_bottom.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/133922/trunk/src/ui/resources/aura/textbutton_hot_bottom.png
+END
+window_header_shade_top_left.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/130501/trunk/src/ui/resources/aura/window_header_shade_top_left.png
+END
+window_shadow_inactive_bottom.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/122391/trunk/src/ui/resources/aura/window_shadow_inactive_bottom.png
+END
+window_close_touch_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/134215/trunk/src/ui/resources/aura/window_close_touch_pressed.png
+END
+window_maximize_touch_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/134215/trunk/src/ui/resources/aura/window_maximize_touch_normal.png
+END
+slab_zoom.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/102312/trunk/src/ui/resources/aura/slab_zoom.png
+END
+window_shadow_active_top_right.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/122391/trunk/src/ui/resources/aura/window_shadow_active_top_right.png
+END
+small_shadow_left.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/124192/trunk/src/ui/resources/aura/small_shadow_left.png
+END
+resize_shadow_top.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/127423/trunk/src/ui/resources/aura/resize_shadow_top.png
+END
+window_shadow_active_top.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/122391/trunk/src/ui/resources/aura/window_shadow_active_top.png
+END
+textbutton_hot_center.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/133922/trunk/src/ui/resources/aura/textbutton_hot_center.png
+END
+status_drive_item_failed.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/134736/trunk/src/ui/resources/aura/status_drive_item_failed.png
+END
+status_drive_item_done.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/134736/trunk/src/ui/resources/aura/status_drive_item_done.png
+END
+resize_shadow_right.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/127423/trunk/src/ui/resources/aura/resize_shadow_right.png
+END
+chromium-32.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/117928/trunk/src/ui/resources/aura/chromium-32.png
+END
+window_snap_minimize_p.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/130460/trunk/src/ui/resources/aura/window_snap_minimize_p.png
+END
+window_snap_touch_p.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/134215/trunk/src/ui/resources/aura/window_snap_touch_p.png
+END
+small_shadow_bottom_left.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/124192/trunk/src/ui/resources/aura/small_shadow_bottom_left.png
+END
+window_header_base_incognito_active.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/125241/trunk/src/ui/resources/aura/window_header_base_incognito_active.png
+END
+status_chromevox.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/127386/trunk/src/ui/resources/aura/status_chromevox.png
+END
+window_maximized_snap_minimize_p.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/130460/trunk/src/ui/resources/aura/window_maximized_snap_minimize_p.png
+END
+window_close_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/130460/trunk/src/ui/resources/aura/window_close_pressed.png
+END
+launcher_browser_panel.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/128611/trunk/src/ui/resources/aura/launcher_browser_panel.png
+END
+window_restore_touch_hot.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/134215/trunk/src/ui/resources/aura/window_restore_touch_hot.png
+END
+textbutton_pressed_bottom_right.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/133922/trunk/src/ui/resources/aura/textbutton_pressed_bottom_right.png
+END
+status_update_dark.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/129363/trunk/src/ui/resources/aura/status_update_dark.png
+END
+textbutton_pressed_bottom.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/133922/trunk/src/ui/resources/aura/textbutton_pressed_bottom.png
+END
+launcher_overflow_h.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/114234/trunk/src/ui/resources/aura/launcher_overflow_h.png
+END
+window_shadow_active_bottom.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/122391/trunk/src/ui/resources/aura/window_shadow_active_bottom.png
+END
+window_header_shade_middle.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/130501/trunk/src/ui/resources/aura/window_header_shade_middle.png
+END
+window_header_shade_top_right.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/130501/trunk/src/ui/resources/aura/window_header_shade_top_right.png
+END
+window_fullscreen_close_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/130460/trunk/src/ui/resources/aura/window_fullscreen_close_pressed.png
+END
+launcher_overflow_p.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/114234/trunk/src/ui/resources/aura/launcher_overflow_p.png
+END
+window_snap_right_p.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/130460/trunk/src/ui/resources/aura/window_snap_right_p.png
+END
+textbutton_pressed_center.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/133922/trunk/src/ui/resources/aura/textbutton_pressed_center.png
+END
+window_header_shade_top.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/130501/trunk/src/ui/resources/aura/window_header_shade_top.png
+END
+status_bluetooth.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/128490/trunk/src/ui/resources/aura/status_bluetooth.png
+END
+statusbar.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/101496/trunk/src/ui/resources/aura/statusbar.png
+END
+small_shadow_right.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/124192/trunk/src/ui/resources/aura/small_shadow_right.png
+END
+status_volume.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/123769/trunk/src/ui/resources/aura/status_volume.png
+END
+window_snap_minimize_touch_p.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/134215/trunk/src/ui/resources/aura/window_snap_minimize_touch_p.png
+END
+window_maximized_close_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/130460/trunk/src/ui/resources/aura/window_maximized_close_normal.png
+END
+status_power_small_all.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/128490/trunk/src/ui/resources/aura/status_power_small_all.png
+END
+window_shadow_inactive_top.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/122391/trunk/src/ui/resources/aura/window_shadow_inactive_top.png
+END
+textbutton_pressed_top_right.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/133922/trunk/src/ui/resources/aura/textbutton_pressed_top_right.png
+END
+resize_shadow_top_right.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/128231/trunk/src/ui/resources/aura/resize_shadow_top_right.png
+END
+window_shadow_inactive_right.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/122391/trunk/src/ui/resources/aura/window_shadow_inactive_right.png
+END
+window_maximized_restore_hot.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/130460/trunk/src/ui/resources/aura/window_maximized_restore_hot.png
+END
+launcher_incognito_browser_panel.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/128611/trunk/src/ui/resources/aura/launcher_incognito_browser_panel.png
+END
+status_drive_item_cancel.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/134736/trunk/src/ui/resources/aura/status_drive_item_cancel.png
+END
+window_maximize_touch_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/134215/trunk/src/ui/resources/aura/window_maximize_touch_pressed.png
+END
+status_settings.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/128490/trunk/src/ui/resources/aura/status_settings.png
+END
+window_shadow_active_top_left.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/122391/trunk/src/ui/resources/aura/window_shadow_active_top_left.png
+END
+window_header_shade_bottom_right.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/124602/trunk/src/ui/resources/aura/window_header_shade_bottom_right.png
+END
+launcher_applist_h.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/125878/trunk/src/ui/resources/aura/launcher_applist_h.png
+END
+window_header_base_incognito_inactive.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/125241/trunk/src/ui/resources/aura/window_header_base_incognito_inactive.png
+END
+status_volume_mute.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/128942/trunk/src/ui/resources/aura/status_volume_mute.png
+END
+window_shadow_active_right.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/122391/trunk/src/ui/resources/aura/window_shadow_active_right.png
+END
+status_more.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/127386/trunk/src/ui/resources/aura/status_more.png
+END
+window_fullscreen_restore_hot.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/130460/trunk/src/ui/resources/aura/window_fullscreen_restore_hot.png
+END
+window_maximized_restore_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/130460/trunk/src/ui/resources/aura/window_maximized_restore_pressed.png
+END
+window_snap_right_touch_p.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/134215/trunk/src/ui/resources/aura/window_snap_right_touch_p.png
+END
+launcher_applist_p.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/125878/trunk/src/ui/resources/aura/launcher_applist_p.png
+END
+window_maximized_close_hot.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/130460/trunk/src/ui/resources/aura/window_maximized_close_hot.png
+END
+textbutton_pressed_left.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/133922/trunk/src/ui/resources/aura/textbutton_pressed_left.png
+END
+window_button_separator.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/130460/trunk/src/ui/resources/aura/window_button_separator.png
+END
+window_maximize_hot.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/130460/trunk/src/ui/resources/aura/window_maximize_hot.png
+END
+window_restore_touch_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/134215/trunk/src/ui/resources/aura/window_restore_touch_normal.png
+END
+status_update.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/129363/trunk/src/ui/resources/aura/status_update.png
+END
+window_maximized_close_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/130460/trunk/src/ui/resources/aura/window_maximized_close_pressed.png
+END
+window_maximized_snap_left_p.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/130460/trunk/src/ui/resources/aura/window_maximized_snap_left_p.png
+END
+textbutton_hot_bottom_left.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/133922/trunk/src/ui/resources/aura/textbutton_hot_bottom_left.png
+END
+status_wifi_disabled.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/132809/trunk/src/ui/resources/aura/status_wifi_disabled.png
+END
+window_maximized_restore_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/130460/trunk/src/ui/resources/aura/window_maximized_restore_normal.png
+END

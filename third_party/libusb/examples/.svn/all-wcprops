@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/examples
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/examples/Makefile.am
+END
+lsusb.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/examples/lsusb.c
+END
+dpfp.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/examples/dpfp.c
+END
+dpfp_threaded.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/131622/trunk/src/third_party/libusb/examples/dpfp_threaded.c
+END

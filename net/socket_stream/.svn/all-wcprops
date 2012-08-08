@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/134754/trunk/src/net/socket_stream
+END
+socket_stream_metrics.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/96560/trunk/src/net/socket_stream/socket_stream_metrics.h
+END
+socket_stream_job.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/134754/trunk/src/net/socket_stream/socket_stream_job.cc
+END
+socket_stream_job.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/128093/trunk/src/net/socket_stream/socket_stream_job.h
+END
+socket_stream_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/123274/trunk/src/net/socket_stream/socket_stream_unittest.cc
+END
+socket_stream.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/134754/trunk/src/net/socket_stream/socket_stream.cc
+END
+socket_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/128093/trunk/src/net/socket_stream/socket_stream.h
+END
+socket_stream_job_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/79524/trunk/src/net/socket_stream/socket_stream_job_manager.cc
+END
+socket_stream_metrics_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/103307/trunk/src/net/socket_stream/socket_stream_metrics_unittest.cc
+END
+socket_stream_metrics.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/90343/trunk/src/net/socket_stream/socket_stream_metrics.cc
+END
+socket_stream_job_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/72106/trunk/src/net/socket_stream/socket_stream_job_manager.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/81407/trunk/src/net/socket_stream/OWNERS
+END

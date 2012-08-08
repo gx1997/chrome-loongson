@@ -1,0 +1,40 @@
+9
+
+dir
+146
+http://angleproject.googlecode.com/svn/trunk/include
+http://angleproject.googlecode.com/svn
+
+
+
+2010-04-08T03:51:23.819802Z
+111
+daniel@transgaming.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+736b8ea6-26fd-11df-bfd4-992fa37f6226
+
+KHR
+dir
+
+GLSLANG
+dir
+
+EGL
+dir
+
+GLES2
+dir
+

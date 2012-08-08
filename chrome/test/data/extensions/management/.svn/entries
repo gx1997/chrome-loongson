@@ -1,0 +1,46 @@
+10
+
+dir
+134868
+http://src.chromium.org/svn/trunk/src/chrome/test/data/extensions/management
+http://src.chromium.org/svn
+
+
+
+2012-01-11T01:11:12.281793Z
+117137
+aa@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+packaged_app
+dir
+
+simple_extension
+dir
+
+uninstall_extension
+dir
+
+install_event
+dir
+
+launch_app
+dir
+
+launch_app_from_background
+dir
+

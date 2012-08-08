@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/35/trunk/src/compiler/tools
+END
+COPYING.bison
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/35/trunk/src/compiler/tools/COPYING.bison
+END
+bison.simple
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/35/trunk/src/compiler/tools/bison.simple
+END
+bison.hairy
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/35/trunk/src/compiler/tools/bison.hairy
+END
+COPYING.flex
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/35/trunk/src/compiler/tools/COPYING.flex
+END
+bison.exe
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/35/trunk/src/compiler/tools/bison.exe
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/35/trunk/src/compiler/tools/README
+END
+flex.exe
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/35/trunk/src/compiler/tools/flex.exe
+END

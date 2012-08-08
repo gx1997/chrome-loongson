@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/133993/trunk/src/chrome/test/data/indexeddb
+END
+version_change_blocked.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/133993/trunk/src/chrome/test/data/indexeddb/version_change_blocked.html
+END
+shared.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/133993/trunk/src/chrome/test/data/indexeddb/shared.js
+END
+version_change_crash.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/133993/trunk/src/chrome/test/data/indexeddb/version_change_crash.js
+END
+bug_90635.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/133993/trunk/src/chrome/test/data/indexeddb/bug_90635.html
+END
+version_change_blocked.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/133993/trunk/src/chrome/test/data/indexeddb/version_change_blocked.js
+END
+version_change_crash.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/133993/trunk/src/chrome/test/data/indexeddb/version_change_crash.html
+END
+bug_90635.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/133993/trunk/src/chrome/test/data/indexeddb/bug_90635.js
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/134030/trunk/src/content/shell/android/java/org/chromium/content_shell
+END
+ContentShellActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/134030/trunk/src/content/shell/android/java/org/chromium/content_shell/ContentShellActivity.java
+END
+ShellManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/133857/trunk/src/content/shell/android/java/org/chromium/content_shell/ShellManager.java
+END
+ShellView.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/133857/trunk/src/content/shell/android/java/org/chromium/content_shell/ShellView.java
+END
+ContentShellApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/133857/trunk/src/content/shell/android/java/org/chromium/content_shell/ContentShellApplication.java
+END

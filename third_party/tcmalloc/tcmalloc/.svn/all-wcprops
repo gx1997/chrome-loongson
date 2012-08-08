@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/77/trunk
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/36/trunk/mkinstalldirs
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/77/trunk/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/77/trunk/Makefile.in
+END
+google-perftools.sln
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/76/trunk/google-perftools.sln
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/9/trunk/AUTHORS
+END
+README.windows
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/68/trunk/README.windows
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/36/trunk/depcomp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/76/trunk/ChangeLog
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/36/trunk/compile
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/68/trunk/config.guess
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/68/trunk/ltmain.sh
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/68/trunk/config.sub
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/74/trunk/README
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/77/trunk/configure.ac
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/48/trunk/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/68/trunk/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/23/trunk/COPYING
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/36/trunk/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/77/trunk/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/38/trunk/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/9/trunk/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/76/trunk/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/36/trunk/install-sh
+END

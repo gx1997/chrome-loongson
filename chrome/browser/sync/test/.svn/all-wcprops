@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/134337/trunk/src/chrome/browser/sync/test
+END
+test_http_bridge_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/100136/trunk/src/chrome/browser/sync/test/test_http_bridge_factory.cc
+END
+test_http_bridge_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/133349/trunk/src/chrome/browser/sync/test/test_http_bridge_factory.h
+END

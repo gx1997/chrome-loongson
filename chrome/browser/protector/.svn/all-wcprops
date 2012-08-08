@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/134698/trunk/src/chrome/browser/protector
+END
+default_search_provider_change_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/134337/trunk/src/chrome/browser/protector/default_search_provider_change_browsertest.cc
+END
+settings_change_global_error.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/131773/trunk/src/chrome/browser/protector/settings_change_global_error.cc
+END
+protected_prefs_watcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/134698/trunk/src/chrome/browser/protector/protected_prefs_watcher.cc
+END
+protected_prefs_watcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/132398/trunk/src/chrome/browser/protector/protected_prefs_watcher.h
+END
+keys.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/107426/trunk/src/chrome/browser/protector/keys.cc
+END
+mock_protector_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/124482/trunk/src/chrome/browser/protector/mock_protector_service.h
+END
+keys.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/107426/trunk/src/chrome/browser/protector/keys.h
+END
+prefs_backup_invalid_change_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/128200/trunk/src/chrome/browser/protector/prefs_backup_invalid_change_unittest.cc
+END
+base_setting_change.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/134337/trunk/src/chrome/browser/protector/base_setting_change.h
+END
+base_prefs_change.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/132398/trunk/src/chrome/browser/protector/base_prefs_change.h
+END
+histograms.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/132566/trunk/src/chrome/browser/protector/histograms.cc
+END
+composite_settings_change_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/131773/trunk/src/chrome/browser/protector/composite_settings_change_unittest.cc
+END
+protector_service_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/126927/trunk/src/chrome/browser/protector/protector_service_factory.cc
+END
+homepage_change_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/132566/trunk/src/chrome/browser/protector/homepage_change_unittest.cc
+END
+homepage_change.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/132566/trunk/src/chrome/browser/protector/homepage_change.cc
+END
+mock_setting_change.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/132566/trunk/src/chrome/browser/protector/mock_setting_change.cc
+END
+mock_setting_change.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/132566/trunk/src/chrome/browser/protector/mock_setting_change.h
+END
+settings_change_global_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/126381/trunk/src/chrome/browser/protector/settings_change_global_error.h
+END
+protector_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/129910/trunk/src/chrome/browser/protector/protector_utils.cc
+END
+protector_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/134698/trunk/src/chrome/browser/protector/protector_service.cc
+END
+protector_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/129910/trunk/src/chrome/browser/protector/protector_utils.h
+END
+protector_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/134698/trunk/src/chrome/browser/protector/protector_service.h
+END
+protector_service_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/131773/trunk/src/chrome/browser/protector/protector_service_browsertest.cc
+END
+protected_prefs_watcher_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/134698/trunk/src/chrome/browser/protector/protected_prefs_watcher_unittest.cc
+END
+session_startup_change_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/131773/trunk/src/chrome/browser/protector/session_startup_change_unittest.cc
+END
+mock_protector_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/127104/trunk/src/chrome/browser/protector/mock_protector_service.cc
+END
+session_startup_change.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/131773/trunk/src/chrome/browser/protector/session_startup_change.cc
+END
+base_setting_change.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/132566/trunk/src/chrome/browser/protector/base_setting_change.cc
+END
+base_prefs_change.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/132398/trunk/src/chrome/browser/protector/base_prefs_change.cc
+END
+prefs_backup_invalid_change.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/132398/trunk/src/chrome/browser/protector/prefs_backup_invalid_change.cc
+END
+histograms.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/132566/trunk/src/chrome/browser/protector/histograms.h
+END
+composite_settings_change.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/131773/trunk/src/chrome/browser/protector/composite_settings_change.cc
+END
+default_search_provider_change.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/134337/trunk/src/chrome/browser/protector/default_search_provider_change.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/130714/trunk/src/chrome/browser/protector/OWNERS
+END
+composite_settings_change.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/131773/trunk/src/chrome/browser/protector/composite_settings_change.h
+END
+settings_change_global_error_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/124482/trunk/src/chrome/browser/protector/settings_change_global_error_delegate.h
+END
+protector_service_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/126927/trunk/src/chrome/browser/protector/protector_service_factory.h
+END

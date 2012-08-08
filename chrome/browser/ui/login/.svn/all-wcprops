@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/133865/trunk/src/chrome/browser/ui/login
+END
+login_prompt.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/133865/trunk/src/chrome/browser/ui/login/login_prompt.h
+END
+login_prompt_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/68069/trunk/src/chrome/browser/ui/login/login_prompt_mac.h
+END
+login_prompt_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/131993/trunk/src/chrome/browser/ui/login/login_prompt_browsertest.cc
+END
+login_prompt_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/133865/trunk/src/chrome/browser/ui/login/login_prompt_mac.mm
+END
+login_prompt_gtk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/126089/trunk/src/chrome/browser/ui/login/login_prompt_gtk.cc
+END
+login_prompt_views.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/132816/trunk/src/chrome/browser/ui/login/login_prompt_views.cc
+END
+login_prompt_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/100676/trunk/src/chrome/browser/ui/login/login_prompt_unittest.cc
+END
+login_prompt.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/133865/trunk/src/chrome/browser/ui/login/login_prompt.cc
+END
+login_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/108016/trunk/src/chrome/browser/ui/login/login_model.h
+END

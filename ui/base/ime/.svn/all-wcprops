@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/127924/trunk/src/ui/base/ime
+END
+input_method_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/113095/trunk/src/ui/base/ime/input_method_delegate.h
+END
+input_method_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/117751/trunk/src/ui/base/ime/input_method_base.h
+END
+ime.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/117392/trunk/src/ui/base/ime/ime.gypi
+END
+input_method.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/117751/trunk/src/ui/base/ime/input_method.h
+END
+text_input_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/109608/trunk/src/ui/base/ime/text_input_client.cc
+END
+ibus_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/119012/trunk/src/ui/base/ime/ibus_client.h
+END
+character_composer_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/127924/trunk/src/ui/base/ime/character_composer_unittest.cc
+END
+text_input_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/117751/trunk/src/ui/base/ime/text_input_client.h
+END
+character_composer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/127924/trunk/src/ui/base/ime/character_composer.cc
+END
+character_composer.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/127924/trunk/src/ui/base/ime/character_composer.h
+END
+text_input_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/94453/trunk/src/ui/base/ime/text_input_type.h
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/109449/trunk/src/ui/base/ime/DEPS
+END
+composition_text.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/79214/trunk/src/ui/base/ime/composition_text.cc
+END
+mock_input_method.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/117751/trunk/src/ui/base/ime/mock_input_method.cc
+END
+mock_ibus_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/119012/trunk/src/ui/base/ime/mock_ibus_client.cc
+END
+composition_text.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/116654/trunk/src/ui/base/ime/composition_text.h
+END
+mock_input_method.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/117751/trunk/src/ui/base/ime/mock_input_method.h
+END
+composition_underline.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/116654/trunk/src/ui/base/ime/composition_underline.h
+END
+mock_ibus_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/119012/trunk/src/ui/base/ime/mock_ibus_client.h
+END
+ime_unittests.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/117392/trunk/src/ui/base/ime/ime_unittests.gypi
+END
+input_method_ibus_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/118851/trunk/src/ui/base/ime/input_method_ibus_unittest.cc
+END
+input_method_ibus.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/127924/trunk/src/ui/base/ime/input_method_ibus.cc
+END
+ibus_client_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/119012/trunk/src/ui/base/ime/ibus_client_impl.cc
+END
+input_method_ibus.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/118851/trunk/src/ui/base/ime/input_method_ibus.h
+END
+ibus_client_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/119012/trunk/src/ui/base/ime/ibus_client_impl.h
+END
+input_method_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/115778/trunk/src/ui/base/ime/input_method_factory.cc
+END
+input_method_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/115778/trunk/src/ui/base/ime/input_method_factory.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/109587/trunk/src/ui/base/ime/OWNERS
+END
+input_method_base.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/117751/trunk/src/ui/base/ime/input_method_base.cc
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/133555/trunk/src/chrome/browser/ui/extensions
+END
+shell_window.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/132844/trunk/src/chrome/browser/ui/extensions/shell_window.cc
+END
+shell_window.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/133555/trunk/src/chrome/browser/ui/extensions/shell_window.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/124018/trunk/src/chrome/browser/ui/extensions/OWNERS
+END

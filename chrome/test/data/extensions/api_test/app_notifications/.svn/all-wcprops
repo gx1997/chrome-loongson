@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/128560/trunk/src/chrome/test/data/extensions/api_test/app_notifications
+END
+test.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/128560/trunk/src/chrome/test/data/extensions/api_test/app_notifications/test.html
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/128560/trunk/src/chrome/test/data/extensions/api_test/app_notifications/test.js
+END
+launch.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/128560/trunk/src/chrome/test/data/extensions/api_test/app_notifications/launch.html
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/128560/trunk/src/chrome/test/data/extensions/api_test/app_notifications/manifest.json
+END

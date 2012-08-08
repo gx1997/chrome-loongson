@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/133475/trunk/src/tools/isolate/data/trace_inputs
+END
+child1.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/131981/trunk/src/tools/isolate/data/trace_inputs/child1.py
+END
+child2.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/133475/trunk/src/tools/isolate/data/trace_inputs/child2.py
+END
+test_file.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/128512/trunk/src/tools/isolate/data/trace_inputs/test_file.txt
+END

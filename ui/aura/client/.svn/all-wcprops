@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/132741/trunk/src/ui/aura/client
+END
+drag_drop_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/125153/trunk/src/ui/aura/client/drag_drop_delegate.cc
+END
+activation_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/125153/trunk/src/ui/aura/client/activation_delegate.cc
+END
+window_move_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/125153/trunk/src/ui/aura/client/window_move_client.cc
+END
+window_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/118259/trunk/src/ui/aura/client/window_types.h
+END
+drag_drop_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/121583/trunk/src/ui/aura/client/drag_drop_delegate.h
+END
+activation_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/127172/trunk/src/ui/aura/client/activation_delegate.h
+END
+window_move_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/121583/trunk/src/ui/aura/client/window_move_client.h
+END
+drag_drop_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/125153/trunk/src/ui/aura/client/drag_drop_client.cc
+END
+activation_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/128979/trunk/src/ui/aura/client/activation_client.cc
+END
+stacking_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/125153/trunk/src/ui/aura/client/stacking_client.cc
+END
+activation_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/129443/trunk/src/ui/aura/client/activation_client.h
+END
+drag_drop_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/123690/trunk/src/ui/aura/client/drag_drop_client.h
+END
+stacking_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/121583/trunk/src/ui/aura/client/stacking_client.h
+END
+user_gesture_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/132741/trunk/src/ui/aura/client/user_gesture_client.cc
+END
+user_gesture_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/132741/trunk/src/ui/aura/client/user_gesture_client.h
+END
+event_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/128553/trunk/src/ui/aura/client/event_client.cc
+END
+event_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/128553/trunk/src/ui/aura/client/event_client.h
+END
+dispatcher_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/125153/trunk/src/ui/aura/client/dispatcher_client.cc
+END
+aura_constants.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/125153/trunk/src/ui/aura/client/aura_constants.cc
+END
+visibility_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/125153/trunk/src/ui/aura/client/visibility_client.cc
+END
+aura_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/121583/trunk/src/ui/aura/client/aura_constants.h
+END
+dispatcher_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/123690/trunk/src/ui/aura/client/dispatcher_client.h
+END
+visibility_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/123690/trunk/src/ui/aura/client/visibility_client.h
+END
+tooltip_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/125153/trunk/src/ui/aura/client/tooltip_client.cc
+END
+tooltip_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/123690/trunk/src/ui/aura/client/tooltip_client.h
+END

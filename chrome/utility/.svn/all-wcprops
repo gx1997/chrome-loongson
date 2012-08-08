@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/131680/trunk/src/chrome/utility
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/107174/trunk/src/chrome/utility/DEPS
+END
+chrome_content_utility_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/131680/trunk/src/chrome/utility/chrome_content_utility_client.cc
+END
+chrome_content_utility_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/122009/trunk/src/chrome/utility/chrome_content_utility_client.h
+END

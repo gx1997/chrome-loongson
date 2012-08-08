@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/134710/trunk/src/ash/system/power
+END
+power_supply_status.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/133080/trunk/src/ash/system/power/power_supply_status.cc
+END
+tray_power.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/134710/trunk/src/ash/system/power/tray_power.cc
+END
+power_supply_status.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/133080/trunk/src/ash/system/power/power_supply_status.h
+END
+tray_power.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/134710/trunk/src/ash/system/power/tray_power.h
+END
+power_status_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/130796/trunk/src/ash/system/power/power_status_observer.h
+END

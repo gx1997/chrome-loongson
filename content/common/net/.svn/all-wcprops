@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/134207/trunk/src/content/common/net
+END
+url_fetcher_core.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/134207/trunk/src/content/common/net/url_fetcher_core.h
+END
+url_request_user_data.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/125831/trunk/src/content/common/net/url_request_user_data.cc
+END
+url_fetcher_impl_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/131072/trunk/src/content/common/net/url_fetcher_impl_unittest.cc
+END
+url_fetcher_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/133076/trunk/src/content/common/net/url_fetcher_impl.cc
+END
+url_request_user_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/125831/trunk/src/content/common/net/url_request_user_data.h
+END
+url_fetcher_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/130119/trunk/src/content/common/net/url_fetcher_impl.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/105732/trunk/src/content/common/net/OWNERS
+END
+url_fetcher_core.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/134207/trunk/src/content/common/net/url_fetcher_core.cc
+END

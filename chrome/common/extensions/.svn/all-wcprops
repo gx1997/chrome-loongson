@@ -1,0 +1,479 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/134843/trunk/src/chrome/common/extensions
+END
+extension_process_policy.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/114466/trunk/src/chrome/common/extensions/extension_process_policy.h
+END
+extension_localization_peer_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/114736/trunk/src/chrome/common/extensions/extension_localization_peer_unittest.cc
+END
+extension_icon_set_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/123391/trunk/src/chrome/common/extensions/extension_icon_set_unittest.cc
+END
+extension_permission_set_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/134423/trunk/src/chrome/common/extensions/extension_permission_set_unittest.cc
+END
+extension_manifest_constants.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/134596/trunk/src/chrome/common/extensions/extension_manifest_constants.cc
+END
+permission_feature.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/130771/trunk/src/chrome/common/extensions/permission_feature.cc
+END
+extension_l10n_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/128424/trunk/src/chrome/common/extensions/extension_l10n_util.cc
+END
+permission_feature.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/130771/trunk/src/chrome/common/extensions/permission_feature.h
+END
+manifest_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/134596/trunk/src/chrome/common/extensions/manifest_unittest.cc
+END
+extension_l10n_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/109951/trunk/src/chrome/common/extensions/extension_l10n_util.h
+END
+manifest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/134596/trunk/src/chrome/common/extensions/manifest.cc
+END
+extension_unpacker.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/122009/trunk/src/chrome/common/extensions/extension_unpacker.h
+END
+feature_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/130866/trunk/src/chrome/common/extensions/feature_provider.h
+END
+extension_error_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/114917/trunk/src/chrome/common/extensions/extension_error_utils.h
+END
+url_pattern_set_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/94326/trunk/src/chrome/common/extensions/url_pattern_set_unittest.cc
+END
+extension_action.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/134097/trunk/src/chrome/common/extensions/extension_action.cc
+END
+extension_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/134688/trunk/src/chrome/common/extensions/extension_constants.h
+END
+extension_file_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/134115/trunk/src/chrome/common/extensions/extension_file_util.h
+END
+url_pattern_set.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/108358/trunk/src/chrome/common/extensions/url_pattern_set.cc
+END
+extension_message_bundle.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/92208/trunk/src/chrome/common/extensions/extension_message_bundle.h
+END
+simple_feature_provider_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/130866/trunk/src/chrome/common/extensions/simple_feature_provider_unittest.cc
+END
+simple_feature_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/131680/trunk/src/chrome/common/extensions/simple_feature_provider.cc
+END
+extension_resource.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/133270/trunk/src/chrome/common/extensions/extension_resource.cc
+END
+extension_resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/133270/trunk/src/chrome/common/extensions/extension_resource.h
+END
+csp_validator_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/125945/trunk/src/chrome/common/extensions/csp_validator_unittest.cc
+END
+csp_validator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/112656/trunk/src/chrome/common/extensions/csp_validator.cc
+END
+extension_manifest_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/134596/trunk/src/chrome/common/extensions/extension_manifest_constants.h
+END
+user_script_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/125447/trunk/src/chrome/common/extensions/user_script_unittest.cc
+END
+extension_l10n_util_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/128424/trunk/src/chrome/common/extensions/extension_l10n_util_unittest.cc
+END
+user_script.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/126548/trunk/src/chrome/common/extensions/user_script.cc
+END
+extension_messages.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/132289/trunk/src/chrome/common/extensions/extension_messages.cc
+END
+extension_unpacker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/128424/trunk/src/chrome/common/extensions/extension_unpacker.cc
+END
+extension_messages.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/133722/trunk/src/chrome/common/extensions/extension_messages.h
+END
+update_manifest_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/79524/trunk/src/chrome/common/extensions/update_manifest_unittest.cc
+END
+manifest.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/134596/trunk/src/chrome/common/extensions/manifest.h
+END
+extension_message_bundle_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/128424/trunk/src/chrome/common/extensions/extension_message_bundle_unittest.cc
+END
+extension_constants.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/134688/trunk/src/chrome/common/extensions/extension_constants.cc
+END
+extension_file_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/134115/trunk/src/chrome/common/extensions/extension_file_util.cc
+END
+extension_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/132065/trunk/src/chrome/common/extensions/extension_unittest.cc
+END
+url_pattern_set.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/108358/trunk/src/chrome/common/extensions/url_pattern_set.h
+END
+PRESUBMIT_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/126552/trunk/src/chrome/common/extensions/PRESUBMIT_test.py
+END
+simple_feature_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/130866/trunk/src/chrome/common/extensions/simple_feature_provider.h
+END
+manifest_feature.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/130771/trunk/src/chrome/common/extensions/manifest_feature.cc
+END
+extension_resource_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/133270/trunk/src/chrome/common/extensions/extension_resource_unittest.cc
+END
+extension_set.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/118077/trunk/src/chrome/common/extensions/extension_set.cc
+END
+extension_process_policy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/114710/trunk/src/chrome/common/extensions/extension_process_policy.cc
+END
+extension_set.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/118077/trunk/src/chrome/common/extensions/extension_set.h
+END
+csp_validator.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/112656/trunk/src/chrome/common/extensions/csp_validator.h
+END
+url_pattern.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/134843/trunk/src/chrome/common/extensions/url_pattern.cc
+END
+url_pattern.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/130363/trunk/src/chrome/common/extensions/url_pattern.h
+END
+user_script.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/132230/trunk/src/chrome/common/extensions/user_script.h
+END
+extension_error_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/114917/trunk/src/chrome/common/extensions/extension_error_utils.cc
+END
+extension_message_bundle.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/128424/trunk/src/chrome/common/extensions/extension_message_bundle.cc
+END
+update_manifest.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/72846/trunk/src/chrome/common/extensions/update_manifest.h
+END
+extension_test_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/104066/trunk/src/chrome/common/extensions/extension_test_util.h
+END
+extension_action.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/134097/trunk/src/chrome/common/extensions/extension_action.h
+END
+extension.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/134657/trunk/src/chrome/common/extensions/extension.h
+END
+file_browser_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/129112/trunk/src/chrome/common/extensions/file_browser_handler.cc
+END
+file_browser_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/129112/trunk/src/chrome/common/extensions/file_browser_handler.h
+END
+extension_set_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/118077/trunk/src/chrome/common/extensions/extension_set_unittest.cc
+END
+feature.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/133144/trunk/src/chrome/common/extensions/feature.cc
+END
+feature.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/132059/trunk/src/chrome/common/extensions/feature.h
+END
+url_pattern_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/130363/trunk/src/chrome/common/extensions/url_pattern_unittest.cc
+END
+extension_permission_set.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/134423/trunk/src/chrome/common/extensions/extension_permission_set.cc
+END
+extension_localization_peer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/114736/trunk/src/chrome/common/extensions/extension_localization_peer.cc
+END
+extension_icon_set.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/123391/trunk/src/chrome/common/extensions/extension_icon_set.cc
+END
+extension_icon_set.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/123391/trunk/src/chrome/common/extensions/extension_icon_set.h
+END
+extension_permission_set.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/134423/trunk/src/chrome/common/extensions/extension_permission_set.h
+END
+extension_localization_peer.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/114736/trunk/src/chrome/common/extensions/extension_localization_peer.h
+END
+extension_unpacker_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/128424/trunk/src/chrome/common/extensions/extension_unpacker_unittest.cc
+END
+extension_file_util_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/134115/trunk/src/chrome/common/extensions/extension_file_util_unittest.cc
+END
+extension_action_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/134097/trunk/src/chrome/common/extensions/extension_action_unittest.cc
+END
+extension_test_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/104066/trunk/src/chrome/common/extensions/extension_test_util.cc
+END
+update_manifest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/93110/trunk/src/chrome/common/extensions/update_manifest.cc
+END
+extension.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/134843/trunk/src/chrome/common/extensions/extension.cc
+END
+PRESUBMIT.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/126552/trunk/src/chrome/common/extensions/PRESUBMIT.py
+END
+manifest_feature.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/130771/trunk/src/chrome/common/extensions/manifest_feature.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/129544/trunk/src/chrome/common/extensions/OWNERS
+END
+feature_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/132059/trunk/src/chrome/common/extensions/feature_unittest.cc
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/130436/trunk/src/ppapi/native_client/tests/ppapi_example_font
+END
+nacl.scons
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/130436/trunk/src/ppapi/native_client/tests/ppapi_example_font/nacl.scons
+END
+ppapi_example_font.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/100755/trunk/src/ppapi/native_client/tests/ppapi_example_font/ppapi_example_font.html
+END

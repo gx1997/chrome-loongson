@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/124282/trunk/src/chrome/browser/feedback
+END
+feedback_data.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/119971/trunk/src/chrome/browser/feedback/feedback_data.cc
+END
+feedback_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/119971/trunk/src/chrome/browser/feedback/feedback_data.h
+END
+feedback_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/124282/trunk/src/chrome/browser/feedback/feedback_util.cc
+END
+feedback_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/119971/trunk/src/chrome/browser/feedback/feedback_util.h
+END

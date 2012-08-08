@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/134065/trunk/src/jingle/notifier/listener
+END
+push_notifications_subscribe_task.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/134065/trunk/src/jingle/notifier/listener/push_notifications_subscribe_task.cc
+END
+mediator_thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/78605/trunk/src/jingle/notifier/listener/mediator_thread.h
+END
+push_notifications_subscribe_task.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/110546/trunk/src/jingle/notifier/listener/push_notifications_subscribe_task.h
+END
+talk_mediator_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/90855/trunk/src/jingle/notifier/listener/talk_mediator_impl.cc
+END
+talk_mediator_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/110546/trunk/src/jingle/notifier/listener/talk_mediator_impl.h
+END
+mediator_thread_mock.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/78605/trunk/src/jingle/notifier/listener/mediator_thread_mock.cc
+END
+push_notifications_send_update_task_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/98551/trunk/src/jingle/notifier/listener/push_notifications_send_update_task_unittest.cc
+END
+push_notifications_send_update_task.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/119316/trunk/src/jingle/notifier/listener/push_notifications_send_update_task.cc
+END
+xml_element_util_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/79524/trunk/src/jingle/notifier/listener/xml_element_util_unittest.cc
+END
+xml_element_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/54355/trunk/src/jingle/notifier/listener/xml_element_util.cc
+END
+mediator_thread_mock.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/110546/trunk/src/jingle/notifier/listener/mediator_thread_mock.h
+END
+push_notifications_send_update_task.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/110546/trunk/src/jingle/notifier/listener/push_notifications_send_update_task.h
+END
+push_notifications_listen_task.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/100278/trunk/src/jingle/notifier/listener/push_notifications_listen_task.cc
+END
+xml_element_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/51216/trunk/src/jingle/notifier/listener/xml_element_util.h
+END
+push_notifications_listen_task.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/110546/trunk/src/jingle/notifier/listener/push_notifications_listen_task.h
+END
+mediator_thread_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/109811/trunk/src/jingle/notifier/listener/mediator_thread_impl.cc
+END
+mediator_thread_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/116748/trunk/src/jingle/notifier/listener/mediator_thread_impl.h
+END
+talk_mediator_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/82140/trunk/src/jingle/notifier/listener/talk_mediator_unittest.cc
+END
+talk_mediator.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/82140/trunk/src/jingle/notifier/listener/talk_mediator.h
+END
+notification_constants.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/78385/trunk/src/jingle/notifier/listener/notification_constants.cc
+END
+notification_defines.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/119316/trunk/src/jingle/notifier/listener/notification_defines.cc
+END
+notification_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/78385/trunk/src/jingle/notifier/listener/notification_constants.h
+END
+notification_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/119316/trunk/src/jingle/notifier/listener/notification_defines.h
+END
+push_notifications_subscribe_task_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/85088/trunk/src/jingle/notifier/listener/push_notifications_subscribe_task_unittest.cc
+END
+mediator_thread_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/124758/trunk/src/jingle/notifier/listener/mediator_thread_unittest.cc
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/134857/trunk/src/chrome/browser/resources/shared/js
+END
+cr.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/129247/trunk/src/chrome/browser/resources/shared/js/cr.js
+END
+jstemplate_compiled.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/118596/trunk/src/chrome/browser/resources/shared/js/jstemplate_compiled.js
+END
+load_time_data.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/134386/trunk/src/chrome/browser/resources/shared/js/load_time_data.js
+END
+media_common.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/84385/trunk/src/chrome/browser/resources/shared/js/media_common.js
+END
+i18n_template.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/70812/trunk/src/chrome/browser/resources/shared/js/i18n_template.js
+END
+parse_html_subset_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/45631/trunk/src/chrome/browser/resources/shared/js/parse_html_subset_test.html
+END
+local_strings_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/78762/trunk/src/chrome/browser/resources/shared/js/local_strings_test.html
+END
+cr_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/93854/trunk/src/chrome/browser/resources/shared/js/cr_test.html
+END
+event_tracker.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/90992/trunk/src/chrome/browser/resources/shared/js/event_tracker.js
+END
+i18n_template2.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/133296/trunk/src/chrome/browser/resources/shared/js/i18n_template2.js
+END
+util.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/129003/trunk/src/chrome/browser/resources/shared/js/util.js
+END
+i18n_process.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/85322/trunk/src/chrome/browser/resources/shared/js/i18n_process.js
+END
+local_strings.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/126344/trunk/src/chrome/browser/resources/shared/js/local_strings.js
+END
+parse_html_subset.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/134746/trunk/src/chrome/browser/resources/shared/js/parse_html_subset.js
+END

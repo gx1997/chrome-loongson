@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/133946/trunk/src/chrome/browser/media_gallery
+END
+media_device_notifications_window_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/133946/trunk/src/chrome/browser/media_gallery/media_device_notifications_window_win.cc
+END
+media_device_notifications_window_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/133946/trunk/src/chrome/browser/media_gallery/media_device_notifications_window_win.h
+END
+media_gallery_database_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/128219/trunk/src/chrome/browser/media_gallery/media_gallery_database_unittest.cc
+END
+media_gallery_database.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/128219/trunk/src/chrome/browser/media_gallery/media_gallery_database.cc
+END
+media_gallery_database.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/128219/trunk/src/chrome/browser/media_gallery/media_gallery_database.h
+END
+media_device_notifications_linux_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/133814/trunk/src/chrome/browser/media_gallery/media_device_notifications_linux_unittest.cc
+END
+media_gallery_database_types.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/128219/trunk/src/chrome/browser/media_gallery/media_gallery_database_types.cc
+END
+media_device_notifications_linux.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/132087/trunk/src/chrome/browser/media_gallery/media_device_notifications_linux.cc
+END
+media_gallery_database_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/128219/trunk/src/chrome/browser/media_gallery/media_gallery_database_types.h
+END
+media_device_notifications_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/132087/trunk/src/chrome/browser/media_gallery/media_device_notifications_linux.h
+END
+media_device_notifications_window_win_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/133946/trunk/src/chrome/browser/media_gallery/media_device_notifications_window_win_unittest.cc
+END

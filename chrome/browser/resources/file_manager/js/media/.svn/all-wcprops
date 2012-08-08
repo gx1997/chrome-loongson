@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/132558/trunk/src/chrome/browser/resources/file_manager/js/media
+END
+audio_player.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/128900/trunk/src/chrome/browser/resources/file_manager/js/media/audio_player.js
+END
+media_controls.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/128777/trunk/src/chrome/browser/resources/file_manager/js/media/media_controls.js
+END
+mediaplayer_scripts.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/132558/trunk/src/chrome/browser/resources/file_manager/js/media/mediaplayer_scripts.js
+END

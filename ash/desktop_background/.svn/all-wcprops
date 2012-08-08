@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/134310/trunk/src/ash/desktop_background
+END
+desktop_background_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/134310/trunk/src/ash/desktop_background/desktop_background_controller.cc
+END
+desktop_background_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/131806/trunk/src/ash/desktop_background/desktop_background_controller.h
+END
+desktop_background_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/133715/trunk/src/ash/desktop_background/desktop_background_view.cc
+END
+desktop_background_resources.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/133602/trunk/src/ash/desktop_background/desktop_background_resources.cc
+END
+desktop_background_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/131626/trunk/src/ash/desktop_background/desktop_background_view.h
+END
+desktop_background_resources.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/133602/trunk/src/ash/desktop_background/desktop_background_resources.h
+END

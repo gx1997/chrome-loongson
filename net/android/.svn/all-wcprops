@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/134396/trunk/src/net/android
+END
+network_library.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/133591/trunk/src/net/android/network_library.cc
+END
+network_change_notifier.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/133142/trunk/src/net/android/network_change_notifier.cc
+END
+network_library.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/133591/trunk/src/net/android/network_library.h
+END
+network_change_notifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/133142/trunk/src/net/android/network_change_notifier.h
+END
+network_change_notifier_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/133142/trunk/src/net/android/network_change_notifier_factory.cc
+END
+network_change_notifier_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/133142/trunk/src/net/android/network_change_notifier_factory.h
+END
+net_jni_registrar.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/134396/trunk/src/net/android/net_jni_registrar.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/133142/trunk/src/net/android/OWNERS
+END
+net_jni_registrar.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/134396/trunk/src/net/android/net_jni_registrar.h
+END
