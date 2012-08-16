@@ -21,6 +21,12 @@ if [ $? -ne 0 ]; then
   exit 0
 fi
 
+echo $file_out | grep -qs "MIPS"
+if [ $? -eq 0 ]; then
+  echo mips
+  exit 0
+fi 
+
 echo $file_out | grep -qs "ARM"
 if [ $? -eq 0 ]; then
   echo arm

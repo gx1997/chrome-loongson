@@ -45,6 +45,11 @@
         'host_plugin_extension': 'ia32.so',
         'host_plugin_prefix': 'lib',
       }],
+      ['os_posix == 1 and OS != "mac" and target_arch == "mips"', {
+        # linux 32 bit
+        'host_plugin_extension': 'mips.so',
+        'host_plugin_prefix': 'mips',
+      }],
       ['os_posix == 1 and OS != "mac" and target_arch == "x64"', {
         # linux 64 bit
         'host_plugin_extension': 'x64.so',

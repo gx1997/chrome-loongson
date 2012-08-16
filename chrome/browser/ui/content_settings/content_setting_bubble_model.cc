@@ -66,8 +66,8 @@ class ContentSettingTitleAndLinkModel : public ContentSettingBubbleModel {
      // Notifications do not have a bubble.
      DCHECK_NE(content_type, CONTENT_SETTINGS_TYPE_NOTIFICATIONS);
      SetBlockedResources();
-     SetTitle();
-     SetManageLink();
+     //SetTitle();
+     //SetManageLink();
   }
 
   virtual ~ContentSettingTitleAndLinkModel() {}
@@ -147,7 +147,7 @@ class ContentSettingTitleLinkAndCustomModel
                                         ContentSettingsType content_type)
       : ContentSettingTitleAndLinkModel(
             delegate, tab_contents, profile, content_type) {
-    SetCustomLink();
+    //SetCustomLink();
   }
 
   virtual ~ContentSettingTitleLinkAndCustomModel() {}
@@ -179,7 +179,7 @@ class ContentSettingSingleRadioGroup
                                               content_type),
         block_setting_(CONTENT_SETTING_BLOCK),
         selected_item_(0) {
-    SetRadioGroup();
+    //SetRadioGroup();
   }
 
   virtual ~ContentSettingSingleRadioGroup() {

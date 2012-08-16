@@ -444,9 +444,9 @@
             'base/cpu_features_x86.cc',
           ],
         }],
-        [ 'target_arch == "arm"', {
+        [ 'target_arch == "mips"', {
           'sources': [
-            'base/cpu_features_arm.cc',
+            'base/cpu_features_mips.cc',
           ],
         }],
       ],
@@ -469,9 +469,9 @@
             'yuv_convert_simd_x86',
           ],
         }],
-        [ 'target_arch == "arm"', {
+        [ 'target_arch == "mips"', {
           'dependencies': [
-            'yuv_convert_simd_arm',
+            'yuv_convert_simd_mips',
           ],
         }],
       ],
@@ -587,7 +587,7 @@
       ],
     },
     {
-      'target_name': 'yuv_convert_simd_arm',
+      'target_name': 'yuv_convert_simd_mips',
       'type': 'static_library',
       'include_dirs': [
         '..',
@@ -867,7 +867,7 @@
         },
       ],
     }],
-    ['OS == "linux" and target_arch != "arm"', {
+    ['OS == "linux" and target_arch != "mips"', {
       'targets': [
         {
           'target_name': 'tile_render_bench',

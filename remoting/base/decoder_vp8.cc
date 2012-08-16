@@ -27,8 +27,8 @@ DecoderVp8::DecoderVp8()
 
 DecoderVp8::~DecoderVp8() {
   if (codec_) {
-    vpx_codec_err_t ret = vpx_codec_destroy(codec_);
-    CHECK(ret == VPX_CODEC_OK) << "Failed to destroy codec";
+    //vpx_codec_err_t ret = vpx_codec_destroy(codec_);
+    //CHECK(ret == VPX_CODEC_OK) << "Failed to destroy codec";
   }
   delete codec_;
 }
@@ -43,6 +43,7 @@ void DecoderVp8::Initialize(const SkISize& screen_size) {
 Decoder::DecodeResult DecoderVp8::DecodePacket(const VideoPacket* packet) {
   DCHECK_EQ(kReady, state_);
 
+#if 0
   // Initialize the codec as needed.
   if (!codec_) {
     codec_ = new vpx_codec_ctx_t();
@@ -96,6 +97,7 @@ Decoder::DecodeResult DecoderVp8::DecodePacket(const VideoPacket* packet) {
   }
 
   updated_region_.op(region, SkRegion::kUnion_Op);
+#endif
   return DECODE_DONE;
 }
 

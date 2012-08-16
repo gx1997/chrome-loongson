@@ -80,7 +80,7 @@
             '../breakpad/breakpad.gyp:*',
             '../courgette/courgette.gyp:*',
             '../dbus/dbus.gyp:*',
-            '../sandbox/sandbox.gyp:*',
+            #'../sandbox/sandbox.gyp:*',
           ],
           'conditions': [
             ['branding=="Chrome"', {
@@ -111,7 +111,7 @@
             '../cloud_print/virtual_driver/virtual_driver.gyp:*',
             '../courgette/courgette.gyp:*',
             '../rlz/rlz.gyp:*',
-            '../sandbox/sandbox.gyp:*',
+            #'../sandbox/sandbox.gyp:*',
             '../third_party/angle/src/build_angle.gyp:*',
             '../third_party/bsdiff/bsdiff.gyp:*',
             '../third_party/bspatch/bspatch.gyp:*',
@@ -211,9 +211,9 @@
             '../chrome_frame/chrome_frame.gyp:chrome_frame_unittests',
             '../chrome_frame/chrome_frame.gyp:npchrome_frame',
             '../courgette/courgette.gyp:courgette_unittests',
-            '../sandbox/sandbox.gyp:sbox_integration_tests',
-            '../sandbox/sandbox.gyp:sbox_unittests',
-            '../sandbox/sandbox.gyp:sbox_validation_tests',
+            #'../sandbox/sandbox.gyp:sbox_integration_tests',
+            #'../sandbox/sandbox.gyp:sbox_unittests',
+            #'../sandbox/sandbox.gyp:sbox_validation_tests',
             '../webkit/webkit.gyp:pull_in_copy_TestNetscapePlugIn',
             '../ui/views/views.gyp:views_unittests',
             # TODO(nsylvain) ui_tests.exe depends on test_shell_common.

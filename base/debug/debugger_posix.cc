@@ -206,6 +206,8 @@ bool BeingDebugged() {
 // ARM && !ANDROID
 #define DEBUG_BREAK() asm("bkpt 0")
 #endif
+#elif defined(ARCH_CPU_MIPS_FAMILY)
+#define DEBUG_BREAK() asm("syscall")
 #else
 #define DEBUG_BREAK() asm("int3")
 #endif

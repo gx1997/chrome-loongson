@@ -1822,6 +1822,7 @@
         ],
         'cflags': [
           '<(werror)',  # See note above about the werror variable.
+          '-mips3',
           '-pthread',
           '-fno-exceptions',
           '-fno-strict-aliasing',  # See http://crbug.com/32204
@@ -1865,7 +1866,7 @@
             ],
             'cflags': [
               '-O>(debug_optimize)',
-              '-g',
+              #'-g',
             ],
             'conditions' : [
               ['OS=="android"', {

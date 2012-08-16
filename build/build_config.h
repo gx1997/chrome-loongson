@@ -100,6 +100,12 @@
 #define ARCH_CPU_32_BITS 1
 #define ARCH_CPU_LITTLE_ENDIAN 1
 #define WCHAR_T_IS_UNSIGNED 1
+#elif defined(__MIPSEL__) || defined(__MIPS__)
+#define ARCH_CPU_MIPS_FAMILY 1
+#define ARCH_CPU_MIPSEL 1
+#define ARCH_CPU_32_BITS 1
+#define ARCH_CPU_LITTLE_ENDIAN 1
+#define WCHAR_T_IS_UNSIGNED 1
 #elif defined(__pnacl__)
 #define ARCH_CPU_32_BITS 1
 #else

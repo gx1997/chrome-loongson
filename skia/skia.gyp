@@ -821,7 +821,7 @@
             '__ARM_HAVE_NEON',
           ],
         }],
-        [ 'target_arch == "arm"', {
+        [ 'target_arch == "mips"', {
           'sources!': [
             '../third_party/skia/src/opts/opts_check_SSE2.cpp'
           ],
@@ -1082,7 +1082,7 @@
         '../third_party/skia/src/core',
       ],
       'conditions': [
-        [ 'os_posix == 1 and OS != "mac" and OS != "android" and target_arch != "arm"', {
+        [ 'os_posix == 1 and OS != "mac" and OS != "android" and target_arch != "mips"', {
           'cflags': [
             '-msse2',
           ],
@@ -1092,7 +1092,7 @@
             'SK_BUILD_FOR_ANDROID_NDK',
           ],
         }],
-        [ 'target_arch != "arm"', {
+        [ 'target_arch != "mips"', {
           'sources': [
             '../third_party/skia/src/opts/SkBitmapProcState_opts_SSE2.cpp',
             '../third_party/skia/src/opts/SkBlitRect_opts_SSE2.cpp',
@@ -1134,9 +1134,9 @@
             '-fomit-frame-pointer',
           ],
           'sources': [
-            '../third_party/skia/src/opts/SkBitmapProcState_opts_arm.cpp',
-            '../third_party/skia/src/opts/SkBlitRow_opts_arm.cpp',
-            '../third_party/skia/src/opts/opts_check_arm.cpp',
+            '../third_party/skia/src/opts/SkBitmapProcState_opts_none.cpp',
+            '../third_party/skia/src/opts/SkBlitRow_opts_none.cpp',
+            '../third_party/skia/src/opts/opts_check_mips.cpp',
           ],
         }],
         [ 'armv7 == 1 and arm_neon == 0', {
@@ -1198,7 +1198,7 @@
             ],
           },
         }],
-        [ 'target_arch != "arm"', {
+        [ 'target_arch != "mips"', {
           'sources': [
             '../third_party/skia/src/opts/SkBitmapProcState_opts_SSSE3.cpp',
           ],
